@@ -1,0 +1,4216 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 28 Feb 2017 14:55:47 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: close
+Cache-Control: max-age=60
+Expires: Tue, 28 Feb 2017 14:55:26 GMT
+Access-Control-Allow-Origin: *
+
+ 
+
+<!DOCTYPE html>
+<html>
+<head> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               
+
+                   
+                                                                                                             
+                   
+                                     
+        
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta http-equiv="Content-Language" content="ru" />
+<meta charset="windows-1251" />
+<meta name="viewport" content="width=device-width">
+<script src="//static.gazeta.ru/nm2012/js/jquery/jquery-1.8.2.min.js"></script>
+<script src="//static.gazeta.ru/nm2012/js/jquery/jquery.cookie.js"></script>
+<script>
+window.ADBLOCK_DETECTED = true;
+</script>
+<script src="/nm2015/js/advert.js"></script>
+
+
+
+
+
+<link rel="canonical" href="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
+
+
+<link href="https://m.gazeta.ru/amp/army/2017/02/28/10549073.shtml" rel="amphtml" />
+
+
+<link rel="shortcut icon" href="//static.gazeta.ru/nm2012/i/favicon.ico" type="image/x-icon">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Serif:400,700&amp;subset=cyrillic-ext" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="//www.gazeta.ru/nm2015/css/common.v190.css" />
+<link rel="stylesheet" type="text/css" href="//www.gazeta.ru/nm2015/css/trash_css.v27.css" />
+<link rel="stylesheet" type="text/css" href="//www.gazeta.ru/nm2015/css/v2/headerstyle.v62.css" />
+<script src="/nm2015/js/main.v14.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/nm2015/css/common_2_v133.css" />
+<script src="//www.gazeta.ru/nm2015/js/jquery.resizeblock.js"></script>
+<script src="//www.gazeta.ru/nm2015/js/lib/media-match-master/media.match.min.js"></script>
+<script src="//www.gazeta.ru/nm2015/js/gazeta.media.query.js"></script>
+<script src="/nm2015/js/common.v163.js"></script>
+<script src="//www.gazeta.ru/nm2015/js/script.v44.js"></script>
+<script src="//www.gazeta.ru/nm2015/js/clean_mm_addition.js"></script>
+
+
+ <!--
+article
+-->
+<!-- place210549073,(none),,, -->  
+
+ 
+
+
+
+ <title> &laquo;Сплав&raquo; создал беспилотник, вылетающий из ракеты РСЗО «Смерч» - Газета.Ru </title>
+ <meta name="description" content="В России разработали беспилотник, вылетающий из головной части ракеты для системы залпового огня &laquo;Смерч&raquo;. В основе технологии, которая обсуждалась больше 10 лет назад, лежит идея создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, объяснил &laquo;Газете.Ru&raquo; эксперт. Ранее в рамках этой концепции был разработан тихоходный аппарат..." /> <meta property="og:description" content="В России разработали беспилотник, вылетающий из головной части ракеты для системы залпового огня &laquo;Смерч&raquo;. В основе технологии, которая обсуждалась больше 10 лет назад, лежит идея создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, объяснил &laquo;Газете.Ru&raquo; эксперт. Ранее в рамках этой концепции был разработан тихоходный аппарат..." /> <meta property="twitter:description" content="В России разработали беспилотник, вылетающий из головной части ракеты для системы залпового огня &laquo;Смерч&raquo;. В основе технологии, которая обсуждалась больше 10 лет назад, лежит идея создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, объяснил &laquo;Газете.Ru&raquo; эксперт. Ранее в рамках этой концепции был разработан тихоходный аппарат..." />
+<meta property="og:title" content="Русский дрон вылетит из &laquo;Смерча&raquo;" />
+<meta property="og:type" content="article" />   
+<meta property="fb:app_id" content="406317839387165" />
+<meta property="og:site_name" content="Газета.Ru"/>
+<meta property="og:url" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
+<meta property="og:image" content="https://img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic905-895x505-21230.jpg" /><link rel="image_src" href="https://img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic905-895x505-21230.jpg" /><meta property="og:image:width" content="895" /><meta property="og:image:height" content="505" /><meta property="twitter:image" content="https://img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic905-895x505-21230.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:title" content="Русский дрон вылетит из &laquo;Смерча&raquo;" />
+<meta property="twitter:site" content="@gazetaru" />
+<meta property="twitter:creator" content="@gazetaru" />
+<meta property="twitter:url" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
+<meta property="twitter:app:name:iphone" content="Газета.Ru" />
+<meta property="twitter:app:id:iphone" content="401707326" />
+<meta property="twitter:app:url:iphone" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
+<meta name="twitter:app:name:ipad" content="Газета.Ru HD" />
+<meta name="twitter:app:id:ipad" content="486481873" />
+<meta name="twitter:app:url:ipad" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
+<meta name="twitter:app:name:googleplay" content="Газета.Ru" />
+<meta name="twitter:app:id:googleplay" content="ru.ideast.gazeta" />
+<meta name="twitter:app:url:googleplay" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
+
+
+
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.gazeta.ru/army/2017/02/28/10549073.shtml" >
+
+
+<!--[if lt IE 9]><script src="https://static.gazeta.ru/nm2012/js/html5shiv.js"></script><![endif] -->
+<script type='text/javascript'>
+var crtg_nid = '4024';
+var crtg_cookiename = 'crtg_rta';
+var crtg_varname = 'crtg_content';
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);
+var crtg_rnd=Math.floor(Math.random()*99999999999);
+(function(){
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+crtg_url +='&cookieName='+escape(crtg_cookiename);
+crtg_url +='&rnd='+crtg_rnd;
+crtg_url +='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+})();
+</script>
+<script src="//ssp.rambler.ru/lpdid.js"></script>
+
+<script src="//ssp.rambler.ru/capirs.js" type="text/javascript"></script>
+
+<script src="//static.gazeta.ru/nm2012/js/adv/adfox.asyn.code.ver3.js"></script>
+<script src="//static.gazeta.ru/nm2012/js/adv/adfox.asyn.code.scroll.js"></script>
+<script>
+Adf.init.begun();
+</script>
+
+
+
+
+
+
+
+ <!--[if !IE]><! --><link rel="manifest" href="https://www.gazeta.ru/manifest.json"><!--<![endif] -->
+<!--[if !IE]><! --><script type="text/javascript" src="//cdn.pushwoosh.com/webpush/pushwoosh-web-notifications.js" async></script><!--<![endif] -->
+<!--[if !IE]><! -->
+<script type="text/javascript">
+var Pushwoosh = Pushwoosh || [];
+Pushwoosh.push(['init', {
+logLevel: 'info', // or debug
+applicationCode: '706C5-2CF06',
+safariWebsitePushID: 'UM246WFXVS',
+defaultNotificationTitle: decodeURIComponent("%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.Ru"),
+defaultNotificationImage: 'https://www.gazeta.ru/i/gazeta_og_image.jpg'
+}]);
+Pushwoosh.push(function(api) {
+//Subscribe for push notifications. The method is called automatically upon the first visit to the website, once the user allows notifications
+api.registerDevice();
+//Unregister from notifications
+api.unregisterDevice();
+});
+</script>
+<!--<![endif] --> 
+<link rel="stylesheet" type="text/css" href="/nm2015/css/article.v34.css" />
+<link rel="stylesheet" type="text/css" href="/nm2015/css/fullscreen.photo_v1.css" />
+<script src="/nm2015/js/fullscreen.photo.js"></script>
+<script src="https://static.gazeta.ru/nm2012/js/ellipsis.js"></script>
+<script src="https://static.gazeta.ru/nm2012/js/touch.js"></script>
+<link rel="stylesheet" type="text/css" href="/nm2015/css/media.v15.css"> <script src="//www.gazeta.ru/nm2015/js/num_page.v1.js"></script> 
+
+
+
+</head>
+<body attr="yo">
+<noindex>
+<div class="counters">
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;gazeta_all?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KJBSQR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KJBSQR');</script>
+<!-- End Google Tag Manager -->
+<!--Google Analitics-->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1268585-1']);
+_gaq.push(['_trackPageview']);
+/* Decrease bounce rate on first page */
+if (document.referrer.indexOf(location.hostname) < 0)
+setTimeout('_gaq.push([\'_trackEvent\', \'NoBounce\', \'Over 15 seconds\'])', 15000);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+//ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!--Google Analitics end-->
+<!-- Yandex.Metrika counter -->
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+<script type="text/javascript">
+try { var yaCounter230672 = new Ya.Metrika({id:230672,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true});
+} catch(e) { }
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/230672" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27775902 = new Ya.Metrika({id:27775902,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/27775902" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<noindex>
+
+
+
+<!-- tns-counter.ru -->
+<script language="JavaScript">
+var img = new Image();
+img.src = 'https://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*sup_ru/ru/CP1251/tmsec=gazeta_other/';
+</script>
+<noscript>
+<img src="https://www.tns-counter.ru/V13a****sup_ru/ru/CP1251/tmsec=gazeta_other/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+</noindex>
+
+
+<script>
+var _prum = [['id', '53bea6bdabe53df541e68fca'],
+['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+var s = document.getElementsByTagName('script')[0]
+, p = document.createElement('script');
+p.async = 'async';
+p.src = '//rum-static.pingdom.net/prum.min.js';
+s.parentNode.insertBefore(p, s);
+})();
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "10463284" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=10463284&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+</div>
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+<div id="fullscreen">
+
+<script type="text/javascript">
+Adf.banner.sspScroll('fullscreen', {
+'p1': 'bevlm',
+'p2': 'emiu',
+'pct': 'a',
+'pli': 'b',
+'plp': 'c',
+'pop': 'a',
+'puid6': 'OTHER',
+'puid10': 'NO',
+'puid15': 'ARTICLE',
+'puid18': '',
+
+'puid59': 'war_success',
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328860"
+});
+</script>
+
+</div>
+
+<div style="width: 100%; position:relative;" class="check-prehead-adv"><center>
+
+
+
+
+
+ 
+
+<div class="adv adv_720x90 banner" id="adv_720x90" style="background:transparent;box-shadow:none">
+<div id="billboard">
+
+<script type="text/javascript">
+Adf.banner.ssp('billboard', {
+'p1': 'beely',
+'p2': 'y',
+'pct': 'c',
+'puid6': 'OTHER',
+'puid10': 'NO',
+'puid15': 'ARTICLE',
+'puid18': '',
+
+'puid59': 'war_success',
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328854"
+});
+</script>
+
+</div>
+</div> 
+
+</center></div>
+
+<script>
+set_resizeblock_handler('.check-prehead-adv', function () {
+gazeta_on_scroll();
+});
+</script>
+</noindex>
+<header >
+
+<!-- new 3 -->
+<div class="subscribe_popup">
+<div id="subscribe_v2" class="email_sub_form">
+<h2>Подпишитесь на «Газету.Ru»</h2>
+<span class="sub_text">Самое актуальное и интересное на вашей электронной почте</span>
+<div class="email_line"></div>
+<div class="close_sub"></div>
+<form class="" onsubmit="set_pass_new(); return false;">
+<input id="register_login" name="login" type="text" placeholder="Ваш e-mail" class="email_sub_i_v2nput">
+<input type="button" onclick="set_pass_new()" value="подписаться" class="email_sub_btn">
+</form>
+</div>
+</div>
+<div class="header_begin"></div>
+<div class="header_stub">
+<div class="header_v2 i-css"> <div class="header_v2_top">
+<div class="nav_v2_currency b-currency header-fixed-hide-adv">
+
+<span class="currency"><a href="/business/quotes/" rel="nofollow"><img src="https://static.gazeta.ru/nm2012/i/quotes/finam_head.png" alt="Курсы валют"></a></span><a href="/business/quotes/" rel="nofollow"><span class="currency"><b>$</b> 58.18 (<span class="index_up">+0.079</span>)</span></a> <a href="/business/quotes/" rel="nofollow"><span class="currency"><b>&#8364;</b> 61.65 (<span class="index_up">+0.131</span>)</span></a>
+</div>
+<div class="b-social">
+<a rel="nofollow" href="#" title="Подписка по E-Mail" class="b-social-icon mail_i_v2" target="_blank"></a>
+<a rel="nofollow" href="/export_news.shtml" title="RSS" class="b-social-icon rss_i_v2" target="_self"></a>
+<a rel="nofollow" href="//www.youtube.com/user/gazetaru" title="Youtube" class="b-social-icon youtube_i_v2" target="_blank"></a>
+<a rel="nofollow" href="//telegram.me/gazetaru" title="Telegram" class="b-social-icon telegram_i_v2" target="_blank"></a>
+<a rel="nofollow" href="//www.facebook.com/gazeta.ru" title="Facebook" class="b-social-icon fb_i_v2" target="_blank"></a>
+<a rel="nofollow" href="//www.twitter.com/gazetaru" title="Twitter" class="b-social-icon tw_i_v2" target="_blank"></a>
+<a rel="nofollow" href="//vk.com/gazeta" title="ВКонтакте" class="b-social-icon vk_i_v2" target="_blank"></a>
+<a rel="nofollow" href="//www.odnoklassniki.ru/gazetaru" title="Одноклассники" class="b-social-icon ok_i_v2" target="_blank"></a>
+</div>
+<div class="weather_header_v2 weather">
+
+
+<div class="weather_header weather">
+<a rel="nofollow" href="http://weather.rambler.ru/v-moskve/" target="_blank" title="Сейчас в Москве +4 &#176;C, облачно
+Ветер Ю, 3 м/c
+Давление 743 мм рт. ст.
+Влажность воздуха 68%">
+<span class="city">Москва:</span>
+<img src="/nm2012/i/cloudy.svg" height="15">
+<span class="temp">+4&#176;C</span>
+</a>
+</div>
+
+
+</div>
+</div>
+<div class="header_v2_common" itemid="https://www.gazeta.ru/" itemscope itemtype="http://schema.org/WebSite">
+<meta itemprop="name" content="Газета.Ru" />
+<meta itemprop="image" content="https://www.gazeta.ru/nm2015/i/Logo_red_sqare_250.png" />
+<div class="header-logo">
+<a itemprop="url" href="https://www.gazeta.ru/" title="Газета.Ru" class="header-logo-link">
+<img src="//www.gazeta.ru/nm2015/i/logo_gazeta.svg" alt="Газета.Ru" class="header-logo-img">
+</a>
+</div>
+<div class="adv_main header_v2_common-adv header-fixed-hide-adv">
+<a href="/february-1917/" class="header_v2_common-adv-img" style="right: 20px;left: inherit;">
+<img src="/nm2015/i/feb1917/100let.png">
+</a>
+<!--
+<a href="/army/2017/02/17/10530707.shtml" class="header_v2_common-adv-img" >
+<img src="//img.gazeta.ru/files3/223/10231223/rockets.png">
+</a>
+<div class="header_v2_common-adv-intro" style="left:130px; width:160px;">
+<a href="/army/2017/02/17/10530707.shtml"> <span>США могут разместить в Европе ядерные ракеты</span>
+</a>
+</div>
+-->
+</div>
+<div class="adv_hide header_v2_common-adv header-fixed-hide-adv">
+<a href="/subjects/rif-sochi-2017.shtml" class="header_v2_common-adv-img" >
+<img src="//img.gazeta.ru/files3/355/10228355/medvedev3.jpg">
+</a>
+<div class="header_v2_common-adv-intro" style="left:px; width:160px;">
+<a href="/subjects/rif-sochi-2017.shtml"> <span></span>
+</a>
+</div>
+</div>
+</div>
+     
+
+       
+<nav itemscope itemtype="http://schema.org/BreadcrumbList" class="b-navbar">
+<div class="b-navbar-main">
+
+<a class="b-navbar-backbtn" href="/"></a>
+
+
+<div class="item"> <a href="/news/">Новости</a></div>
+ 
+<div class="item"> <a href="/politics/">Политика</a></div>
+ 
+<div class="item"> <a href="/business/">Бизнес</a></div>
+ 
+<div class="item"> <a href="/social/">Общество</a></div>
+ 
+<div class="item active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/army/">
+<span itemprop="name">Армия</span>
+<meta itemprop="position" content="1" />
+</a>
+</div>
+ 
+<div class="item"> <a href="/comments/">Мнения</a></div>
+ 
+<div class="item"> <a href="/culture/">Культура</a></div>
+ 
+<div class="item"> <a href="/science/">Наука</a></div>
+ 
+<div class="item"> <a href="/tech/">Технологии</a></div>
+ 
+<div class="item"> <a href="/auto/">Авто</a></div>
+ 
+<div class="item"> <a href="/lifestyle/">Стиль</a></div>
+ 
+<div class="item"> <a href="/sport/">Спорт</a></div>
+
+<div class="b-navbar-search">
+<div class="b-navbar-search-area">
+<form name="search" action="//www.gazeta.ru/search.shtml">
+<input type="text" name="text" placeholder="Поисковый запрос">
+<input type="submit" value="Найти &#8594;">
+<input name="p" value="search" class="hidden">
+<input name="how" value="pt" class="hidden">
+</form>
+</div>
+<div class="b-navbar-search-btn"></div>
+</div>
+<script>
+$('.b-navbar-search-btn').click(function(){
+if($('.b-navbar-search').hasClass('active')){
+$('.b-navbar-search').removeClass('active');
+$('.b-navbar-main').find('.item[active=1]').removeAttr('active').addClass('active');
+} else {
+$('.b-navbar-main').find('.item.active').attr('active', 1).removeClass('active');
+$('.b-navbar-search').addClass('active');
+}
+})
+</script>
+</div>
+
+<div class="b-navbar-secondary">
+<div class="b-navbar-mmbtns">
+<a rel="nofollow" href="/video/" title="Видео" class="icon video " ></a>
+
+<a rel="nofollow" href="/photo/" title="Фото" class="icon photo " ></a>
+
+</div>
+
+
+
+<div class="item">
+<a href="/army/military/">Вооруженные силы</a>
+</div>
+
+
+<div class="item">
+<a href="/army/hostilities/">Военные конфликты</a>
+</div>
+
+
+<div class="item active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/army/arms/">
+<span itemprop="name">Техника и оружие</span>
+<meta itemprop="position" content="2" />
+</a>
+</div>
+
+
+<div class="item">
+<a href="/army/aerospace/">Космическая безопасность</a>
+</div>
+
+
+<div class="item">
+<a href="/army/armsexport/">Экспорт вооружений</a>
+</div>
+
+
+
+</div>
+
+</nav>
+<div class="header_adv">
+
+<!--ADFOX START-->
+<!--gazetaru_new-->
+<!--Площадка: Gazeta.ru / * / *-->
+<!--Тип баннера: Без заданных размеров-->
+<!--Расположение: Шапка-->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=eaf&amp;ps=bsjf&amp;p2=exns&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<script>
+set_resizeblock_handler('.header_v2', function () {
+$('.header_stub').height( $(this).outerHeight() );
+});
+</script>
+<div class="row"><div id="adv_panel" class="full"><!-- U7724441 -->
+
+
+
+<!--ADFOX START-->
+<!--gazetaru_new-->
+<!--Площадка: Gazeta.ru / * / *-->
+<!--Тип баннера: Перетяжка 100%-->
+<!--Расположение: верх страницы 2-->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+(function(){
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=dzq&amp;ps=bsjf&amp;p2=y&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+})();
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+
+</div></div>
+<script>
+set_resizeblock_handler('#adv_panel', function () {
+if( $(this).height() )
+$(this).css('padding', '10px 5px 10px 5px');
+});
+</script>
+<div id="hide-layout" class="hide-layout"></div>
+<!-- h_g_end_2 -->
+</header>
+<main >
+<article class="main_article" itemscope itemtype="http://schema.org/Article">
+
+<div id="article_title" class="block" style="max-width: 1220px;">
+<div>
+
+<h2 class="h_1 mt5 mb10" itemprop="alternativeHeadline">Русский дрон вылетит из &laquo;Смерча&raquo;</h2>
+<h1 class="sub_header mt15 mb10" itemprop="headline">&laquo;Сплав&raquo; создал беспилотник, вылетающий из ракеты РСЗО «Смерч»</h1>
+<div class="article_auth mb5">
+
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+<span itemprop='author' itemscope itemtype='http://schema.org/Person' itemid='/gazeta/authors/maksim_solopov.shtml'><span itemprop='name'><a href='/gazeta/authors/maksim_solopov.shtml' itemprop='url'>Максим Солопов</a></span></span>, <span itemprop='author' itemscope itemtype='http://schema.org/Person' itemid='/gazeta/authors/mihail_hodarenok.shtml'><span itemprop='name'><a href='/gazeta/authors/mihail_hodarenok.shtml' itemprop='url'>Михаил Ходаренок</a></span></span>
+
+<time itemprop="datePublished" class="date_time" pubdate datetime="2017-02-28T14:49:46+04:00">28.02.2017, 14:49</time>
+<meta itemprop="dateModified" content="2017-02-28T15:04:24+04:00" />
+<link itemprop="publisher" href="https://www.gazeta.ru/#organization">
+<span itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+<link itemprop="url" href="https://img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic905-895x505-21230.jpg"/>
+<link itemprop="contentUrl" href="https://img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic905-895x505-21230.jpg"/>
+<meta itemprop="width" content="895">
+<meta itemprop="height" content="505">
+</span>
+<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="/army/2017/02/28/10549073.shtml"/>
+</div>
+</div>
+</div>
+<div id="full_screen">
+<div id="article_header" class="block">
+<div class="main_pic_in_block pd10">
+<!-- U7769873 --> 
+<div class="main_pick">
+<figure>
+<span>
+<img src=" //img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic905-895x505-21230.jpg" alt="" 
+data-fullimg=" //img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic4_zoom-1500x1500-44267.jpg"
+
+ >
+</span>
+
+<autor>Андрей Александров/РИА &laquo;Новости&raquo;</autor>
+
+</figure>
+
+</div>
+ </div>
+<div class="article_context">
+<p><span class="intro" itemprop="description">В России разработали беспилотник, вылетающий из головной части ракеты для системы залпового огня &laquo;Смерч&raquo;. В основе технологии, которая обсуждалась больше 10 лет назад, лежит идея создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, объяснил &laquo;Газете.Ru&raquo; эксперт. Ранее в рамках этой концепции был разработан тихоходный аппарат &laquo;Типчак&raquo;, запускаемый с катапульты, установленной на шасси.</span></p>
+</div>
+<div class="pu10 pd10 borderdown">
+
+
+
+
+
+<div class="article-share-name">
+<ul class="social-button-block">
+<li class="fb-share social-button"><a rel="nofollow" title="Поделиться в Facebook" href="//www.facebook.com/dialog/share?app_id=406317839387165&utm_source=fbsharing&utm_medium=social&href=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="fb_counter"></span></a></li>
+<li class="vk-share social-button"><a rel="nofollow" title="Поделиться в Vkontakte" href="//vk.com/share.php?utm_source=vksharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="vk_counter"></span></a></li>
+<li class="ok-share social-button"><a rel="nofollow" class="soc_ok" title="Поделиться в Одноклассники" href="//www.odnoklassniki.ru/dk?utm_source=oksharing&utm_medium=social&st.cmd=addShare&st.s=1&st._surl=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="ok_counter"></span></a></li>
+<li class="twi-share social-button"><a rel="nofollow" class="soc_twi" title="Поделиться в Twitter" href="//twitter.com/intent/tweet?via=gazetaru&utm_source=twsharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"></a></li>
+<li class="lj-share social-button"><a rel="nofollow" class="soc_lj" title="Поделиться в ЖЖ" href="//www.livejournal.com/update.bml?&event=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank" class="btn_soc_lj"></a></li>
+</ul>
+</div>
+
+<div id="share-anchor-top" style="position: relative; top: 0; left: 0;"></div>
+<div class="share-name-sticky">
+<div class="article-share-name">
+<ul class="social-button-block">
+<li class="fb-share social-button"><a rel="nofollow" title="Поделиться в Facebook" href="//www.facebook.com/dialog/share?app_id=406317839387165&utm_source=fbsharing&utm_medium=social&href=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="fb_counter"></span></a></li>
+<li class="vk-share social-button"><a rel="nofollow" title="Поделиться в Vkontakte" href="//vk.com/share.php?utm_source=vksharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="vk_counter"></span></a></li>
+<li class="ok-share social-button"><a rel="nofollow" class="soc_ok" title="Поделиться в Одноклассники" href="//www.odnoklassniki.ru/dk?utm_source=oksharing&utm_medium=social&st.cmd=addShare&st.s=1&st._surl=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="ok_counter"></span></a></li>
+<li class="twi-share social-button"><a rel="nofollow" class="soc_twi" title="Поделиться в Twitter" href="//twitter.com/intent/tweet?via=gazetaru&utm_source=twsharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"></a></li>
+<li class="lj-share social-button"><a rel="nofollow" class="soc_lj" title="Поделиться в ЖЖ" href="//www.livejournal.com/update.bml?&event=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank" class="btn_soc_lj"></a></li>
+</ul>
+</div>
+</div>
+
+
+</div>
+</div>
+<div id="small_screen">
+<div id="right" class="block">
+
+
+
+<div class="adv_news_240">
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="adv_240x400 banner">
+<center>
+<noindex>
+
+<script type="text/javascript">
+
+document.writeln('<div id="ban_240x400">');
+if ( ADBLOCK_DETECTED ) {
+document.write("<sty"+"le>.adv_240x400.banner{display:block!important;}</sty"+"le><scr"+"ipt type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></scr"+"ipt><div id='rtyyt' style='width:240px; height:400px;'></div><scr"+"ipt type='text/javascript'>Criteo.DisplayAcceptableAdIfAdblocked({'zoneid':444072,'containerid':'rtyyt','overrideZoneFloor':false});window.addEventListener('message',function(e){if(e.origin==(location.protocol=='https:'?'https://':'http://')+'cas.criteo.com'&&e.data=='passback-444072'){document.getElementById('rtyyt').style.display='none';}else{return;}},false);</scr"+"ipt>");
+} else {
+Adf.banner.ssp('ban_240x400', {
+'p1': 'beelv',
+'p2': 'emhk',
+'pct': 'c',
+'puid6': 'OTHER',
+'puid10': 'NO',
+'puid15': 'ARTICLE',
+'puid18': '',
+
+'puid49': 'right',
+'puid50': 'new',
+'puid59': 'war_success',
+'criteo': 'crslr240=1'
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328850"
+});
+}
+document.writeln('</div>');
+
+</script>
+
+</noindex></center></div>
+
+
+</div>
+
+
+
+<div class="mb20">
+
+<!-- U7762127 -->
+<div id="headlines" >
+
+
+
+
+
+
+
+
+<!-- U9580979 -->
+<noindex>
+<div id="adv_network_main_news">
+<div id="unit_86354"></div>
+</div>
+<script type="text/javascript" charset="utf-8">
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/86354.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+</script>
+</noindex>
+
+
+<!-- place 7737449,/nm2012/elements/modules/7737449.shtml,nm2015/v3/headlines, -->
+
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          
+                                                                                                                                                                                                
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               
+
+                   
+                                                                                                             
+                   
+                                           
+
+ 
+  
+
+
+
+
+
+
+
+
+
+  
+   
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ <section class=" tile_cent b-white sausage  hide_main_headlines" > <div class="tile_inner_size"> 
+<div class="sausage-header no-hover sausage-header-icon icon-maintheme no-border">
+Главное
+</div>
+<ul class="sausage-list sausage-list-maintheme mb20 ">
+
+
+
+    
+
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               
+
+                   
+                                                                                                             
+                   
+                                           
+ 
+ 
+ 
+ 
+
+ 
+
+
+<!-- alien id=9652853,url=/headlines/9652853.shtml,essence=news,place=nm2015/v3/headlines/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+
+
+<a href="/politics/news/2017/02/28/n_9736145.shtml" class="sausage-list-item-image">
+<img src=" //img.gazeta.ru/files3/899/10533899/RIAN_02808030.HR-pic265-265x150-20560.jpg" alt="">
+</a>
+<a href="/politics/news/2017/02/28/n_9736145.shtml">
+В ООН прокомментировали признание Россией паспортов ДНР и ЛНР
+</a>
+
+
+</li>    
+
+
+    
+
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               
+
+                   
+                                                                                                             
+                   
+                                           
+ 
+ 
+ 
+  
+ 
+
+
+<!-- alien id=9723917,url=/headlines/9723917.shtml,essence=news,place=nm2015/v3/headlines/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+
+<a href="/business/news/2017/02/28/n_9737033.shtml">
+В МИД России обвинили конгресс США в организации экономической блокады
+</a>
+
+</li>   
+
+
+    
+
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                          
+                   
+                                                                                                             
+                   
+                                           
+ 
+ 
+ 
+  
+ 
+
+
+<!-- alien id=9596969,url=/headlines/9596969.shtml,essence=news,place=nm2015/v3/headlines/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+
+<a href="/social/news/2017/02/28/n_9736475.shtml">
+Глава Верховного суда поддержал отмену «статьи Дадина»
+</a>
+
+</li>   
+
+
+    
+
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                          
+                   
+                                                                                                             
+                   
+                                           
+ 
+ 
+ 
+  
+ 
+
+
+<!-- alien id=9699551,url=/headlines/9699551.shtml,essence=news,place=nm2015/v3/headlines/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+
+<a href="/politics/news/2017/02/28/n_9738695.shtml">
+На Украине официально зарегистрировали партию Саакашвили
+</a>
+
+</li>   
+
+
+    
+
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               
+
+                   
+                                                                                                             
+                   
+                                           
+ 
+ 
+ 
+  
+ 
+
+
+<!-- alien id=9490307,url=/headlines/9490307.shtml,essence=news,place=nm2015/v3/headlines/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+
+<a href="/army/news/9737729.shtml">
+Путин заявил о готовности закрыть базу в Киргизии
+</a>
+
+</li>   
+
+
+  
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+<!-- alien id=,url=,essence=news,place=nm2015/v3/headlines/place,uho=,potok=articles --> 
+</ul>
+<div class="cf"></div> </div> </section>   
+
+
+
+
+
+<!-- подменяем блок рекламы на главное сегодня, если включен блокиратор рекламы -->
+<script>
+if($('#adv_network_main_news').length){
+set_resizeblock_handler('#adv_network_main_news', function () {
+if($('#unit_86354').is(':empty')){
+$('#headlines .headlin').show();
+} else {
+$('#headlines .headlin').hide();
+}
+});
+} else {
+$('#headlines .headlin').show();
+}
+</script>
+
+</div>
+
+
+</div>
+
+
+
+<noindex>
+
+
+
+
+<div class="banner">
+<div class="bgwhite adddecor adv_grey adv_action">
+
+
+<!--ADFOX START -->
+<!--gazetaru_new -->
+<!--Площадка: Gazeta.ru / * / * -->
+<!--Тип баннера: Блок Анонс -->
+<!--Расположение: Нестандарт -->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=eac&amp;ps=bsjf&amp;p2=exno&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+
+</div>
+</div>
+
+<div class="banner">
+<div id="unit_87353"></div>
+<script type="text/javascript" charset="utf-8">
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//smi2.ru/data/js/87353.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+</script>
+</div>
+
+
+
+
+
+<script type="text/javascript">
+(function (i, s, o, g, r, a, m) {
+i['RamblerExchangeObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments);
+}; a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', 'https://api.rnet.plus//Scripts/embed.min.js', 're');
+</script>
+
+<div class="banner">
+<div class="teaser-block" id="rnet_gazeta_vert10">
+<div class="teaser-block-header">&nbsp;</div>
+</div>
+<script type="text/javascript">
+re("https://api.rnet.plus/", [
+{ "blockId": 10, "elementId": "rnet_gazeta_vert10" }
+]);
+</script>
+</div>
+
+
+
+<div class="banner">
+<div class="bgwhite adddecor adv_grey">
+
+
+<!--ADFOX START -->
+<!--gazetaru_new -->
+<!--Площадка: Gazeta.ru / * / * -->
+<!--Тип баннера: Блок Анонс -->
+<!--Расположение: право -->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&amp;p2=exno&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+
+</div>
+</div>
+<!-- place 4858021,/nm2012/elements/modules/4858021.shtml,nm2015/v3/special, -->
+
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+   
+
+
+
+  
+ 
+
+ 
+
+
+
+ 
+<div class="b-white sausage mb20">
+<div class="sausage-header no-hover sausage-header-icon icon-readmore">
+Читайте также
+</div>
+<ul class="sausage-list mb20">
+
+
+  
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																									
+
+
+																																																						
+																																																																																																																																																																																																																																																																																																																																										
+																																																												
+																																																																																																																																									
+		
+				
+		
+		 
+ 
+  
+ 
+
+
+<!-- alien id=10505603,url=/tmp/10505603.shtml,essence=special,place=nm2015/v3/special/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+<a href="https://www.gazeta.ru/far_east/dalnevostochnyi_gektar_interaktivnaya_karta.shtml">
+Подать заявку на «дальневосточный гектар» с помощью карты «Газеты.Ru».
+</a>
+</li>
+
+  
+
+
+  
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																									
+
+
+																																																									
+																																																																																																																																																																																																																																																																																																																																										
+																																																												
+																																																																																																																																									
+		
+				
+		
+		 
+ 
+  
+ 
+
+
+<!-- alien id=10537361,url=/tmp/10537361.shtml,essence=special,place=nm2015/v3/special/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+<a href="https://www.gazeta.ru/prcom/2017/02/16/10529093.shtml">
+Инвестируем с умом! Куда и как вкладывать средства в условиях экономической неопределенности
+</a>
+</li>
+
+  
+
+
+  
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																									
+
+
+																																																									
+																																																																																																																																																																																																																																																																																																																																										
+																																																												
+																																																																																																																																									
+		
+				
+		
+		 
+ 
+  
+ 
+
+
+<!-- alien id=10538195,url=/tmp/10538195.shtml,essence=special,place=nm2015/v3/special/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+<a href="https://www.gazeta.ru/prcom/2017/02/16/10528067.shtml">
+Калашников и Арбидол. Американские ученые решили проверить российский противовирусный препарат
+</a>
+</li>
+
+  
+
+
+  
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+<!-- alien id=,url=,essence=special,place=nm2015/v3/special/place,uho=,potok=articles --> 
+
+
+  
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																									
+
+
+																																																									
+																																																																																																																																																																																																																																																																																																																																										
+																																																												
+																																																																																																																																									
+		
+				
+		
+		 
+ 
+  
+ 
+
+
+<!-- alien id=10524725,url=/tmp/10524725.shtml,essence=special,place=nm2015/v3/special/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+<a href="https://www.gazeta.ru/far_east/vsem_po_gektaru.shtml">
+«Дальневосточный гектар» идет в народ
+</a>
+</li>
+
+  
+
+
+  
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																									
+
+
+																																																						
+																																																																																																																																																																																																																																																																																																																																										
+																																																												
+																																																																																																																																									
+		
+				
+		
+		 
+ 
+  
+ 
+
+
+<!-- alien id=8158787,url=/tmp/8158787.shtml,essence=special,place=nm2015/v3/special/place,uho=,potok=articles --> 
+ 
+ 
+
+ 
+
+
+
+ <li class="sausage-list-item">
+<a href="https://www.gazeta.ru/far_east/na_dalnem_vostoke_rasschitali_gektary.shtml">
+Россияне получили более 4 тысяч бесплатных &laquo;дальневосточных гектаров&raquo;
+</a>
+</li>
+
+  
+</ul>
+<img src="https://ads.adfox.ru/224316/getCode?p1=bngvu&p2=v&pe=b&pfc=vepy&pfb=deiwu&pr=erqbkqy" style="position:absolute; z-index:-1;">
+<div class="cf"></div>
+</div>   
+ 
+<div class="banner">
+<div class="bgwhite adddecor adv_grey">
+<!--ADFOX START -->
+
+<!--gazetaru_new -->
+<!--Площадка: Gazeta.ru / * / * -->
+<!--Тип баннера: Блок Анонс -->
+<!--Расположение: центр -->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=eae&amp;ps=bsjf&amp;p2=exno&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+
+</div>
+</div>
+<div class="banner ">
+<div class="bgwhite adddecor adv_grey">
+
+<script>
+var is_gazeta_partners = 0;
+</script>
+
+<script>
+var is_gazeta_partners = 0;
+</script>
+
+
+
+<!--ADFOX START -->
+<!--gazetaru_new -->
+<!--Площадка: Gazeta.ru / * / * -->
+<!--Тип баннера: Партнерский блок -->
+<!--Расположение: право -->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&amp;p2=exnq&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+
+</div>
+</div>
+<div class="banner ">
+<div class="bgwhite adddecor adv_grey">
+
+<script>
+var is_gazeta_partners = 0;
+</script>
+
+<!--ADFOX START -->
+<!--gazetaru_new -->
+<!--Площадка: Gazeta.ru / * / * -->
+<!--Тип баннера: Партнерский блок -->
+<!--Расположение: центр -->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=eae&amp;ps=bsjf&amp;p2=exnq&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+</div>
+</div>
+<div class="banner ">
+<div class="bgwhite adddecor adv_grey">
+
+
+<!--ADFOX START -->
+<!--gazetaru_new -->
+<!--Площадка: Gazeta.ru / * / * -->
+<!--Тип баннера: Партнерский блок -->
+<!--Расположение: Нестандарт -->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=eac&amp;ps=bsjf&amp;p2=exnq&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+</div>
+</div>
+<div class="banner ">
+<div class="bgwhite adddecor adv_grey">
+
+<script>
+var is_gazeta_partners = 0;
+</script>
+
+<!--ADFOX START -->
+<!--gazetaru_new -->
+<!--Площадка: Gazeta.ru / * / * -->
+<!--Тип баннера: Партнерский блок -->
+<!--Расположение: лево -->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=eab&amp;ps=bsjf&amp;p2=exnq&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+</div>
+</div>
+
+<div class="banner ">
+<div class="bgwhite adddecor"><center>
+
+
+<div class="adv_news_300">
+<!--ADFOX START -->
+<div class="text-left" style="position: relative;"><center>
+<!--gazetaru_new -->
+<!--Площадка: Gazeta.ru / * / * -->
+<!--Тип баннера: 240x400js -->
+<!--Расположение: право -->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&amp;p2=exnl&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+</center></div>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+</div>
+
+
+</center></div>
+</div>
+<script>
+if (!ADBLOCK_DETECTED) {
+/*
+$('#right .js-adv-switcher, #news-right .js-adv-switcher').each(function(){
+if($(this).outerHeight(true)>0){
+$(this).removeClass('js-adv-switcher').addClass('mb20');
+}
+})
+*/
+}
+</script>
+</noindex>
+<div class="sticky_anchor_r"></div>
+<div id="sticky_r" class="vrez_r">
+<center>
+
+
+
+
+
+
+
+ 
+
+<noindex>
+
+<div class="adv_240x400 banner" style="width: 304px; ">
+<center> <div id="ban_240x400_2">
+
+<script type="text/javascript">
+Adf.banner.sspScroll('ban_240x400_2', {
+'p1': 'bmcwm',
+'p2': 'ewqs',
+'pct': 'a',
+'puid6': 'OTHER',
+'puid10': 'NO',
+'puid18': '',
+
+'puid59': 'war_success',
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328852"
+});
+</script>
+
+</div> </center></div>
+</noindex>
+
+
+
+
+</center>
+</div>
+
+</div>
+<script>
+/*
+set_resizeblock_handler('#right .banner', function () {
+if( $(this).height() )
+$(this).css('margin-bottom', '20px');
+});
+*/
+set_resizeblock_handler('#right .banner', function () {
+if( $(this).height() ) {
+$(this).addClass('mb20');
+if($(this).hasClass('js-adv-switcher')){
+$(this).removeClass('js-adv-switcher');
+}
+}
+});
+</script> <div id="article_body" itemprop="articleBody" class="block">
+<div class="article_context">
+<div class="article_text txt_1">
+<p>Тульское научно-производственное объединение &laquo;Сплав&raquo; (входит в госкорпорацию &laquo;Ростех&raquo;) разработало беспилотник, запускаемый в снаряде реактивной системы залпового огня &laquo;Смерч&raquo;, сообщил журналистам генеральный конструктор предприятия Николай Макаровец.</p>
+<p>&laquo;Идея беспилотника, зашитого в боевую часть &laquo;Смерча&raquo;, немолода. Технологически мы за свой счет провели такие работы. Надеемся, что у нас в ближайшее время появятся заказчики&raquo;, &mdash; цитирует Макаровца РИА &laquo;Новости&raquo;.</p>
+<p><span class="idea">Как уточняет агентство, разработка пока ориентирована на экспорт, поскольку в России, по словам директора предприятия, уже определены &laquo;структуры, которые обеспечивают применение беспилотников в интересах армии&raquo;.</span></p>
+<!--if expr="$server_name=/pg.gazeta.ru/" -->
+
+<div class="in-read"></div>
+<div id="in_read">
+
+<script type="text/javascript">
+Adf.banner.sspScroll('in_read', {
+'p1': 'bryhb',
+'p2': 'fcvb',
+'pct': 'a',
+'puid6': 'OTHER',
+'puid10': 'NO',
+'puid15': 'ARTICLE',
+'puid18': '',
+
+'puid59': 'war_success',
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328918"
+});
+</script>
+
+</div>
+
+<!--endif -->
+
+<!-- place 10545389,/army/2017/02/26/10545389.shtml,nm2015/v2/article/incut,incut1_link -->
+
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                                               
+
+                   
+                                                                                                             
+                   
+                                     
+        
+
+
+
+  
+ 
+
+ 
+
+
+
+ <div class="incut" > <aside>
+
+<article class="article">
+<a  href="/army/2017/02/26/10545389.shtml"> <img src=" //img.gazeta.ru/files3/395/10545395/shutterstock_463894259-pic410-410x230-43627.jpg" alt="Израиль начнет экспорт дронов с размахом крыла Boing 737" class="pic" />
+</a><h3><a  href="/army/2017/02/26/10545389.shtml">Россия гонится за израильскими дронами
+</a></h3><p class="intro">
+<a  href="/army/2017/02/26/10545389.shtml">На мировом рынке средневысотных беспилотников с большой продолжительностью полета появилась экспортная версия израильского Heron-TP. Пока в этой...&nbsp;<span class="arrow_read_more_shadow">&rarr;</span></a></p>
+
+<!--include virtual="/nm2012/ssi/errmsg_clear.shtml" -->  
+
+</article>
+</aside> </div>
+  
+<p>&laquo;Надо в нужное время разделить то, что мы называем боевой частью, надо выбросить беспилотник на парашюте, надо, чтобы он раскрыл крылья, запустился, полетел и передал информацию, &mdash; все это мы умеем делать&raquo;, &mdash; добавил конструктор.</p>
+<p>НПО &laquo;Сплав&raquo; &mdash; основной российский производитель реактивных систем залпового огня. Именно его специалистами были созданы РСЗО &laquo;Град&raquo;, &laquo;Ураган&raquo; и &laquo;Смерч&raquo;.</p>
+<p>Тема создания БЛА, который мог бы запускаться в головной части ракеты РСЗО &laquo;Смерч&raquo;, действительно хорошо известна. Об этом говорили еще более 10 лет назад, объяснил &laquo;Газете.Ru&raquo; главный редактор журнала &laquo;Беспилотная авиация&raquo; Денис Федутинов.</p>
+<p><span class="idea">&laquo;В основе лежит весьма интересная новаторская идея &mdash; создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, при этом с максимальным использованием штатных средств&raquo;, &mdash; уточнил эксперт.</span></p>
+<p>По его словам, такую схему предполагалось реализовать, в частности, при создании БЛА &laquo;Типчак&raquo;. В составе этого комплекса должны были быть два типа БЛА &mdash; тихоходный и высокоскоростной, однако реализован был только первый. В работах по беспилотнику участвовала компания «Эникс», затем КБ «Луч».</p>
+<p>&laquo;Типчак&raquo; &mdash; аппарат, специально предназначенный для взаимодействия с артиллерией и запускаемый с катапультной пусковой установки. По данным производителя (концерн &laquo;Вега&raquo;), этот комплекс включает в себя наземный пункт управления с антенной и операторской машинами, транспортно-пусковую машину с контейнерами для шести БЛА, а также машину технического обеспечения. &laquo;Для радиотехнической и химической разведки, ретрансляции и решения других задач в интересах различных силовых структур на борту ДПЛА может устанавливаться любое специальное оборудование массой до 14,5 кг&raquo;, &mdash; уточняется на сайте ОАО &laquo;Вега&raquo;. Диапазон скоростей этого дрона &mdash; 90&ndash;190 км/ч, высоты &mdash; 300&ndash;3000 м, размах крыла &mdash; 3,4 м, длина &mdash; 2,4 м.</p>
+
+<!-- place 10523801,/army/2017/02/13/10523801.shtml,nm2015/v2/article/incut,incut2_link -->
+
+
+
+
+
+
+
+
+
+                                          
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                                               
+
+                   
+                                                                                                             
+                   
+                                     
+        
+
+
+
+  
+ 
+
+ 
+
+
+
+ <div class="incut" > <aside>
+
+<article class="article">
+<a  href="/army/2017/02/13/10523801.shtml"> <img src=" //img.gazeta.ru/files3/825/10523825/RIAN_02302664.HR.ru-pic410-410x230-40966.jpg" alt="Украина поставит двигатели для российско-китайского тяжелого вертолета" class="pic" />
+</a><h3><a  href="/army/2017/02/13/10523801.shtml">Китай спасет двигатель Ми-26
+</a></h3><p class="intro">
+<a  href="/army/2017/02/13/10523801.shtml">Украинская компания &laquo;Мотор Сич&raquo; примет участие в российско-китайском проекте по созданию нового тяжелого вертолета на базе Ми-26. Это...&nbsp;<span class="arrow_read_more_shadow">&rarr;</span></a></p>
+
+<!--include virtual="/nm2012/ssi/errmsg_clear.shtml" -->  
+
+</article>
+</aside> </div>
+  
+<p>Штатная задача &laquo;Типчака&raquo; &mdash; поиск и распознавание объектов на расстояниях до 40 км от пункта управления круглосуточно при температурах от &ndash;40 до +50 &deg;C, рассказывал ранее директор &laquo;Луча&raquo; Михаил Шебакпольский. 4 сентября 2008 года гендиректор концерна &laquo;Вега&raquo; Владимир Верба сообщил, что концерн начинает поставку комплексов &laquo;Типчак&raquo; Вооруженным силам России и первые образцы поступят в войска до конца 2008 года.</p>
+<p>&laquo;Работы начинались во времена, когда тематике беспилотных систем уделялось даже не второстепенное, а третьестепенное внимание. Вероятно, поэтому ее реализация шла очень медленно и в результате так и не была доведена до завершения&raquo;, &mdash; рассказал Федутинов.</p>
+<p>Дальнобойная система &laquo;Смерч&raquo; (индекс Главного ракетно-артиллерийского управления &mdash; 9К58) предназначена для &laquo;поражения на дальних подступах любых групповых целей, уязвимыми элементами которых являются открытая и укрытая живая сила, небронированная, легкобронированная и бронированная техника мотопехотных и танковых рот, подразделений артиллерии, тактических ракет, зенитных комплексов и вертолетов на стоянках, разрушения командных пунктов, узлов связи и объектов военно-промышленной структуры&raquo;, уточняется на сайте компании &laquo;Сплав&raquo;.</p>
+<p><span class="idea">Отличительная особенность РСЗО &laquo;Смерч&raquo; &mdash; наличие системы автономной коррекции траектории полета ракеты, подчеркивает производитель.</span></p>
+<p>Существуют 300-миллиметровые снаряды для &laquo;Смерча&raquo; с осколочными, с кумулятивно-осколочными и самоприцеливающимися боевыми элементами в головной части, а также с отделяемой осколочно-фугасной и термобарической головными частями.</p>
+<p>Максимальная дальность стрельбы &laquo;Смерча&raquo; 800-килограммовыми снарядами составляет 90 км. 12 направляющих заряжаются транспортно-заряжающей машиной за 20 минут. Время перехода из боевого положения в походное &mdash; 3 минуты. Время залпа &mdash; 38 секунд. Время срочного оставления огневой позиции после стрельбы &mdash; 1 минута. Температурный диапазон боевого применения РС от &ndash;50 до +50 &deg;С. Расчет боевой машины &mdash; три человека, транспортно-заряжающей &mdash; два.</p>
+<p><span class="idea">Боевые машины для &laquo;Смерча&raquo; существуют на шасси белорусского автомобиля МАЗ-543А и чешского Тatra 816.</span></p>
+<p>На авиационно-космическом салоне МАКС-2007 впервые был продемонстрирован опытный образец боевой машины для установки &laquo;Смерч&raquo; с шестью направляющими, смонтированной на четырехосном полноприводном шасси семейства «КамАЗ», однако на сайте производителя по-прежнему указаны только две основные комплектации.</p>
+</div>
+</div>
+</div>
+</div> <div id="article_pants">
+<div class="social_inside">
+
+
+
+
+
+
+<div class="pu10 pd10 borderup borderdown">
+
+<div class="last_comment right but button_give_comments" style="min-width:0;"><rambler-comments-count xid="10549073"></rambler-comments-count></div>
+
+<div class="article-share-name">
+<ul class="social-button-block">
+<li class="fb-share social-button"><a rel="nofollow" title="Поделиться в Facebook" href="//www.facebook.com/dialog/share?app_id=406317839387165&utm_source=fbsharing&utm_medium=social&href=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="fb_counter"></span></a></li>
+<li class="vk-share social-button"><a rel="nofollow" title="Поделиться в Vkontakte" href="//vk.com/share.php?utm_source=vksharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="vk_counter"></span></a></li>
+<li class="ok-share social-button"><a rel="nofollow" class="soc_ok" title="Поделиться в Одноклассники" href="//www.odnoklassniki.ru/dk?utm_source=oksharing&utm_medium=social&st.cmd=addShare&st.s=1&st._surl=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="ok_counter"></span></a></li>
+<li class="twi-share social-button"><a rel="nofollow" class="soc_twi" title="Поделиться в Twitter" href="//twitter.com/intent/tweet?via=gazetaru&utm_source=twsharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"></a></li>
+<li class="lj-share social-button"><a rel="nofollow" class="soc_lj" title="Поделиться в ЖЖ" href="//www.livejournal.com/update.bml?&event=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank" class="btn_soc_lj"></a></li>
+</ul>
+</div>
+
+<script src="https://comments.rambler.ru/widget/v2/sdk.js" async="async"></script>
+<div id="my_comments" class="rambler-comments"></div>
+
+</div>
+<script>
+
+$(document).ready(function(){
+// 
+if(location.hash == "#comments"){
+
+
+
+rambler_comments('load', {
+xid:"10549073",
+appId: 3
+});
+
+
+$('.rambler-comments').show();
+$('.button_give_comments').hide();
+var destination = $('#comments').offset().top;
+$('body').animate( { scrollTop: destination }, 1100 );
+
+}else{
+
+
+
+url = "https://c-champ.rambler.ru/api/app/3/comments-count";
+$.ajax({
+url: url+'?xid=10549073'
+})
+.done(function(data){
+var comm = data.xids["10549073"];
+change_word(comm);
+})
+function change_word(count){
+if (count>0){
+var word = '<span><div class="iev">'+count+'</div></span>';
+if(count % 100 <= 4 || count % 100 > 20){
+if (count % 10 == 1){ word = '<span><div class="ii">'+count+'</div></span>';}
+if (count % 10 > 1 && count % 10 < 5) word = '<span><div class="ija">'+count+'</div></span>';
+}
+}else{
+word = '<div class="empty_comment"></div>';
+}
+$('rambler-comments-count').html(word);
+}
+
+setTimeout(function(){
+if($('rambler-comments-count div.empty_comment')){
+clean_mm_addition();
+}
+}, 100);
+
+
+}
+});
+
+$('.button_give_comments').on('click', function() {
+location.hash = "comments";
+
+
+
+<!-- Код инициализации виджета -->
+window.RamblerComments = window.RamblerComments || [];
+window.RamblerComments.push(function () {
+var container = document.getElementById('my_comments');
+window.RamblerComments.buildWidget('Comments', container, {
+appId: 3,
+xid: "10549073"
+}).then(function (widget) {
+// В этот момент виджет уже загружен и отрисован на вашей странице
+});
+});
+
+
+
+$('.rambler-comments').show();
+$(this).hide();
+var destination = $('#comments').offset().top;
+$('body').animate( { scrollTop: destination }, 1100 );
+});
+</script>
+
+<!-- U8046893 -->
+<noindex>
+
+<div class="row">
+<div class="small-12 columns">
+<div class="media100_600 md10">
+
+
+
+
+ 
+<div class="adv_adsmart">
+<div align="center"> <div id="ban_100x240">
+
+<script type="text/javascript">
+Adf.banner.sspScroll('ban_100x240', {
+'p1': 'bsfjc',
+'p2': 'fcuz',
+'pct': 'a',
+'puid6': 'OTHER',
+'puid10': 'NO',
+'puid15': 'ARTICLE',
+'puid18': '',
+
+'puid59': 'war_success',
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328848"
+});
+</script>
+
+</div> </div>
+</div>
+
+ 
+
+
+</div>
+</div>
+</div>
+</noindex>
+
+<noindex>
+
+
+
+
+
+
+
+<section>
+<div class="b-white sausage sausage-pants mb20">
+<div class="sausage-header no-hover sausage-header-pants icon-topnews mb10">
+Выбор читателей
+</div>
+<ul class="sausage-list sausage-list-pants mb20 s-utm-links-readers-choose">  
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          
+                   
+                                                                                            
+                 
+                   
+                                            
+ 
+
+
+ 
+
+
+
+ 
+<li class="sausage-list-item">
+<a href="/auto/news/2017/02/27/n_9735311.shtml">
+<span class="sausage-list-item-info comments">
+<span class="comments-quantity">155394</span>
+&nbsp;просмотра
+</span>
+Друг семьи Николая Караченцова рассказал о подробностях аварии
+&nbsp;<span class="i-link-arrow">
+</a>
+</li>
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          
+                   
+                                                                                            
+                 
+                   
+                                            
+ 
+ 
+ 
+
+
+
+ 
+<li class="sausage-list-item">
+<a href="/sport/news/2017/02/28/n_9736709.shtml">
+<span class="sausage-list-item-info comments">
+<span class="comments-quantity">101280</span>
+&nbsp;просмотров
+</span>
+Стала известна причина смерти легендарного хоккеиста Владимира Петрова
+&nbsp;<span class="i-link-arrow">
+</a>
+</li>
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          
+                   
+                                                                                                             
+                   
+                                            
+ 
+ 
+ 
+
+
+
+ 
+<li class="sausage-list-item">
+<a href="/politics/news/2017/02/28/n_9736145.shtml">
+<span class="sausage-list-item-info comments">
+<span class="comments-quantity">79880</span>
+&nbsp;просмотров
+</span>
+В ООН прокомментировали признание Россией паспортов ДНР и ЛНР
+&nbsp;<span class="i-link-arrow">
+</a>
+</li>
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          
+                   
+                                                                                                             
+                   
+                                            
+ 
+ 
+ 
+
+
+
+ 
+<li class="sausage-list-item">
+<a href="/auto/news/2017/02/28/n_9735827.shtml">
+<span class="sausage-list-item-info comments">
+<span class="comments-quantity">51004</span>
+&nbsp;просмотра
+</span>
+Появилось видео с места ДТП с участием Николая Караченцова
+&nbsp;<span class="i-link-arrow">
+</a>
+</li>
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          
+                   
+                                                                                                             
+                   
+                                            
+ 
+ 
+ 
+
+
+
+ 
+<li class="sausage-list-item">
+<a href="/politics/news/2017/02/27/n_9733973.shtml">
+<span class="sausage-list-item-info comments">
+<span class="comments-quantity">42646</span>
+&nbsp;просмотров
+</span>
+Депутат Рады: Крым должны были передать США
+&nbsp;<span class="i-link-arrow">
+</a>
+</li>
+</ul>
+<div class="cf"></div>
+</div>
+</section>
+
+
+<script src="/nm2015/js/noindex/add_utm_links.js" type="text/javascript"></script>
+
+
+<script>
+var objClass = 's-utm-links-readers-choose';
+var utmString = 'utm_source=gazeta-top-article&utm_medium=news_readable&utm_campaign=desktop';
+addUtmLinks(objClass, utmString);
+</script>
+
+<div style="width: 100%; margin-top:20px; height: 21px; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAABlBMVEX////AwMCU81DAAAAAAXRSTlMAQObYZgAAAA1JREFUeAFjgAJGCmkAAWgACdu98y0AAAAASUVORK5CYII=')"></div>
+<script src="//static.smi2.net/static/mediametrics/mediametrics.1.1.js"></script>
+<div id="mediametrics">
+<div class="wrap">
+<img class="logo" src="//static.smi2.net/srcimg/2780020.png" alt="" />
+<div id="mediametrics-content"></div>
+</div>
+</div>
+<script>
+mediametrics.Dao.getArticles(3, function (payload) {
+var dom = mediametrics.Dom;
+var parent = dom.getElement('mediametrics-content');
+for (var i = 0, len = payload.length; i < len; i++) {
+var model = payload[i];
+dom.appendChild(parent, dom.createDom('div', 'item', [
+dom.createDom('a', {
+'href': model['link'],
+'target': '_blank'
+}, dom.createDom('img', {
+'class': 'image',
+'src': model['image']
+})),
+dom.createDom('a', {
+'href': model['link'],
+'class': 'title',
+'target': '_blank'
+}, model['title'].replace(new RegExp('&quot;', 'g'), '"'))
+]));
+}
+});
+</script>
+<div id="unit_84238"></div>
+<script type="text/javascript" charset="utf-8">
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//news.smi2.ru/data/js/84238.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+</script>
+
+<!-- U7761359 -->
+
+
+<div id="context3" class="pos_rel ">
+<script type="text/javascript">
+Adf.banner.sspScroll('context3', {
+'p1': 'bukpe',
+'p2': 'ewzc',
+'puid6': 'OTHER',
+'puid15': 'ARTICLE',
+
+'puid59': 'war_success',
+'pct': 'a'
+},{
+'begun-auto-pad': "432328744",
+'begun-block-id': "432328856"
+});
+
+</script>
+</div>
+
+
+
+
+ 
+<!-- U9586049 -->
+<noindex>
+<div id="unit_84237"></div>
+<script type="text/javascript" charset="utf-8">
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//news.net.finam.ru/data/js/84237.js'; sc.charset = 'utf-8';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+</script>
+</noindex>
+
+
+<!-- Rambler News goriz 3 tizer -->
+<div class="teaser-block" id="rnet_gazeta_gor7">
+<div class="teaser-block-header">&nbsp;</div>
+</div>
+<script type="text/javascript">
+re("https://api.rnet.plus/", [
+{ "blockId": 7, "elementId": "rnet_gazeta_gor7" }
+]);
+</script>
+<!-- /end Rambler News -->
+
+
+
+
+</noindex>
+
+<div id="subscribe" class="mu20 pu20 pd20 pl20 pr20 bggrey">
+<h2>Самое актуальное и интересное на ваш e-mail. Подпишитесь на «Газету.Ru»</h2>
+<form class="mu20" onsubmit="set_pass(); return false;">
+<input id="register_login_old" name="login" type="text" placeholder="E-mail"/>
+<input type="button" onclick="set_pass()" value="подписаться"/>
+</form>
+<img src="https://ads.adfox.ru/224316/getCode?p1=bngvu&p2=v&pe=b&pfc=zstg&pfb=crpzf&pr=epxciea" height="1" width="1"/>
+</div>
+<script>
+function str_rand() {
+var result = '';
+var words = '0123456789qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM';
+var max_position = words.length - 1;
+for( i = 0; i < 10; ++i ) {
+position = Math.floor ( Math.random() * max_position );
+result = result + words.substring(position, position + 1);
+}
+return result;
+}
+function set_pass() {
+login = $('#register_login_old').val();
+json_val = 1;
+value_pass = str_rand();
+value_pass2 = value_pass;
+host = location.host;
+page_param = "note";
+$.ajax({
+type: "POST",
+url: "//"+host+"/subscribe/_register",
+data: "login="+login+"&password="+value_pass+"&password2="+value_pass2+"&json="+json_val+"&page_param="+page_param,
+dataType: 'json',
+success: function(items) {
+json = items;
+if (login == ''){
+$('form input[id="register_login"]').css('border','1px solid #af242c');
+return false;
+} else if (json.msg == "bad_email"){
+$('form input[id="register_login"]').css('border','1px solid #af242c');
+alert('Вы указали некорректный E-mail');
+return false;
+} else if (json.ok != 0){
+$('#subscribe').html('');
+$('#subscribe').html('<h2>Спасибо! Мы отправили вам письмо для подтверждения.</h2>');
+alert('Спасибо! Мы отправили вам письмо для подтверждения.');
+} else {
+$('#subscribe').html('');
+$('#subscribe').html('<h2>Вы уже получаете нашу рассылку. Оставайтесь с нами!</h2>');
+alert('Вы уже получаете нашу рассылку. Оставайтесь с нами!');
+}
+}
+});
+return false;
+}
+</script>
+
+
+</div>
+
+<noindex>
+</noindex>
+
+</div>
+</div>
+</div>
+<script>
+$('#right').on('resizeblock', function () {
+$('#full_screen').css('min-height',$('#right').height()-$(".onlineboard").height()-$(".sport-navbar").height()-20-$("#article_title").height())
+});
+var smsmsm=document.querySelectorAll('.article_warning a');
+for(p=0;p<smsmsm.length;++p){
+smsmsm[p].onclick=function(){
+tmp=document.querySelectorAll('f');
+for(e=0;e<tmp.length;++e){
+$(tmp[e]).removeClass('active');
+if (tmp[e].parentNode.innerHTML.indexOf(this.getAttribute('href').slice(1))>-1){
+$(tmp[e]).addClass('active');
+}
+}
+if(this.getAttribute('href').indexOf("1")>-1){
+$.get( "https://ads.adfox.ru/171817/getCode?p1=bissk&p2=v&ptrc=b&pfc=bihjn&pfb=dwvxw&puid1=&puid2=&puid3=&puid4=&puid5=&puid6=&puid7=&puid8=&puid9=&puid10=&puid11=&puid12=&puid13=&puid14=&puid15=&puid16=&puid17=&puid18=&puid19=&puid20=&puid21=&puid22=&puid23=&puid24=&puid25=&puid26=&puid27=&puid28=&puid29=&puid30=&puid31=&puid32=&puid33=&puid34=&puid35=&puid36=&puid37=&puid38=&puid39=&puid40=&puid41=&puid42=&puid43=&puid44=&puid45=&puid46=&puid47=&puid48=&puid49=&puid50=&puid51=&puid52=&puid53=&puid54=&puid55=&puid56=&puid57=&puid58=&puid59=&puid63=&pr=etxhqno", function( data ) {
+});
+}
+else if(this.getAttribute('href').indexOf("2")>-1){
+$.get( "https://ads.adfox.ru/171817/getCode?p1=bissk&p2=v&ptrc=b&pfc=bihjn&pfb=dwvye&puid1=&puid2=&puid3=&puid4=&puid5=&puid6=&puid7=&puid8=&puid9=&puid10=&puid11=&puid12=&puid13=&puid14=&puid15=&puid16=&puid17=&puid18=&puid19=&puid20=&puid21=&puid22=&puid23=&puid24=&puid25=&puid26=&puid27=&puid28=&puid29=&puid30=&puid31=&puid32=&puid33=&puid34=&puid35=&puid36=&puid37=&puid38=&puid39=&puid40=&puid41=&puid42=&puid43=&puid44=&puid45=&puid46=&puid47=&puid48=&puid49=&puid50=&puid51=&puid52=&puid53=&puid54=&puid55=&puid56=&puid57=&puid58=&puid59=&puid63=&pr=etxhqnr", function( data ) {
+});
+}
+else{
+$.get( "https://ads.adfox.ru/171817/getCode?p1=bissk&p2=v&ptrc=b&pfc=bihjn&pfb=dwvyj&puid1=&puid2=&puid3=&puid4=&puid5=&puid6=&puid7=&puid8=&puid9=&puid10=&puid11=&puid12=&puid13=&puid14=&puid15=&puid16=&puid17=&puid18=&puid19=&puid20=&puid21=&puid22=&puid23=&puid24=&puid25=&puid26=&puid27=&puid28=&puid29=&puid30=&puid31=&puid32=&puid33=&puid34=&puid35=&puid36=&puid37=&puid38=&puid39=&puid40=&puid41=&puid42=&puid43=&puid44=&puid45=&puid46=&puid47=&puid48=&puid49=&puid50=&puid51=&puid52=&puid53=&puid54=&puid55=&puid56=&puid57=&puid58=&puid59=&puid63=&pr=etxhqnt", function( data ) {
+});
+}
+}
+}
+// #RAMBLER_KASSA
+function checkRamblerKassaBlocks(){
+var $rightCol = $('#right'),
+rightColHeight = $rightCol.outerHeight(true),
+rightColTop = $rightCol.offset().top,
+rightColEnd = rightColHeight+rightColTop,
+$bRamblerKassa = $('.b-ramblerkassa');
+$bRamblerKassa.each(function(){
+if($(this).hasClass('gum')){
+var position = $(this).offset().top,
+short = $(this).hasClass('short');
+if(position>rightColEnd){
+$(this).removeClass('short');
+} else {
+$(this).addClass('short');
+}
+}
+})
+}
+set_resizeblock_handler('#right .banner', function () {
+if( $(this).height() ){
+checkRamblerKassaBlocks();
+}
+});
+checkRamblerKassaBlocks();
+// #END--RAMBLER_KASSA
+</script>
+</article>
+</main>
+<footer >
+<div class="footer_mark"></div>
+<div class="b-navbar m-navbar_level1">
+<ul>
+<li><a rel="nofollow" href="/history.shtml" class="stripe">Архив</a></li>
+<li><a rel="nofollow" href="/about/" class="stripe">Редакция</a></li>
+<li><a rel="nofollow" href="/feedback/" class="stripe">Обратная связь</a></li>
+<li><a rel="nofollow" href="/infographics/" class="stripe">Инфографика</a></li>
+<li><a rel="nofollow" href="/sitemap.shtml" class="stripe">Карта сайта</a></li>
+<li><a rel="nofollow" href="/conference/" class="stripe">Онлайн-конференции</a></li>
+<li><a rel="nofollow" href="/adbook/" class="stripe">Реклама</a></li>
+<li><a href="//m.gazeta.ru/army/2017/02/28/10549073.shtml" class="stripe">Мобильная версия</a></li>
+</ul>
+</div>
+<div class="bottom_logo" itemscope itemtype="http://schema.org/ImageObject" itemid="https://www.gazeta.ru/#gazetaLogo">
+<link itemprop="url" href="https://www.gazeta.ru/nm2015/i/389x60.png" />
+<a href="/" title="Газета.Ru"><img itemprop="contentUrl" src="https://www.gazeta.ru/nm2015/i/logo_gazeta.svg" width="240"></a>
+<span>18+</span>
+</div>
+<div class="bottom_icons">
+<a rel="nofollow" href="//www.facebook.com/gazeta.ru" title="Facebook" class="fb_i" target="_blank"></a>
+<a rel="nofollow" href="//www.twitter.com/gazetaru" title="Twitter" class="tw_i" target="_blank"></a>
+<a rel="nofollow" href="//vk.com/gazeta" title="ВКонтакте" class="vk_i" target="_blank"></a>
+<a rel="nofollow" href="//plus.google.com/b/105541962280031022515/105541962280031022515/posts" title="Google+" class="gp_i" target="_blank"></a>
+<a rel="nofollow" href="//www.odnoklassniki.ru/gazetaru" title="Одноклассники" class="ok_i" target="_blank"></a>
+<a rel="nofollow" href="//www.youtube.com/user/gazetaru" title="Youtube" class="yt_i" target="_blank"></a>
+<a rel="nofollow" href="//lj.gazeta.ru/" title="LiveJournal" class="lj_i" target="_blank"></a>
+</div>
+<ul class="bottom_partners">
+<li><a rel="nofollow" target="_blank" href="//thomsonreuters.com/products_services/media/brand_guidelines/legal_notice/"><img src="//static.gazeta.ru/nm2012/i/reuters_a2.png">Информация об&nbsp;ограничениях</a></li>
+<li><a rel="nofollow" target="_blank" href="//www.1prime.ru"><img style="position: relative;top: 4px;" src="//gazeta.ru/nm2015/i/prime_logo2.png">Информация об&nbsp;ограничениях</a></li>
+<li><a rel="nofollow" target="_blank" href="/interfax.shtml"><img src="//static.gazeta.ru/nm2012/i/interfax_a2.png">Информация об&nbsp;ограничениях</a></li>
+<li><a rel="nofollow" target="_blank" href="//ria.ru/docs/about/copyright.html"><img src="/nm2015/i/ria.png">Информация об&nbsp;ограничениях</a></li>
+<li><a rel="nofollow" target="_blank" href="//tass.ru/pravila-citirovaniya"><img src="//static.gazeta.ru/nm2012/i/it_a3.png">Информация об&nbsp;ограничениях</a></li>
+<li><a rel="nofollow" target="_blank" href="/responsibility.shtml"><img src="//static.gazeta.ru/nm2012/i/lj_a2.png">Отказ от&nbsp;ответственности</a></li>
+</ul>
+<div class="bottom_info" itemid="https://www.gazeta.ru/#organization" itemscope itemtype="http://schema.org/Organization">
+<link itemprop="url" href="https://www.gazeta.ru/" />
+<link itemprop="logo" href="https://www.gazeta.ru/#gazetaLogo">
+<p class="pb10">&copy; АО &laquo;Газета.Ру&raquo; (1999-2017) - Главные новости дня</p>
+<p>Учредитель: <span itemprop="name">АО &laquo;Газета.Ру&raquo;</span></p>
+<p>Адрес учредителя: 125239, Россия, Москва, Коптевская улица, дом 67</p>
+<p>Адрес редакции и издателя: 117105, г. Москва, Варшавское шоссе, д.9, стр.1Б</p>
+<p>Телефон редакции: +7 (495) 785-00-12 | Факс: +7 (495) 785-17-01</p>
+<link itemprop="sameAs" href="https://www.facebook.com/gazeta.ru" />
+<link itemprop="sameAs" href="https://twitter.com/gazetaru" />
+<link itemprop="sameAs" href="https://vk.com/gazeta" />
+<link itemprop="sameAs" href="https://telegram.me/gazetaru" />
+<link itemprop="sameAs" href="https://ok.ru/gazetaru" />
+<p class="pb10">Свидетельство о регистрации СМИ Эл № ФС77-67642 выдано федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 10.11.2016 г.</p>
+<p>Редакция не несет ответственности за достоверность информации, содержащейся в рекламных объявлениях. Редакция не предоставляет справочной информации.</p>
+<p><a class="red" href="/credits.shtml" class="red">Информация об ограничениях</a></p>
+<p><a href="//www.rambler.ru/">Партнер Рамблера</a></p>
+</div>
+<noindex>
+
+<div style="display:none;"> <div class="rating_counters">
+<div class="row">
+<div class="small-2 large-4 columns">&nbsp;
+</div>
+<div class="small-8 large-4 text-center columns">
+<script src="//st.top100.ru/top100/top100.js"></script>
+<script type="text/javascript">
+window.top100Counter = new top100({
+project: '46589', // ID проекта
+attributes_dataset: ['cerber-event', 'cerber-topline']
+});
+</script>
+<div id='top100counter' style='float:left;'>
+<noscript>
+<img src="//counter.rambler.ru/top100.cnt?pid=46589">
+</noscript>
+</div>
+<!--LiveInternet logo -->
+<a href="//www.liveinternet.ru/click;gazeta_all" target="_blank">
+<img style="margin:0 60px;" src="//counter.yadro.ru/logo;gazeta_all?14.6" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" border="0" width="88" height="31"/>
+</a>
+<!--/LiveInternet -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "8821", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+if (d.getElementById(id)) return;
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=8821;js=na" style="border:0;" height="1" width="1" alt="&#8211;ейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+</div>
+<div class="small-2 large-4 columns">&nbsp;
+</div>
+</div></div>
+</div> </div>
+<script type="text/javascript">
+if ( $( "div.tile_float" ) )
+{
+var tile_float = 0;
+$( "div.tile_float" ).each(function( index ) {
+thisH = $( this ).outerHeight();
+//console.log( index + ": " + $( this ).outerHeight() );
+if ( tile_float < thisH )
+{
+tile_float = thisH;
+}
+});
+$('div.tile_float').height(tile_float+10);
+}
+</script>
+<noindex><script async src="https://cdn.onthe.io/io.js/ikVo6mrvH4po"></script></noindex>
+
+<script language="Javascript">
+(new Image).src=("https:"==document.location.protocol?"https:":"http:")+"//autocontext.begun.ru/analytics?target_id=0&counter_id=0&url="+encodeURIComponent(document.URL)+"&ref="+encodeURIComponent(document.referrer)+"&rnd="+Math.random();
+</script>
+<script type="text/javascript">
+(function(){
+(new Image).src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//sync.rambler.ru/emily?partner_id=begun';
+})();
+</script>
+<script type="text/javascript">
+var ttsmi2_data = { siteid: 154, count: 'site' };
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//target.smi2.net/client/target.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+</script>
+
+<!--AdFox START-->
+<!--sup-com-->
+<!--Площадка: Gazeta.ru / zaglushki / Тест пиксель-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: 1x1js-->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var scrheight = '', scrwidth = '';
+if (self.screen) {
+scrwidth = screen.width;
+scrheight = screen.height;
+} else if (self.java) {
+var jkit = java.awt.Toolkit.getDefaultToolkit();
+var scrsize = jkit.getScreenSize();
+scrwidth = scrsize.width;
+scrheight = scrsize.height;
+}
+document.write('<scr' + 'ipt type="text/javascript" src="https://ads.adfox.ru/171817/prepareCode?p1=blhhy&amp;p2=enqu&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid3='+ _montblanc.get('4i', '') + '&amp;puid4=' + _montblanc.get('c6', '')+ '&amp;puid22='+_montblanc.get('y1', '')+ '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '"><\/scr' + 'ipt>');
+// -->
+</script>
+<!--AdFox END-->
+
+<!--script type="text/javascript" src="https://relap.io/api/v1/plugin.js"></script-->
+
+
+<!--AdFox START-->
+<!--sup-com-->
+<!--Площадка: Gazeta.ru / main / async-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: Код вставки-->
+<!-- ________________________AdFox Asynchronous code START__________________________ -->
+<script type="text/javascript">
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
+if (typeof(document.referrer) != 'undefined') {
+if (typeof(afReferrer) == 'undefined') {
+afReferrer = escape(document.referrer);
+}
+} else {
+afReferrer = '';
+}
+var addate = new Date();
+var scrheight = '', scrwidth = '';
+if (self.screen) {
+scrwidth = screen.width;
+scrheight = screen.height;
+} else if (self.java) {
+var jkit = java.awt.Toolkit.getDefaultToolkit();
+var scrsize = jkit.getScreenSize();
+scrwidth = scrsize.width;
+scrheight = scrsize.height;
+}
+var dl = escape(document.location);
+var pr1 = Math.floor(Math.random() * 1000000);
+document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/171817/prepareCode?p1=bnihj&amp;p2=exqv&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;puid2=&amp;puid3='+ _montblanc.get('4i', '') + '&amp;puid4=' + _montblanc.get('c6', '')+ '&amp;puid5=&amp;puid6=OTHER&amp;puid7=&amp;puid8=&amp;puid9=&amp;puid10=NO&amp;puid11=' + _montblanc.get('dd', '') + '&amp;puid12=&amp;puid13=&amp;puid14=&amp;puid15=ARTICLE&amp;puid16=&amp;puid17=&amp;puid18=&amp;puid19=&amp;puid20=&amp;puid21=&amp;puid22='+_montblanc.get('y1', '')+ '&amp;puid23=&amp;puid24=&amp;puid25=&amp;puid26=&amp;puid27=&amp;puid28=&amp;puid29=&amp;puid30=&amp;puid31=&amp;puid32=&amp;puid33=' + _montblanc.get('bj', '') + '&amp;puid34=&amp;puid35=&amp;puid36=&amp;puid37='+ _montblanc.get('k4', '') + '&amp;puid38=' + _montblanc.get('x3', '')+ '&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script>
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+<!--[if lt IE 9]>
+<script>
+$(function() {
+$('input, textarea').placeholder();
+});
+</script>
+<![endif] -->
+</noindex>
+
+</footer>
+
+</body>
+
+</html> 
