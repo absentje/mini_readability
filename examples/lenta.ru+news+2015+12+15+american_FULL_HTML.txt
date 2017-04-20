@@ -1,19 +1,35 @@
-HTTP/1.1 200 OK
-Server: nginx/1.11.8
-Date: Tue, 28 Feb 2017 14:54:13 GMT
-Content-Type: text/html; charset=utf-8
-Connection: close
-Status: 200 OK
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-X-Content-Type-Options: nosniff
-P3P: CP="This Is Potato!"
-Last-Modified: Tue, 15 Dec 2015 20:36:00 GMT
-Cache-Control: max-age=0, private, must-revalidate
-X-Request-Id: a4607fa3-73e0-4ea4-a555-8ec6bd1089cf
-X-Runtime: 0.101380
-Set-Cookie: is_mobile=0; path=/; domain=.lenta.ru
-
+HTTP/1.1 200 OK
+
+Server: nginx/1.11.8
+
+Date: Tue, 28 Feb 2017 14:54:13 GMT
+
+Content-Type: text/html; charset=utf-8
+
+Connection: close
+
+Status: 200 OK
+
+X-Frame-Options: SAMEORIGIN
+
+X-XSS-Protection: 1; mode=block
+
+X-Content-Type-Options: nosniff
+
+P3P: CP="This Is Potato!"
+
+Last-Modified: Tue, 15 Dec 2015 20:36:00 GMT
+
+Cache-Control: max-age=0, private, must-revalidate
+
+X-Request-Id: a4607fa3-73e0-4ea4-a555-8ec6bd1089cf
+
+X-Runtime: 0.101380
+
+Set-Cookie: is_mobile=0; path=/; domain=.lenta.ru
+
+
+
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
 <title>ТАСС объяснило сбой при стыковке «Союза» с МКС американским радиосигналом: Космос: Наука и техника: Lenta.ru</title><meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"66a8d51230","applicationID":"1241738","transactionName":"J19cQUoOWA0ERBoQXhRZUUYXElwOFg==","queueTime":0,"applicationTime":100,"agent":""}</script>
