@@ -1,12 +1,21 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Tue, 28 Feb 2017 14:55:47 GMT
-Content-Type: text/html; charset=windows-1251
-Connection: close
-Cache-Control: max-age=60
-Expires: Tue, 28 Feb 2017 14:55:26 GMT
-Access-Control-Allow-Origin: *
-
+HTTP/1.1 200 OK
+
+Server: nginx
+
+Date: Tue, 28 Feb 2017 14:55:47 GMT
+
+Content-Type: text/html; charset=windows-1251
+
+Connection: close
+
+Cache-Control: max-age=60
+
+Expires: Tue, 28 Feb 2017 14:55:26 GMT
+
+Access-Control-Allow-Origin: *
+
+
+
  
 
 <!DOCTYPE html>
@@ -103,26 +112,26 @@ article
 
 
 
- <title> &laquo;Сплав&raquo; создал беспилотник, вылетающий из ракеты РСЗО «Смерч» - Газета.Ru </title>
- <meta name="description" content="В России разработали беспилотник, вылетающий из головной части ракеты для системы залпового огня &laquo;Смерч&raquo;. В основе технологии, которая обсуждалась больше 10 лет назад, лежит идея создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, объяснил &laquo;Газете.Ru&raquo; эксперт. Ранее в рамках этой концепции был разработан тихоходный аппарат..." /> <meta property="og:description" content="В России разработали беспилотник, вылетающий из головной части ракеты для системы залпового огня &laquo;Смерч&raquo;. В основе технологии, которая обсуждалась больше 10 лет назад, лежит идея создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, объяснил &laquo;Газете.Ru&raquo; эксперт. Ранее в рамках этой концепции был разработан тихоходный аппарат..." /> <meta property="twitter:description" content="В России разработали беспилотник, вылетающий из головной части ракеты для системы залпового огня &laquo;Смерч&raquo;. В основе технологии, которая обсуждалась больше 10 лет назад, лежит идея создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, объяснил &laquo;Газете.Ru&raquo; эксперт. Ранее в рамках этой концепции был разработан тихоходный аппарат..." />
-<meta property="og:title" content="Русский дрон вылетит из &laquo;Смерча&raquo;" />
+ <title> &laquo;Г‘ГЇГ«Г Гў&raquo; Г±Г®Г§Г¤Г Г« ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄ, ГўГ»Г«ГҐГІГ ГѕГ№ГЁГ© ГЁГ§ Г°Г ГЄГҐГІГ» ГђГ‘Г‡ГЋ В«Г‘Г¬ГҐГ°Г·В» - ГѓГ Г§ГҐГІГ .Ru </title>
+ <meta name="description" content="Г‚ ГђГ®Г±Г±ГЁГЁ Г°Г Г§Г°Г ГЎГ®ГІГ Г«ГЁ ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄ, ГўГ»Г«ГҐГІГ ГѕГ№ГЁГ© ГЁГ§ ГЈГ®Г«Г®ГўГ­Г®Г© Г·Г Г±ГІГЁ Г°Г ГЄГҐГІГ» Г¤Г«Гї Г±ГЁГ±ГІГҐГ¬Г» Г§Г Г«ГЇГ®ГўГ®ГЈГ® Г®ГЈГ­Гї &laquo;Г‘Г¬ГҐГ°Г·&raquo;. Г‚ Г®Г±Г­Г®ГўГҐ ГІГҐГµГ­Г®Г«Г®ГЈГЁГЁ, ГЄГ®ГІГ®Г°Г Гї Г®ГЎГ±ГіГ¦Г¤Г Г«Г Г±Гј ГЎГ®Г«ГјГёГҐ 10 Г«ГҐГІ Г­Г Г§Г Г¤, Г«ГҐГ¦ГЁГІ ГЁГ¤ГҐГї Г±Г®Г§Г¤Г ГІГј Г ГЇГЇГ Г°Г ГІ Г¤Г«Гї ГЄГ®Г°Г°ГҐГЄГІГЁГ°Г®ГўГЄГЁ Г®ГЈГ­Гї ГђГ‘Г‡ГЋ, ГЄГ®ГІГ®Г°Г»Г© Г¬Г®ГЈ ГЎГ» ГЎГ»ГІГј ГЎГ»Г±ГІГ°Г® ГЁ Г± Г¬ГЁГ­ГЁГ¬Г Г«ГјГ­Г»Г¬ Г°ГЁГ±ГЄГ®Г¬ ГЎГ»ГІГј Г±ГЎГЁГІГ»Г¬ Г¤Г®Г±ГІГ ГўГ«ГҐГ­ Гў Г°Г Г©Г®Г­ Г­Г Г­ГҐГ±ГҐГ­ГЁГї ГіГ¤Г Г°Г , Г®ГЎГєГїГ±Г­ГЁГ« &laquo;ГѓГ Г§ГҐГІГҐ.Ru&raquo; ГЅГЄГ±ГЇГҐГ°ГІ. ГђГ Г­ГҐГҐ Гў Г°Г Г¬ГЄГ Гµ ГЅГІГ®Г© ГЄГ®Г­Г¶ГҐГЇГ¶ГЁГЁ ГЎГ»Г« Г°Г Г§Г°Г ГЎГ®ГІГ Г­ ГІГЁГµГ®ГµГ®Г¤Г­Г»Г© Г ГЇГЇГ Г°Г ГІ..." /> <meta property="og:description" content="Г‚ ГђГ®Г±Г±ГЁГЁ Г°Г Г§Г°Г ГЎГ®ГІГ Г«ГЁ ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄ, ГўГ»Г«ГҐГІГ ГѕГ№ГЁГ© ГЁГ§ ГЈГ®Г«Г®ГўГ­Г®Г© Г·Г Г±ГІГЁ Г°Г ГЄГҐГІГ» Г¤Г«Гї Г±ГЁГ±ГІГҐГ¬Г» Г§Г Г«ГЇГ®ГўГ®ГЈГ® Г®ГЈГ­Гї &laquo;Г‘Г¬ГҐГ°Г·&raquo;. Г‚ Г®Г±Г­Г®ГўГҐ ГІГҐГµГ­Г®Г«Г®ГЈГЁГЁ, ГЄГ®ГІГ®Г°Г Гї Г®ГЎГ±ГіГ¦Г¤Г Г«Г Г±Гј ГЎГ®Г«ГјГёГҐ 10 Г«ГҐГІ Г­Г Г§Г Г¤, Г«ГҐГ¦ГЁГІ ГЁГ¤ГҐГї Г±Г®Г§Г¤Г ГІГј Г ГЇГЇГ Г°Г ГІ Г¤Г«Гї ГЄГ®Г°Г°ГҐГЄГІГЁГ°Г®ГўГЄГЁ Г®ГЈГ­Гї ГђГ‘Г‡ГЋ, ГЄГ®ГІГ®Г°Г»Г© Г¬Г®ГЈ ГЎГ» ГЎГ»ГІГј ГЎГ»Г±ГІГ°Г® ГЁ Г± Г¬ГЁГ­ГЁГ¬Г Г«ГјГ­Г»Г¬ Г°ГЁГ±ГЄГ®Г¬ ГЎГ»ГІГј Г±ГЎГЁГІГ»Г¬ Г¤Г®Г±ГІГ ГўГ«ГҐГ­ Гў Г°Г Г©Г®Г­ Г­Г Г­ГҐГ±ГҐГ­ГЁГї ГіГ¤Г Г°Г , Г®ГЎГєГїГ±Г­ГЁГ« &laquo;ГѓГ Г§ГҐГІГҐ.Ru&raquo; ГЅГЄГ±ГЇГҐГ°ГІ. ГђГ Г­ГҐГҐ Гў Г°Г Г¬ГЄГ Гµ ГЅГІГ®Г© ГЄГ®Г­Г¶ГҐГЇГ¶ГЁГЁ ГЎГ»Г« Г°Г Г§Г°Г ГЎГ®ГІГ Г­ ГІГЁГµГ®ГµГ®Г¤Г­Г»Г© Г ГЇГЇГ Г°Г ГІ..." /> <meta property="twitter:description" content="Г‚ ГђГ®Г±Г±ГЁГЁ Г°Г Г§Г°Г ГЎГ®ГІГ Г«ГЁ ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄ, ГўГ»Г«ГҐГІГ ГѕГ№ГЁГ© ГЁГ§ ГЈГ®Г«Г®ГўГ­Г®Г© Г·Г Г±ГІГЁ Г°Г ГЄГҐГІГ» Г¤Г«Гї Г±ГЁГ±ГІГҐГ¬Г» Г§Г Г«ГЇГ®ГўГ®ГЈГ® Г®ГЈГ­Гї &laquo;Г‘Г¬ГҐГ°Г·&raquo;. Г‚ Г®Г±Г­Г®ГўГҐ ГІГҐГµГ­Г®Г«Г®ГЈГЁГЁ, ГЄГ®ГІГ®Г°Г Гї Г®ГЎГ±ГіГ¦Г¤Г Г«Г Г±Гј ГЎГ®Г«ГјГёГҐ 10 Г«ГҐГІ Г­Г Г§Г Г¤, Г«ГҐГ¦ГЁГІ ГЁГ¤ГҐГї Г±Г®Г§Г¤Г ГІГј Г ГЇГЇГ Г°Г ГІ Г¤Г«Гї ГЄГ®Г°Г°ГҐГЄГІГЁГ°Г®ГўГЄГЁ Г®ГЈГ­Гї ГђГ‘Г‡ГЋ, ГЄГ®ГІГ®Г°Г»Г© Г¬Г®ГЈ ГЎГ» ГЎГ»ГІГј ГЎГ»Г±ГІГ°Г® ГЁ Г± Г¬ГЁГ­ГЁГ¬Г Г«ГјГ­Г»Г¬ Г°ГЁГ±ГЄГ®Г¬ ГЎГ»ГІГј Г±ГЎГЁГІГ»Г¬ Г¤Г®Г±ГІГ ГўГ«ГҐГ­ Гў Г°Г Г©Г®Г­ Г­Г Г­ГҐГ±ГҐГ­ГЁГї ГіГ¤Г Г°Г , Г®ГЎГєГїГ±Г­ГЁГ« &laquo;ГѓГ Г§ГҐГІГҐ.Ru&raquo; ГЅГЄГ±ГЇГҐГ°ГІ. ГђГ Г­ГҐГҐ Гў Г°Г Г¬ГЄГ Гµ ГЅГІГ®Г© ГЄГ®Г­Г¶ГҐГЇГ¶ГЁГЁ ГЎГ»Г« Г°Г Г§Г°Г ГЎГ®ГІГ Г­ ГІГЁГµГ®ГµГ®Г¤Г­Г»Г© Г ГЇГЇГ Г°Г ГІ..." />
+<meta property="og:title" content="ГђГіГ±Г±ГЄГЁГ© Г¤Г°Г®Г­ ГўГ»Г«ГҐГІГЁГІ ГЁГ§ &laquo;Г‘Г¬ГҐГ°Г·Г &raquo;" />
 <meta property="og:type" content="article" />   
 <meta property="fb:app_id" content="406317839387165" />
-<meta property="og:site_name" content="Газета.Ru"/>
+<meta property="og:site_name" content="ГѓГ Г§ГҐГІГ .Ru"/>
 <meta property="og:url" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
 <meta property="og:image" content="https://img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic905-895x505-21230.jpg" /><link rel="image_src" href="https://img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic905-895x505-21230.jpg" /><meta property="og:image:width" content="895" /><meta property="og:image:height" content="505" /><meta property="twitter:image" content="https://img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic905-895x505-21230.jpg" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:title" content="Русский дрон вылетит из &laquo;Смерча&raquo;" />
+<meta property="twitter:title" content="ГђГіГ±Г±ГЄГЁГ© Г¤Г°Г®Г­ ГўГ»Г«ГҐГІГЁГІ ГЁГ§ &laquo;Г‘Г¬ГҐГ°Г·Г &raquo;" />
 <meta property="twitter:site" content="@gazetaru" />
 <meta property="twitter:creator" content="@gazetaru" />
 <meta property="twitter:url" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
-<meta property="twitter:app:name:iphone" content="Газета.Ru" />
+<meta property="twitter:app:name:iphone" content="ГѓГ Г§ГҐГІГ .Ru" />
 <meta property="twitter:app:id:iphone" content="401707326" />
 <meta property="twitter:app:url:iphone" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
-<meta name="twitter:app:name:ipad" content="Газета.Ru HD" />
+<meta name="twitter:app:name:ipad" content="ГѓГ Г§ГҐГІГ .Ru HD" />
 <meta name="twitter:app:id:ipad" content="486481873" />
 <meta name="twitter:app:url:ipad" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
-<meta name="twitter:app:name:googleplay" content="Газета.Ru" />
+<meta name="twitter:app:name:googleplay" content="ГѓГ Г§ГҐГІГ .Ru" />
 <meta name="twitter:app:id:googleplay" content="ru.ideast.gazeta" />
 <meta name="twitter:app:url:googleplay" content="https://www.gazeta.ru/army/2017/02/28/10549073.shtml" />
 
@@ -403,13 +412,13 @@ gazeta_on_scroll();
 <!-- new 3 -->
 <div class="subscribe_popup">
 <div id="subscribe_v2" class="email_sub_form">
-<h2>Подпишитесь на «Газету.Ru»</h2>
-<span class="sub_text">Самое актуальное и интересное на вашей электронной почте</span>
+<h2>ГЏГ®Г¤ГЇГЁГёГЁГІГҐГ±Гј Г­Г  В«ГѓГ Г§ГҐГІГі.RuВ»</h2>
+<span class="sub_text">Г‘Г Г¬Г®ГҐ Г ГЄГІГіГ Г«ГјГ­Г®ГҐ ГЁ ГЁГ­ГІГҐГ°ГҐГ±Г­Г®ГҐ Г­Г  ГўГ ГёГҐГ© ГЅГ«ГҐГЄГІГ°Г®Г­Г­Г®Г© ГЇГ®Г·ГІГҐ</span>
 <div class="email_line"></div>
 <div class="close_sub"></div>
 <form class="" onsubmit="set_pass_new(); return false;">
-<input id="register_login" name="login" type="text" placeholder="Ваш e-mail" class="email_sub_i_v2nput">
-<input type="button" onclick="set_pass_new()" value="подписаться" class="email_sub_btn">
+<input id="register_login" name="login" type="text" placeholder="Г‚Г Гё e-mail" class="email_sub_i_v2nput">
+<input type="button" onclick="set_pass_new()" value="ГЇГ®Г¤ГЇГЁГ±Г ГІГјГ±Гї" class="email_sub_btn">
 </form>
 </div>
 </div>
@@ -418,27 +427,27 @@ gazeta_on_scroll();
 <div class="header_v2 i-css"> <div class="header_v2_top">
 <div class="nav_v2_currency b-currency header-fixed-hide-adv">
 
-<span class="currency"><a href="/business/quotes/" rel="nofollow"><img src="https://static.gazeta.ru/nm2012/i/quotes/finam_head.png" alt="Курсы валют"></a></span><a href="/business/quotes/" rel="nofollow"><span class="currency"><b>$</b> 58.18 (<span class="index_up">+0.079</span>)</span></a> <a href="/business/quotes/" rel="nofollow"><span class="currency"><b>&#8364;</b> 61.65 (<span class="index_up">+0.131</span>)</span></a>
+<span class="currency"><a href="/business/quotes/" rel="nofollow"><img src="https://static.gazeta.ru/nm2012/i/quotes/finam_head.png" alt="ГЉГіГ°Г±Г» ГўГ Г«ГѕГІ"></a></span><a href="/business/quotes/" rel="nofollow"><span class="currency"><b>$</b> 58.18 (<span class="index_up">+0.079</span>)</span></a> <a href="/business/quotes/" rel="nofollow"><span class="currency"><b>&#8364;</b> 61.65 (<span class="index_up">+0.131</span>)</span></a>
 </div>
 <div class="b-social">
-<a rel="nofollow" href="#" title="Подписка по E-Mail" class="b-social-icon mail_i_v2" target="_blank"></a>
+<a rel="nofollow" href="#" title="ГЏГ®Г¤ГЇГЁГ±ГЄГ  ГЇГ® E-Mail" class="b-social-icon mail_i_v2" target="_blank"></a>
 <a rel="nofollow" href="/export_news.shtml" title="RSS" class="b-social-icon rss_i_v2" target="_self"></a>
 <a rel="nofollow" href="//www.youtube.com/user/gazetaru" title="Youtube" class="b-social-icon youtube_i_v2" target="_blank"></a>
 <a rel="nofollow" href="//telegram.me/gazetaru" title="Telegram" class="b-social-icon telegram_i_v2" target="_blank"></a>
 <a rel="nofollow" href="//www.facebook.com/gazeta.ru" title="Facebook" class="b-social-icon fb_i_v2" target="_blank"></a>
 <a rel="nofollow" href="//www.twitter.com/gazetaru" title="Twitter" class="b-social-icon tw_i_v2" target="_blank"></a>
-<a rel="nofollow" href="//vk.com/gazeta" title="ВКонтакте" class="b-social-icon vk_i_v2" target="_blank"></a>
-<a rel="nofollow" href="//www.odnoklassniki.ru/gazetaru" title="Одноклассники" class="b-social-icon ok_i_v2" target="_blank"></a>
+<a rel="nofollow" href="//vk.com/gazeta" title="Г‚ГЉГ®Г­ГІГ ГЄГІГҐ" class="b-social-icon vk_i_v2" target="_blank"></a>
+<a rel="nofollow" href="//www.odnoklassniki.ru/gazetaru" title="ГЋГ¤Г­Г®ГЄГ«Г Г±Г±Г­ГЁГЄГЁ" class="b-social-icon ok_i_v2" target="_blank"></a>
 </div>
 <div class="weather_header_v2 weather">
 
 
 <div class="weather_header weather">
-<a rel="nofollow" href="http://weather.rambler.ru/v-moskve/" target="_blank" title="Сейчас в Москве +4 &#176;C, облачно
-Ветер Ю, 3 м/c
-Давление 743 мм рт. ст.
-Влажность воздуха 68%">
-<span class="city">Москва:</span>
+<a rel="nofollow" href="http://weather.rambler.ru/v-moskve/" target="_blank" title="Г‘ГҐГ©Г·Г Г± Гў ГЊГ®Г±ГЄГўГҐ +4 &#176;C, Г®ГЎГ«Г Г·Г­Г®
+Г‚ГҐГІГҐГ° Гћ, 3 Г¬/c
+Г„Г ГўГ«ГҐГ­ГЁГҐ 743 Г¬Г¬ Г°ГІ. Г±ГІ.
+Г‚Г«Г Г¦Г­Г®Г±ГІГј ГўГ®Г§Г¤ГіГµГ  68%">
+<span class="city">ГЊГ®Г±ГЄГўГ :</span>
 <img src="/nm2012/i/cloudy.svg" height="15">
 <span class="temp">+4&#176;C</span>
 </a>
@@ -448,11 +457,11 @@ gazeta_on_scroll();
 </div>
 </div>
 <div class="header_v2_common" itemid="https://www.gazeta.ru/" itemscope itemtype="http://schema.org/WebSite">
-<meta itemprop="name" content="Газета.Ru" />
+<meta itemprop="name" content="ГѓГ Г§ГҐГІГ .Ru" />
 <meta itemprop="image" content="https://www.gazeta.ru/nm2015/i/Logo_red_sqare_250.png" />
 <div class="header-logo">
-<a itemprop="url" href="https://www.gazeta.ru/" title="Газета.Ru" class="header-logo-link">
-<img src="//www.gazeta.ru/nm2015/i/logo_gazeta.svg" alt="Газета.Ru" class="header-logo-img">
+<a itemprop="url" href="https://www.gazeta.ru/" title="ГѓГ Г§ГҐГІГ .Ru" class="header-logo-link">
+<img src="//www.gazeta.ru/nm2015/i/logo_gazeta.svg" alt="ГѓГ Г§ГҐГІГ .Ru" class="header-logo-img">
 </a>
 </div>
 <div class="adv_main header_v2_common-adv header-fixed-hide-adv">
@@ -464,7 +473,7 @@ gazeta_on_scroll();
 <img src="//img.gazeta.ru/files3/223/10231223/rockets.png">
 </a>
 <div class="header_v2_common-adv-intro" style="left:130px; width:160px;">
-<a href="/army/2017/02/17/10530707.shtml"> <span>США могут разместить в Европе ядерные ракеты</span>
+<a href="/army/2017/02/17/10530707.shtml"> <span>Г‘ГГЂ Г¬Г®ГЈГіГІ Г°Г Г§Г¬ГҐГ±ГІГЁГІГј Гў Г…ГўГ°Г®ГЇГҐ ГїГ¤ГҐГ°Г­Г»ГҐ Г°Г ГЄГҐГІГ»</span>
 </a>
 </div>
 -->
@@ -488,40 +497,40 @@ gazeta_on_scroll();
 <a class="b-navbar-backbtn" href="/"></a>
 
 
-<div class="item"> <a href="/news/">Новости</a></div>
+<div class="item"> <a href="/news/">ГЌГ®ГўГ®Г±ГІГЁ</a></div>
  
-<div class="item"> <a href="/politics/">Политика</a></div>
+<div class="item"> <a href="/politics/">ГЏГ®Г«ГЁГІГЁГЄГ </a></div>
  
-<div class="item"> <a href="/business/">Бизнес</a></div>
+<div class="item"> <a href="/business/">ГЃГЁГ§Г­ГҐГ±</a></div>
  
-<div class="item"> <a href="/social/">Общество</a></div>
+<div class="item"> <a href="/social/">ГЋГЎГ№ГҐГ±ГІГўГ®</a></div>
  
 <div class="item active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 <a itemprop="item" href="/army/">
-<span itemprop="name">Армия</span>
+<span itemprop="name">ГЂГ°Г¬ГЁГї</span>
 <meta itemprop="position" content="1" />
 </a>
 </div>
  
-<div class="item"> <a href="/comments/">Мнения</a></div>
+<div class="item"> <a href="/comments/">ГЊГ­ГҐГ­ГЁГї</a></div>
  
-<div class="item"> <a href="/culture/">Культура</a></div>
+<div class="item"> <a href="/culture/">ГЉГіГ«ГјГІГіГ°Г </a></div>
  
-<div class="item"> <a href="/science/">Наука</a></div>
+<div class="item"> <a href="/science/">ГЌГ ГіГЄГ </a></div>
  
-<div class="item"> <a href="/tech/">Технологии</a></div>
+<div class="item"> <a href="/tech/">Г’ГҐГµГ­Г®Г«Г®ГЈГЁГЁ</a></div>
  
-<div class="item"> <a href="/auto/">Авто</a></div>
+<div class="item"> <a href="/auto/">ГЂГўГІГ®</a></div>
  
-<div class="item"> <a href="/lifestyle/">Стиль</a></div>
+<div class="item"> <a href="/lifestyle/">Г‘ГІГЁГ«Гј</a></div>
  
-<div class="item"> <a href="/sport/">Спорт</a></div>
+<div class="item"> <a href="/sport/">Г‘ГЇГ®Г°ГІ</a></div>
 
 <div class="b-navbar-search">
 <div class="b-navbar-search-area">
 <form name="search" action="//www.gazeta.ru/search.shtml">
-<input type="text" name="text" placeholder="Поисковый запрос">
-<input type="submit" value="Найти &#8594;">
+<input type="text" name="text" placeholder="ГЏГ®ГЁГ±ГЄГ®ГўГ»Г© Г§Г ГЇГ°Г®Г±">
+<input type="submit" value="ГЌГ Г©ГІГЁ &#8594;">
 <input name="p" value="search" class="hidden">
 <input name="how" value="pt" class="hidden">
 </form>
@@ -543,39 +552,39 @@ $('.b-navbar-search').addClass('active');
 
 <div class="b-navbar-secondary">
 <div class="b-navbar-mmbtns">
-<a rel="nofollow" href="/video/" title="Видео" class="icon video " ></a>
+<a rel="nofollow" href="/video/" title="Г‚ГЁГ¤ГҐГ®" class="icon video " ></a>
 
-<a rel="nofollow" href="/photo/" title="Фото" class="icon photo " ></a>
+<a rel="nofollow" href="/photo/" title="Г”Г®ГІГ®" class="icon photo " ></a>
 
 </div>
 
 
 
 <div class="item">
-<a href="/army/military/">Вооруженные силы</a>
+<a href="/army/military/">Г‚Г®Г®Г°ГіГ¦ГҐГ­Г­Г»ГҐ Г±ГЁГ«Г»</a>
 </div>
 
 
 <div class="item">
-<a href="/army/hostilities/">Военные конфликты</a>
+<a href="/army/hostilities/">Г‚Г®ГҐГ­Г­Г»ГҐ ГЄГ®Г­ГґГ«ГЁГЄГІГ»</a>
 </div>
 
 
 <div class="item active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 <a itemprop="item" href="/army/arms/">
-<span itemprop="name">Техника и оружие</span>
+<span itemprop="name">Г’ГҐГµГ­ГЁГЄГ  ГЁ Г®Г°ГіГ¦ГЁГҐ</span>
 <meta itemprop="position" content="2" />
 </a>
 </div>
 
 
 <div class="item">
-<a href="/army/aerospace/">Космическая безопасность</a>
+<a href="/army/aerospace/">ГЉГ®Г±Г¬ГЁГ·ГҐГ±ГЄГ Гї ГЎГҐГ§Г®ГЇГ Г±Г­Г®Г±ГІГј</a>
 </div>
 
 
 <div class="item">
-<a href="/army/armsexport/">Экспорт вооружений</a>
+<a href="/army/armsexport/">ГќГЄГ±ГЇГ®Г°ГІ ГўГ®Г®Г°ГіГ¦ГҐГ­ГЁГ©</a>
 </div>
 
 
@@ -587,9 +596,9 @@ $('.b-navbar-search').addClass('active');
 
 <!--ADFOX START-->
 <!--gazetaru_new-->
-<!--Площадка: Gazeta.ru / * / *-->
-<!--Тип баннера: Без заданных размеров-->
-<!--Расположение: Шапка-->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / *-->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЃГҐГ§ Г§Г Г¤Г Г­Г­Г»Гµ Г°Г Г§Г¬ГҐГ°Г®Гў-->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: ГГ ГЇГЄГ -->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -626,9 +635,9 @@ $('.header_stub').height( $(this).outerHeight() );
 
 <!--ADFOX START-->
 <!--gazetaru_new-->
-<!--Площадка: Gazeta.ru / * / *-->
-<!--Тип баннера: Перетяжка 100%-->
-<!--Расположение: верх страницы 2-->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / *-->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЏГҐГ°ГҐГІГїГ¦ГЄГ  100%-->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: ГўГҐГ°Гµ Г±ГІГ°Г Г­ГЁГ¶Г» 2-->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -669,8 +678,8 @@ $(this).css('padding', '10px 5px 10px 5px');
 <div id="article_title" class="block" style="max-width: 1220px;">
 <div>
 
-<h2 class="h_1 mt5 mb10" itemprop="alternativeHeadline">Русский дрон вылетит из &laquo;Смерча&raquo;</h2>
-<h1 class="sub_header mt15 mb10" itemprop="headline">&laquo;Сплав&raquo; создал беспилотник, вылетающий из ракеты РСЗО «Смерч»</h1>
+<h2 class="h_1 mt5 mb10" itemprop="alternativeHeadline">ГђГіГ±Г±ГЄГЁГ© Г¤Г°Г®Г­ ГўГ»Г«ГҐГІГЁГІ ГЁГ§ &laquo;Г‘Г¬ГҐГ°Г·Г &raquo;</h2>
+<h1 class="sub_header mt15 mb10" itemprop="headline">&laquo;Г‘ГЇГ«Г Гў&raquo; Г±Г®Г§Г¤Г Г« ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄ, ГўГ»Г«ГҐГІГ ГѕГ№ГЁГ© ГЁГ§ Г°Г ГЄГҐГІГ» ГђГ‘Г‡ГЋ В«Г‘Г¬ГҐГ°Г·В»</h1>
 <div class="article_auth mb5">
 
 
@@ -699,7 +708,7 @@ $(this).css('padding', '10px 5px 10px 5px');
 
 
  
-<span itemprop='author' itemscope itemtype='http://schema.org/Person' itemid='/gazeta/authors/maksim_solopov.shtml'><span itemprop='name'><a href='/gazeta/authors/maksim_solopov.shtml' itemprop='url'>Максим Солопов</a></span></span>, <span itemprop='author' itemscope itemtype='http://schema.org/Person' itemid='/gazeta/authors/mihail_hodarenok.shtml'><span itemprop='name'><a href='/gazeta/authors/mihail_hodarenok.shtml' itemprop='url'>Михаил Ходаренок</a></span></span>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person' itemid='/gazeta/authors/maksim_solopov.shtml'><span itemprop='name'><a href='/gazeta/authors/maksim_solopov.shtml' itemprop='url'>ГЊГ ГЄГ±ГЁГ¬ Г‘Г®Г«Г®ГЇГ®Гў</a></span></span>, <span itemprop='author' itemscope itemtype='http://schema.org/Person' itemid='/gazeta/authors/mihail_hodarenok.shtml'><span itemprop='name'><a href='/gazeta/authors/mihail_hodarenok.shtml' itemprop='url'>ГЊГЁГµГ ГЁГ« Г•Г®Г¤Г Г°ГҐГ­Г®ГЄ</a></span></span>
 
 <time itemprop="datePublished" class="date_time" pubdate datetime="2017-02-28T14:49:46+04:00">28.02.2017, 14:49</time>
 <meta itemprop="dateModified" content="2017-02-28T15:04:24+04:00" />
@@ -727,14 +736,14 @@ data-fullimg=" //img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic4_zoom
  >
 </span>
 
-<autor>Андрей Александров/РИА &laquo;Новости&raquo;</autor>
+<autor>ГЂГ­Г¤Г°ГҐГ© ГЂГ«ГҐГЄГ±Г Г­Г¤Г°Г®Гў/ГђГ€ГЂ &laquo;ГЌГ®ГўГ®Г±ГІГЁ&raquo;</autor>
 
 </figure>
 
 </div>
  </div>
 <div class="article_context">
-<p><span class="intro" itemprop="description">В России разработали беспилотник, вылетающий из головной части ракеты для системы залпового огня &laquo;Смерч&raquo;. В основе технологии, которая обсуждалась больше 10 лет назад, лежит идея создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, объяснил &laquo;Газете.Ru&raquo; эксперт. Ранее в рамках этой концепции был разработан тихоходный аппарат &laquo;Типчак&raquo;, запускаемый с катапульты, установленной на шасси.</span></p>
+<p><span class="intro" itemprop="description">Г‚ ГђГ®Г±Г±ГЁГЁ Г°Г Г§Г°Г ГЎГ®ГІГ Г«ГЁ ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄ, ГўГ»Г«ГҐГІГ ГѕГ№ГЁГ© ГЁГ§ ГЈГ®Г«Г®ГўГ­Г®Г© Г·Г Г±ГІГЁ Г°Г ГЄГҐГІГ» Г¤Г«Гї Г±ГЁГ±ГІГҐГ¬Г» Г§Г Г«ГЇГ®ГўГ®ГЈГ® Г®ГЈГ­Гї &laquo;Г‘Г¬ГҐГ°Г·&raquo;. Г‚ Г®Г±Г­Г®ГўГҐ ГІГҐГµГ­Г®Г«Г®ГЈГЁГЁ, ГЄГ®ГІГ®Г°Г Гї Г®ГЎГ±ГіГ¦Г¤Г Г«Г Г±Гј ГЎГ®Г«ГјГёГҐ 10 Г«ГҐГІ Г­Г Г§Г Г¤, Г«ГҐГ¦ГЁГІ ГЁГ¤ГҐГї Г±Г®Г§Г¤Г ГІГј Г ГЇГЇГ Г°Г ГІ Г¤Г«Гї ГЄГ®Г°Г°ГҐГЄГІГЁГ°Г®ГўГЄГЁ Г®ГЈГ­Гї ГђГ‘Г‡ГЋ, ГЄГ®ГІГ®Г°Г»Г© Г¬Г®ГЈ ГЎГ» ГЎГ»ГІГј ГЎГ»Г±ГІГ°Г® ГЁ Г± Г¬ГЁГ­ГЁГ¬Г Г«ГјГ­Г»Г¬ Г°ГЁГ±ГЄГ®Г¬ ГЎГ»ГІГј Г±ГЎГЁГІГ»Г¬ Г¤Г®Г±ГІГ ГўГ«ГҐГ­ Гў Г°Г Г©Г®Г­ Г­Г Г­ГҐГ±ГҐГ­ГЁГї ГіГ¤Г Г°Г , Г®ГЎГєГїГ±Г­ГЁГ« &laquo;ГѓГ Г§ГҐГІГҐ.Ru&raquo; ГЅГЄГ±ГЇГҐГ°ГІ. ГђГ Г­ГҐГҐ Гў Г°Г Г¬ГЄГ Гµ ГЅГІГ®Г© ГЄГ®Г­Г¶ГҐГЇГ¶ГЁГЁ ГЎГ»Г« Г°Г Г§Г°Г ГЎГ®ГІГ Г­ ГІГЁГµГ®ГµГ®Г¤Г­Г»Г© Г ГЇГЇГ Г°Г ГІ &laquo;Г’ГЁГЇГ·Г ГЄ&raquo;, Г§Г ГЇГіГ±ГЄГ ГҐГ¬Г»Г© Г± ГЄГ ГІГ ГЇГіГ«ГјГІГ», ГіГ±ГІГ Г­Г®ГўГ«ГҐГ­Г­Г®Г© Г­Г  ГёГ Г±Г±ГЁ.</span></p>
 </div>
 <div class="pu10 pd10 borderdown">
 
@@ -744,11 +753,11 @@ data-fullimg=" //img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic4_zoom
 
 <div class="article-share-name">
 <ul class="social-button-block">
-<li class="fb-share social-button"><a rel="nofollow" title="Поделиться в Facebook" href="//www.facebook.com/dialog/share?app_id=406317839387165&utm_source=fbsharing&utm_medium=social&href=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="fb_counter"></span></a></li>
-<li class="vk-share social-button"><a rel="nofollow" title="Поделиться в Vkontakte" href="//vk.com/share.php?utm_source=vksharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="vk_counter"></span></a></li>
-<li class="ok-share social-button"><a rel="nofollow" class="soc_ok" title="Поделиться в Одноклассники" href="//www.odnoklassniki.ru/dk?utm_source=oksharing&utm_medium=social&st.cmd=addShare&st.s=1&st._surl=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="ok_counter"></span></a></li>
-<li class="twi-share social-button"><a rel="nofollow" class="soc_twi" title="Поделиться в Twitter" href="//twitter.com/intent/tweet?via=gazetaru&utm_source=twsharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"></a></li>
-<li class="lj-share social-button"><a rel="nofollow" class="soc_lj" title="Поделиться в ЖЖ" href="//www.livejournal.com/update.bml?&event=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank" class="btn_soc_lj"></a></li>
+<li class="fb-share social-button"><a rel="nofollow" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Facebook" href="//www.facebook.com/dialog/share?app_id=406317839387165&utm_source=fbsharing&utm_medium=social&href=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="fb_counter"></span></a></li>
+<li class="vk-share social-button"><a rel="nofollow" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Vkontakte" href="//vk.com/share.php?utm_source=vksharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="vk_counter"></span></a></li>
+<li class="ok-share social-button"><a rel="nofollow" class="soc_ok" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў ГЋГ¤Г­Г®ГЄГ«Г Г±Г±Г­ГЁГЄГЁ" href="//www.odnoklassniki.ru/dk?utm_source=oksharing&utm_medium=social&st.cmd=addShare&st.s=1&st._surl=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="ok_counter"></span></a></li>
+<li class="twi-share social-button"><a rel="nofollow" class="soc_twi" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Twitter" href="//twitter.com/intent/tweet?via=gazetaru&utm_source=twsharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"></a></li>
+<li class="lj-share social-button"><a rel="nofollow" class="soc_lj" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Г†Г†" href="//www.livejournal.com/update.bml?&event=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank" class="btn_soc_lj"></a></li>
 </ul>
 </div>
 
@@ -756,11 +765,11 @@ data-fullimg=" //img.gazeta.ru/files3/139/10549139/RIAN_00847608.HR.ru-pic4_zoom
 <div class="share-name-sticky">
 <div class="article-share-name">
 <ul class="social-button-block">
-<li class="fb-share social-button"><a rel="nofollow" title="Поделиться в Facebook" href="//www.facebook.com/dialog/share?app_id=406317839387165&utm_source=fbsharing&utm_medium=social&href=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="fb_counter"></span></a></li>
-<li class="vk-share social-button"><a rel="nofollow" title="Поделиться в Vkontakte" href="//vk.com/share.php?utm_source=vksharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="vk_counter"></span></a></li>
-<li class="ok-share social-button"><a rel="nofollow" class="soc_ok" title="Поделиться в Одноклассники" href="//www.odnoklassniki.ru/dk?utm_source=oksharing&utm_medium=social&st.cmd=addShare&st.s=1&st._surl=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="ok_counter"></span></a></li>
-<li class="twi-share social-button"><a rel="nofollow" class="soc_twi" title="Поделиться в Twitter" href="//twitter.com/intent/tweet?via=gazetaru&utm_source=twsharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"></a></li>
-<li class="lj-share social-button"><a rel="nofollow" class="soc_lj" title="Поделиться в ЖЖ" href="//www.livejournal.com/update.bml?&event=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank" class="btn_soc_lj"></a></li>
+<li class="fb-share social-button"><a rel="nofollow" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Facebook" href="//www.facebook.com/dialog/share?app_id=406317839387165&utm_source=fbsharing&utm_medium=social&href=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="fb_counter"></span></a></li>
+<li class="vk-share social-button"><a rel="nofollow" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Vkontakte" href="//vk.com/share.php?utm_source=vksharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="vk_counter"></span></a></li>
+<li class="ok-share social-button"><a rel="nofollow" class="soc_ok" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў ГЋГ¤Г­Г®ГЄГ«Г Г±Г±Г­ГЁГЄГЁ" href="//www.odnoklassniki.ru/dk?utm_source=oksharing&utm_medium=social&st.cmd=addShare&st.s=1&st._surl=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="ok_counter"></span></a></li>
+<li class="twi-share social-button"><a rel="nofollow" class="soc_twi" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Twitter" href="//twitter.com/intent/tweet?via=gazetaru&utm_source=twsharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"></a></li>
+<li class="lj-share social-button"><a rel="nofollow" class="soc_lj" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Г†Г†" href="//www.livejournal.com/update.bml?&event=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank" class="btn_soc_lj"></a></li>
 </ul>
 </div>
 </div>
@@ -1260,7 +1269,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc
 
  <section class=" tile_cent b-white sausage  hide_main_headlines" > <div class="tile_inner_size"> 
 <div class="sausage-header no-hover sausage-header-icon icon-maintheme no-border">
-Главное
+ГѓГ«Г ГўГ­Г®ГҐ
 </div>
 <ul class="sausage-list sausage-list-maintheme mb20 ">
 
@@ -1399,7 +1408,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc
 <img src=" //img.gazeta.ru/files3/899/10533899/RIAN_02808030.HR-pic265-265x150-20560.jpg" alt="">
 </a>
 <a href="/politics/news/2017/02/28/n_9736145.shtml">
-В ООН прокомментировали признание Россией паспортов ДНР и ЛНР
+Г‚ ГЋГЋГЌ ГЇГ°Г®ГЄГ®Г¬Г¬ГҐГ­ГІГЁГ°Г®ГўГ Г«ГЁ ГЇГ°ГЁГ§Г­Г Г­ГЁГҐ ГђГ®Г±Г±ГЁГҐГ© ГЇГ Г±ГЇГ®Г°ГІГ®Гў Г„ГЌГђ ГЁ Г‹ГЌГђ
 </a>
 
 
@@ -1534,7 +1543,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc
  <li class="sausage-list-item">
 
 <a href="/business/news/2017/02/28/n_9737033.shtml">
-В МИД России обвинили конгресс США в организации экономической блокады
+Г‚ ГЊГ€Г„ ГђГ®Г±Г±ГЁГЁ Г®ГЎГўГЁГ­ГЁГ«ГЁ ГЄГ®Г­ГЈГ°ГҐГ±Г± Г‘ГГЂ Гў Г®Г°ГЈГ Г­ГЁГ§Г Г¶ГЁГЁ ГЅГЄГ®Г­Г®Г¬ГЁГ·ГҐГ±ГЄГ®Г© ГЎГ«Г®ГЄГ Г¤Г»
 </a>
 
 </li>   
@@ -1663,7 +1672,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc
  <li class="sausage-list-item">
 
 <a href="/social/news/2017/02/28/n_9736475.shtml">
-Глава Верховного суда поддержал отмену «статьи Дадина»
+ГѓГ«Г ГўГ  Г‚ГҐГ°ГµГ®ГўГ­Г®ГЈГ® Г±ГіГ¤Г  ГЇГ®Г¤Г¤ГҐГ°Г¦Г Г« Г®ГІГ¬ГҐГ­Гі В«Г±ГІГ ГІГјГЁ Г„Г Г¤ГЁГ­Г В»
 </a>
 
 </li>   
@@ -1792,7 +1801,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc
  <li class="sausage-list-item">
 
 <a href="/politics/news/2017/02/28/n_9738695.shtml">
-На Украине официально зарегистрировали партию Саакашвили
+ГЌГ  Г“ГЄГ°Г ГЁГ­ГҐ Г®ГґГЁГ¶ГЁГ Г«ГјГ­Г® Г§Г Г°ГҐГЈГЁГ±ГІГ°ГЁГ°Г®ГўГ Г«ГЁ ГЇГ Г°ГІГЁГѕ Г‘Г Г ГЄГ ГёГўГЁГ«ГЁ
 </a>
 
 </li>   
@@ -1926,7 +1935,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc
  <li class="sausage-list-item">
 
 <a href="/army/news/9737729.shtml">
-Путин заявил о готовности закрыть базу в Киргизии
+ГЏГіГІГЁГ­ Г§Г ГїГўГЁГ« Г® ГЈГ®ГІГ®ГўГ­Г®Г±ГІГЁ Г§Г ГЄГ°Г»ГІГј ГЎГ Г§Гі Гў ГЉГЁГ°ГЈГЁГ§ГЁГЁ
 </a>
 
 </li>   
@@ -2029,7 +2038,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc
 
 
 
-<!-- подменяем блок рекламы на главное сегодня, если включен блокиратор рекламы -->
+<!-- ГЇГ®Г¤Г¬ГҐГ­ГїГҐГ¬ ГЎГ«Г®ГЄ Г°ГҐГЄГ«Г Г¬Г» Г­Г  ГЈГ«Г ГўГ­Г®ГҐ Г±ГҐГЈГ®Г¤Г­Гї, ГҐГ±Г«ГЁ ГўГЄГ«ГѕГ·ГҐГ­ ГЎГ«Г®ГЄГЁГ°Г ГІГ®Г° Г°ГҐГЄГ«Г Г¬Г» -->
 <script>
 if($('#adv_network_main_news').length){
 set_resizeblock_handler('#adv_network_main_news', function () {
@@ -2062,9 +2071,9 @@ $('#headlines .headlin').show();
 
 <!--ADFOX START -->
 <!--gazetaru_new -->
-<!--Площадка: Gazeta.ru / * / * -->
-<!--Тип баннера: Блок Анонс -->
-<!--Расположение: Нестандарт -->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / * -->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЃГ«Г®ГЄ ГЂГ­Г®Г­Г± -->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: ГЌГҐГ±ГІГ Г­Г¤Г Г°ГІ -->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -2133,9 +2142,9 @@ re("https://api.rnet.plus/", [
 
 <!--ADFOX START -->
 <!--gazetaru_new -->
-<!--Площадка: Gazeta.ru / * / * -->
-<!--Тип баннера: Блок Анонс -->
-<!--Расположение: право -->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / * -->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЃГ«Г®ГЄ ГЂГ­Г®Г­Г± -->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: ГЇГ°Г ГўГ® -->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -2367,7 +2376,7 @@ AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&
  
 <div class="b-white sausage mb20">
 <div class="sausage-header no-hover sausage-header-icon icon-readmore">
-Читайте также
+Г—ГЁГІГ Г©ГІГҐ ГІГ ГЄГ¦ГҐ
 </div>
 <ul class="sausage-list mb20">
 
@@ -2418,7 +2427,7 @@ AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&
 
  <li class="sausage-list-item">
 <a href="https://www.gazeta.ru/far_east/dalnevostochnyi_gektar_interaktivnaya_karta.shtml">
-Подать заявку на «дальневосточный гектар» с помощью карты «Газеты.Ru».
+ГЏГ®Г¤Г ГІГј Г§Г ГїГўГЄГі Г­Г  В«Г¤Г Г«ГјГ­ГҐГўГ®Г±ГІГ®Г·Г­Г»Г© ГЈГҐГЄГІГ Г°В» Г± ГЇГ®Г¬Г®Г№ГјГѕ ГЄГ Г°ГІГ» В«ГѓГ Г§ГҐГІГ».RuВ».
 </a>
 </li>
 
@@ -2471,7 +2480,7 @@ AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&
 
  <li class="sausage-list-item">
 <a href="https://www.gazeta.ru/prcom/2017/02/16/10529093.shtml">
-Инвестируем с умом! Куда и как вкладывать средства в условиях экономической неопределенности
+Г€Г­ГўГҐГ±ГІГЁГ°ГіГҐГ¬ Г± ГіГ¬Г®Г¬! ГЉГіГ¤Г  ГЁ ГЄГ ГЄ ГўГЄГ«Г Г¤Г»ГўГ ГІГј Г±Г°ГҐГ¤Г±ГІГўГ  Гў ГіГ±Г«Г®ГўГЁГїГµ ГЅГЄГ®Г­Г®Г¬ГЁГ·ГҐГ±ГЄГ®Г© Г­ГҐГ®ГЇГ°ГҐГ¤ГҐГ«ГҐГ­Г­Г®Г±ГІГЁ
 </a>
 </li>
 
@@ -2524,7 +2533,7 @@ AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&
 
  <li class="sausage-list-item">
 <a href="https://www.gazeta.ru/prcom/2017/02/16/10528067.shtml">
-Калашников и Арбидол. Американские ученые решили проверить российский противовирусный препарат
+ГЉГ Г«Г ГёГ­ГЁГЄГ®Гў ГЁ ГЂГ°ГЎГЁГ¤Г®Г«. ГЂГ¬ГҐГ°ГЁГЄГ Г­Г±ГЄГЁГҐ ГіГ·ГҐГ­Г»ГҐ Г°ГҐГёГЁГ«ГЁ ГЇГ°Г®ГўГҐГ°ГЁГІГј Г°Г®Г±Г±ГЁГ©Г±ГЄГЁГ© ГЇГ°Г®ГІГЁГўГ®ГўГЁГ°ГіГ±Г­Г»Г© ГЇГ°ГҐГЇГ Г°Г ГІ
 </a>
 </li>
 
@@ -2670,7 +2679,7 @@ AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&
 
  <li class="sausage-list-item">
 <a href="https://www.gazeta.ru/far_east/vsem_po_gektaru.shtml">
-«Дальневосточный гектар» идет в народ
+В«Г„Г Г«ГјГ­ГҐГўГ®Г±ГІГ®Г·Г­Г»Г© ГЈГҐГЄГІГ Г°В» ГЁГ¤ГҐГІ Гў Г­Г Г°Г®Г¤
 </a>
 </li>
 
@@ -2723,7 +2732,7 @@ AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&
 
  <li class="sausage-list-item">
 <a href="https://www.gazeta.ru/far_east/na_dalnem_vostoke_rasschitali_gektary.shtml">
-Россияне получили более 4 тысяч бесплатных &laquo;дальневосточных гектаров&raquo;
+ГђГ®Г±Г±ГЁГїГ­ГҐ ГЇГ®Г«ГіГ·ГЁГ«ГЁ ГЎГ®Г«ГҐГҐ 4 ГІГ»Г±ГїГ· ГЎГҐГ±ГЇГ«Г ГІГ­Г»Гµ &laquo;Г¤Г Г«ГјГ­ГҐГўГ®Г±ГІГ®Г·Г­Г»Гµ ГЈГҐГЄГІГ Г°Г®Гў&raquo;
 </a>
 </li>
 
@@ -2738,9 +2747,9 @@ AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=ead&amp;ps=bsjf&
 <!--ADFOX START -->
 
 <!--gazetaru_new -->
-<!--Площадка: Gazeta.ru / * / * -->
-<!--Тип баннера: Блок Анонс -->
-<!--Расположение: центр -->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / * -->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЃГ«Г®ГЄ ГЂГ­Г®Г­Г± -->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: Г¶ГҐГ­ГІГ° -->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -2780,9 +2789,9 @@ var is_gazeta_partners = 0;
 
 <!--ADFOX START -->
 <!--gazetaru_new -->
-<!--Площадка: Gazeta.ru / * / * -->
-<!--Тип баннера: Партнерский блок -->
-<!--Расположение: право -->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / * -->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЏГ Г°ГІГ­ГҐГ°Г±ГЄГЁГ© ГЎГ«Г®ГЄ -->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: ГЇГ°Г ГўГ® -->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -2816,9 +2825,9 @@ var is_gazeta_partners = 0;
 
 <!--ADFOX START -->
 <!--gazetaru_new -->
-<!--Площадка: Gazeta.ru / * / * -->
-<!--Тип баннера: Партнерский блок -->
-<!--Расположение: центр -->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / * -->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЏГ Г°ГІГ­ГҐГ°Г±ГЄГЁГ© ГЎГ«Г®ГЄ -->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: Г¶ГҐГ­ГІГ° -->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -2848,9 +2857,9 @@ AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=eae&amp;ps=bsjf&
 
 <!--ADFOX START -->
 <!--gazetaru_new -->
-<!--Площадка: Gazeta.ru / * / * -->
-<!--Тип баннера: Партнерский блок -->
-<!--Расположение: Нестандарт -->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / * -->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЏГ Г°ГІГ­ГҐГ°Г±ГЄГЁГ© ГЎГ«Г®ГЄ -->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: ГЌГҐГ±ГІГ Г­Г¤Г Г°ГІ -->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -2883,9 +2892,9 @@ var is_gazeta_partners = 0;
 
 <!--ADFOX START -->
 <!--gazetaru_new -->
-<!--Площадка: Gazeta.ru / * / * -->
-<!--Тип баннера: Партнерский блок -->
-<!--Расположение: лево -->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / * -->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЏГ Г°ГІГ­ГҐГ°Г±ГЄГЁГ© ГЎГ«Г®ГЄ -->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: Г«ГҐГўГ® -->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -2918,9 +2927,9 @@ AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/224316/prepareCode?pp=eab&amp;ps=bsjf&
 <!--ADFOX START -->
 <div class="text-left" style="position: relative;"><center>
 <!--gazetaru_new -->
-<!--Площадка: Gazeta.ru / * / * -->
-<!--Тип баннера: 240x400js -->
-<!--Расположение: право -->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / * / * -->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : 240x400js -->
+<!--ГђГ Г±ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ: ГЇГ°Г ГўГ® -->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
@@ -3020,9 +3029,9 @@ $(this).removeClass('js-adv-switcher');
 </script> <div id="article_body" itemprop="articleBody" class="block">
 <div class="article_context">
 <div class="article_text txt_1">
-<p>Тульское научно-производственное объединение &laquo;Сплав&raquo; (входит в госкорпорацию &laquo;Ростех&raquo;) разработало беспилотник, запускаемый в снаряде реактивной системы залпового огня &laquo;Смерч&raquo;, сообщил журналистам генеральный конструктор предприятия Николай Макаровец.</p>
-<p>&laquo;Идея беспилотника, зашитого в боевую часть &laquo;Смерча&raquo;, немолода. Технологически мы за свой счет провели такие работы. Надеемся, что у нас в ближайшее время появятся заказчики&raquo;, &mdash; цитирует Макаровца РИА &laquo;Новости&raquo;.</p>
-<p><span class="idea">Как уточняет агентство, разработка пока ориентирована на экспорт, поскольку в России, по словам директора предприятия, уже определены &laquo;структуры, которые обеспечивают применение беспилотников в интересах армии&raquo;.</span></p>
+<p>Г’ГіГ«ГјГ±ГЄГ®ГҐ Г­Г ГіГ·Г­Г®-ГЇГ°Г®ГЁГ§ГўГ®Г¤Г±ГІГўГҐГ­Г­Г®ГҐ Г®ГЎГєГҐГ¤ГЁГ­ГҐГ­ГЁГҐ &laquo;Г‘ГЇГ«Г Гў&raquo; (ГўГµГ®Г¤ГЁГІ Гў ГЈГ®Г±ГЄГ®Г°ГЇГ®Г°Г Г¶ГЁГѕ &laquo;ГђГ®Г±ГІГҐГµ&raquo;) Г°Г Г§Г°Г ГЎГ®ГІГ Г«Г® ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄ, Г§Г ГЇГіГ±ГЄГ ГҐГ¬Г»Г© Гў Г±Г­Г Г°ГїГ¤ГҐ Г°ГҐГ ГЄГІГЁГўГ­Г®Г© Г±ГЁГ±ГІГҐГ¬Г» Г§Г Г«ГЇГ®ГўГ®ГЈГ® Г®ГЈГ­Гї &laquo;Г‘Г¬ГҐГ°Г·&raquo;, Г±Г®Г®ГЎГ№ГЁГ« Г¦ГіГ°Г­Г Г«ГЁГ±ГІГ Г¬ ГЈГҐГ­ГҐГ°Г Г«ГјГ­Г»Г© ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г° ГЇГ°ГҐГ¤ГЇГ°ГЁГїГІГЁГї ГЌГЁГЄГ®Г«Г Г© ГЊГ ГЄГ Г°Г®ГўГҐГ¶.</p>
+<p>&laquo;Г€Г¤ГҐГї ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄГ , Г§Г ГёГЁГІГ®ГЈГ® Гў ГЎГ®ГҐГўГіГѕ Г·Г Г±ГІГј &laquo;Г‘Г¬ГҐГ°Г·Г &raquo;, Г­ГҐГ¬Г®Г«Г®Г¤Г . Г’ГҐГµГ­Г®Г«Г®ГЈГЁГ·ГҐГ±ГЄГЁ Г¬Г» Г§Г  Г±ГўГ®Г© Г±Г·ГҐГІ ГЇГ°Г®ГўГҐГ«ГЁ ГІГ ГЄГЁГҐ Г°Г ГЎГ®ГІГ». ГЌГ Г¤ГҐГҐГ¬Г±Гї, Г·ГІГ® Гі Г­Г Г± Гў ГЎГ«ГЁГ¦Г Г©ГёГҐГҐ ГўГ°ГҐГ¬Гї ГЇГ®ГїГўГїГІГ±Гї Г§Г ГЄГ Г§Г·ГЁГЄГЁ&raquo;, &mdash; Г¶ГЁГІГЁГ°ГіГҐГІ ГЊГ ГЄГ Г°Г®ГўГ¶Г  ГђГ€ГЂ &laquo;ГЌГ®ГўГ®Г±ГІГЁ&raquo;.</p>
+<p><span class="idea">ГЉГ ГЄ ГіГІГ®Г·Г­ГїГҐГІ Г ГЈГҐГ­ГІГ±ГІГўГ®, Г°Г Г§Г°Г ГЎГ®ГІГЄГ  ГЇГ®ГЄГ  Г®Г°ГЁГҐГ­ГІГЁГ°Г®ГўГ Г­Г  Г­Г  ГЅГЄГ±ГЇГ®Г°ГІ, ГЇГ®Г±ГЄГ®Г«ГјГЄГі Гў ГђГ®Г±Г±ГЁГЁ, ГЇГ® Г±Г«Г®ГўГ Г¬ Г¤ГЁГ°ГҐГЄГІГ®Г°Г  ГЇГ°ГҐГ¤ГЇГ°ГЁГїГІГЁГї, ГіГ¦ГҐ Г®ГЇГ°ГҐГ¤ГҐГ«ГҐГ­Г» &laquo;Г±ГІГ°ГіГЄГІГіГ°Г», ГЄГ®ГІГ®Г°Г»ГҐ Г®ГЎГҐГ±ГЇГҐГ·ГЁГўГ ГѕГІ ГЇГ°ГЁГ¬ГҐГ­ГҐГ­ГЁГҐ ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄГ®Гў Гў ГЁГ­ГІГҐГ°ГҐГ±Г Гµ Г Г°Г¬ГЁГЁ&raquo;.</span></p>
 <!--if expr="$server_name=/pg.gazeta.ru/" -->
 
 <div class="in-read"></div>
@@ -3172,22 +3181,22 @@ Adf.banner.sspScroll('in_read', {
  <div class="incut" > <aside>
 
 <article class="article">
-<a  href="/army/2017/02/26/10545389.shtml"> <img src=" //img.gazeta.ru/files3/395/10545395/shutterstock_463894259-pic410-410x230-43627.jpg" alt="Израиль начнет экспорт дронов с размахом крыла Boing 737" class="pic" />
-</a><h3><a  href="/army/2017/02/26/10545389.shtml">Россия гонится за израильскими дронами
+<a  href="/army/2017/02/26/10545389.shtml"> <img src=" //img.gazeta.ru/files3/395/10545395/shutterstock_463894259-pic410-410x230-43627.jpg" alt="Г€Г§Г°Г ГЁГ«Гј Г­Г Г·Г­ГҐГІ ГЅГЄГ±ГЇГ®Г°ГІ Г¤Г°Г®Г­Г®Гў Г± Г°Г Г§Г¬Г ГµГ®Г¬ ГЄГ°Г»Г«Г  Boing 737" class="pic" />
+</a><h3><a  href="/army/2017/02/26/10545389.shtml">ГђГ®Г±Г±ГЁГї ГЈГ®Г­ГЁГІГ±Гї Г§Г  ГЁГ§Г°Г ГЁГ«ГјГ±ГЄГЁГ¬ГЁ Г¤Г°Г®Г­Г Г¬ГЁ
 </a></h3><p class="intro">
-<a  href="/army/2017/02/26/10545389.shtml">На мировом рынке средневысотных беспилотников с большой продолжительностью полета появилась экспортная версия израильского Heron-TP. Пока в этой...&nbsp;<span class="arrow_read_more_shadow">&rarr;</span></a></p>
+<a  href="/army/2017/02/26/10545389.shtml">ГЌГ  Г¬ГЁГ°Г®ГўГ®Г¬ Г°Г»Г­ГЄГҐ Г±Г°ГҐГ¤Г­ГҐГўГ»Г±Г®ГІГ­Г»Гµ ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄГ®Гў Г± ГЎГ®Г«ГјГёГ®Г© ГЇГ°Г®Г¤Г®Г«Г¦ГЁГІГҐГ«ГјГ­Г®Г±ГІГјГѕ ГЇГ®Г«ГҐГІГ  ГЇГ®ГїГўГЁГ«Г Г±Гј ГЅГЄГ±ГЇГ®Г°ГІГ­Г Гї ГўГҐГ°Г±ГЁГї ГЁГ§Г°Г ГЁГ«ГјГ±ГЄГ®ГЈГ® Heron-TP. ГЏГ®ГЄГ  Гў ГЅГІГ®Г©...&nbsp;<span class="arrow_read_more_shadow">&rarr;</span></a></p>
 
 <!--include virtual="/nm2012/ssi/errmsg_clear.shtml" -->  
 
 </article>
 </aside> </div>
   
-<p>&laquo;Надо в нужное время разделить то, что мы называем боевой частью, надо выбросить беспилотник на парашюте, надо, чтобы он раскрыл крылья, запустился, полетел и передал информацию, &mdash; все это мы умеем делать&raquo;, &mdash; добавил конструктор.</p>
-<p>НПО &laquo;Сплав&raquo; &mdash; основной российский производитель реактивных систем залпового огня. Именно его специалистами были созданы РСЗО &laquo;Град&raquo;, &laquo;Ураган&raquo; и &laquo;Смерч&raquo;.</p>
-<p>Тема создания БЛА, который мог бы запускаться в головной части ракеты РСЗО &laquo;Смерч&raquo;, действительно хорошо известна. Об этом говорили еще более 10 лет назад, объяснил &laquo;Газете.Ru&raquo; главный редактор журнала &laquo;Беспилотная авиация&raquo; Денис Федутинов.</p>
-<p><span class="idea">&laquo;В основе лежит весьма интересная новаторская идея &mdash; создать аппарат для корректировки огня РСЗО, который мог бы быть быстро и с минимальным риском быть сбитым доставлен в район нанесения удара, при этом с максимальным использованием штатных средств&raquo;, &mdash; уточнил эксперт.</span></p>
-<p>По его словам, такую схему предполагалось реализовать, в частности, при создании БЛА &laquo;Типчак&raquo;. В составе этого комплекса должны были быть два типа БЛА &mdash; тихоходный и высокоскоростной, однако реализован был только первый. В работах по беспилотнику участвовала компания «Эникс», затем КБ «Луч».</p>
-<p>&laquo;Типчак&raquo; &mdash; аппарат, специально предназначенный для взаимодействия с артиллерией и запускаемый с катапультной пусковой установки. По данным производителя (концерн &laquo;Вега&raquo;), этот комплекс включает в себя наземный пункт управления с антенной и операторской машинами, транспортно-пусковую машину с контейнерами для шести БЛА, а также машину технического обеспечения. &laquo;Для радиотехнической и химической разведки, ретрансляции и решения других задач в интересах различных силовых структур на борту ДПЛА может устанавливаться любое специальное оборудование массой до 14,5 кг&raquo;, &mdash; уточняется на сайте ОАО &laquo;Вега&raquo;. Диапазон скоростей этого дрона &mdash; 90&ndash;190 км/ч, высоты &mdash; 300&ndash;3000 м, размах крыла &mdash; 3,4 м, длина &mdash; 2,4 м.</p>
+<p>&laquo;ГЌГ Г¤Г® Гў Г­ГіГ¦Г­Г®ГҐ ГўГ°ГҐГ¬Гї Г°Г Г§Г¤ГҐГ«ГЁГІГј ГІГ®, Г·ГІГ® Г¬Г» Г­Г Г§Г»ГўГ ГҐГ¬ ГЎГ®ГҐГўГ®Г© Г·Г Г±ГІГјГѕ, Г­Г Г¤Г® ГўГ»ГЎГ°Г®Г±ГЁГІГј ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄ Г­Г  ГЇГ Г°Г ГёГѕГІГҐ, Г­Г Г¤Г®, Г·ГІГ®ГЎГ» Г®Г­ Г°Г Г±ГЄГ°Г»Г« ГЄГ°Г»Г«ГјГї, Г§Г ГЇГіГ±ГІГЁГ«Г±Гї, ГЇГ®Г«ГҐГІГҐГ« ГЁ ГЇГҐГ°ГҐГ¤Г Г« ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГѕ, &mdash; ГўГ±ГҐ ГЅГІГ® Г¬Г» ГіГ¬ГҐГҐГ¬ Г¤ГҐГ«Г ГІГј&raquo;, &mdash; Г¤Г®ГЎГ ГўГЁГ« ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°.</p>
+<p>ГЌГЏГЋ &laquo;Г‘ГЇГ«Г Гў&raquo; &mdash; Г®Г±Г­Г®ГўГ­Г®Г© Г°Г®Г±Г±ГЁГ©Г±ГЄГЁГ© ГЇГ°Г®ГЁГ§ГўГ®Г¤ГЁГІГҐГ«Гј Г°ГҐГ ГЄГІГЁГўГ­Г»Гµ Г±ГЁГ±ГІГҐГ¬ Г§Г Г«ГЇГ®ГўГ®ГЈГ® Г®ГЈГ­Гї. Г€Г¬ГҐГ­Г­Г® ГҐГЈГ® Г±ГЇГҐГ¶ГЁГ Г«ГЁГ±ГІГ Г¬ГЁ ГЎГ»Г«ГЁ Г±Г®Г§Г¤Г Г­Г» ГђГ‘Г‡ГЋ &laquo;ГѓГ°Г Г¤&raquo;, &laquo;Г“Г°Г ГЈГ Г­&raquo; ГЁ &laquo;Г‘Г¬ГҐГ°Г·&raquo;.</p>
+<p>Г’ГҐГ¬Г  Г±Г®Г§Г¤Г Г­ГЁГї ГЃГ‹ГЂ, ГЄГ®ГІГ®Г°Г»Г© Г¬Г®ГЈ ГЎГ» Г§Г ГЇГіГ±ГЄГ ГІГјГ±Гї Гў ГЈГ®Г«Г®ГўГ­Г®Г© Г·Г Г±ГІГЁ Г°Г ГЄГҐГІГ» ГђГ‘Г‡ГЋ &laquo;Г‘Г¬ГҐГ°Г·&raquo;, Г¤ГҐГ©Г±ГІГўГЁГІГҐГ«ГјГ­Г® ГµГ®Г°Г®ГёГ® ГЁГ§ГўГҐГ±ГІГ­Г . ГЋГЎ ГЅГІГ®Г¬ ГЈГ®ГўГ®Г°ГЁГ«ГЁ ГҐГ№ГҐ ГЎГ®Г«ГҐГҐ 10 Г«ГҐГІ Г­Г Г§Г Г¤, Г®ГЎГєГїГ±Г­ГЁГ« &laquo;ГѓГ Г§ГҐГІГҐ.Ru&raquo; ГЈГ«Г ГўГ­Г»Г© Г°ГҐГ¤Г ГЄГІГ®Г° Г¦ГіГ°Г­Г Г«Г  &laquo;ГЃГҐГ±ГЇГЁГ«Г®ГІГ­Г Гї Г ГўГЁГ Г¶ГЁГї&raquo; Г„ГҐГ­ГЁГ± Г”ГҐГ¤ГіГІГЁГ­Г®Гў.</p>
+<p><span class="idea">&laquo;Г‚ Г®Г±Г­Г®ГўГҐ Г«ГҐГ¦ГЁГІ ГўГҐГ±ГјГ¬Г  ГЁГ­ГІГҐГ°ГҐГ±Г­Г Гї Г­Г®ГўГ ГІГ®Г°Г±ГЄГ Гї ГЁГ¤ГҐГї &mdash; Г±Г®Г§Г¤Г ГІГј Г ГЇГЇГ Г°Г ГІ Г¤Г«Гї ГЄГ®Г°Г°ГҐГЄГІГЁГ°Г®ГўГЄГЁ Г®ГЈГ­Гї ГђГ‘Г‡ГЋ, ГЄГ®ГІГ®Г°Г»Г© Г¬Г®ГЈ ГЎГ» ГЎГ»ГІГј ГЎГ»Г±ГІГ°Г® ГЁ Г± Г¬ГЁГ­ГЁГ¬Г Г«ГјГ­Г»Г¬ Г°ГЁГ±ГЄГ®Г¬ ГЎГ»ГІГј Г±ГЎГЁГІГ»Г¬ Г¤Г®Г±ГІГ ГўГ«ГҐГ­ Гў Г°Г Г©Г®Г­ Г­Г Г­ГҐГ±ГҐГ­ГЁГї ГіГ¤Г Г°Г , ГЇГ°ГЁ ГЅГІГ®Г¬ Г± Г¬Г ГЄГ±ГЁГ¬Г Г«ГјГ­Г»Г¬ ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ Г­ГЁГҐГ¬ ГёГІГ ГІГ­Г»Гµ Г±Г°ГҐГ¤Г±ГІГў&raquo;, &mdash; ГіГІГ®Г·Г­ГЁГ« ГЅГЄГ±ГЇГҐГ°ГІ.</span></p>
+<p>ГЏГ® ГҐГЈГ® Г±Г«Г®ГўГ Г¬, ГІГ ГЄГіГѕ Г±ГµГҐГ¬Гі ГЇГ°ГҐГ¤ГЇГ®Г«Г ГЈГ Г«Г®Г±Гј Г°ГҐГ Г«ГЁГ§Г®ГўГ ГІГј, Гў Г·Г Г±ГІГ­Г®Г±ГІГЁ, ГЇГ°ГЁ Г±Г®Г§Г¤Г Г­ГЁГЁ ГЃГ‹ГЂ &laquo;Г’ГЁГЇГ·Г ГЄ&raquo;. Г‚ Г±Г®Г±ГІГ ГўГҐ ГЅГІГ®ГЈГ® ГЄГ®Г¬ГЇГ«ГҐГЄГ±Г  Г¤Г®Г«Г¦Г­Г» ГЎГ»Г«ГЁ ГЎГ»ГІГј Г¤ГўГ  ГІГЁГЇГ  ГЃГ‹ГЂ &mdash; ГІГЁГµГ®ГµГ®Г¤Г­Г»Г© ГЁ ГўГ»Г±Г®ГЄГ®Г±ГЄГ®Г°Г®Г±ГІГ­Г®Г©, Г®Г¤Г­Г ГЄГ® Г°ГҐГ Г«ГЁГ§Г®ГўГ Г­ ГЎГ»Г« ГІГ®Г«ГјГЄГ® ГЇГҐГ°ГўГ»Г©. Г‚ Г°Г ГЎГ®ГІГ Гµ ГЇГ® ГЎГҐГ±ГЇГЁГ«Г®ГІГ­ГЁГЄГі ГіГ·Г Г±ГІГўГ®ГўГ Г«Г  ГЄГ®Г¬ГЇГ Г­ГЁГї В«ГќГ­ГЁГЄГ±В», Г§Г ГІГҐГ¬ ГЉГЃ В«Г‹ГіГ·В».</p>
+<p>&laquo;Г’ГЁГЇГ·Г ГЄ&raquo; &mdash; Г ГЇГЇГ Г°Г ГІ, Г±ГЇГҐГ¶ГЁГ Г«ГјГ­Г® ГЇГ°ГҐГ¤Г­Г Г§Г­Г Г·ГҐГ­Г­Г»Г© Г¤Г«Гї ГўГ§Г ГЁГ¬Г®Г¤ГҐГ©Г±ГІГўГЁГї Г± Г Г°ГІГЁГ«Г«ГҐГ°ГЁГҐГ© ГЁ Г§Г ГЇГіГ±ГЄГ ГҐГ¬Г»Г© Г± ГЄГ ГІГ ГЇГіГ«ГјГІГ­Г®Г© ГЇГіГ±ГЄГ®ГўГ®Г© ГіГ±ГІГ Г­Г®ГўГЄГЁ. ГЏГ® Г¤Г Г­Г­Г»Г¬ ГЇГ°Г®ГЁГ§ГўГ®Г¤ГЁГІГҐГ«Гї (ГЄГ®Г­Г¶ГҐГ°Г­ &laquo;Г‚ГҐГЈГ &raquo;), ГЅГІГ®ГІ ГЄГ®Г¬ГЇГ«ГҐГЄГ± ГўГЄГ«ГѕГ·Г ГҐГІ Гў Г±ГҐГЎГї Г­Г Г§ГҐГ¬Г­Г»Г© ГЇГіГ­ГЄГІ ГіГЇГ°Г ГўГ«ГҐГ­ГЁГї Г± Г Г­ГІГҐГ­Г­Г®Г© ГЁ Г®ГЇГҐГ°Г ГІГ®Г°Г±ГЄГ®Г© Г¬Г ГёГЁГ­Г Г¬ГЁ, ГІГ°Г Г­Г±ГЇГ®Г°ГІГ­Г®-ГЇГіГ±ГЄГ®ГўГіГѕ Г¬Г ГёГЁГ­Гі Г± ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г Г¬ГЁ Г¤Г«Гї ГёГҐГ±ГІГЁ ГЃГ‹ГЂ, Г  ГІГ ГЄГ¦ГҐ Г¬Г ГёГЁГ­Гі ГІГҐГµГ­ГЁГ·ГҐГ±ГЄГ®ГЈГ® Г®ГЎГҐГ±ГЇГҐГ·ГҐГ­ГЁГї. &laquo;Г„Г«Гї Г°Г Г¤ГЁГ®ГІГҐГµГ­ГЁГ·ГҐГ±ГЄГ®Г© ГЁ ГµГЁГ¬ГЁГ·ГҐГ±ГЄГ®Г© Г°Г Г§ГўГҐГ¤ГЄГЁ, Г°ГҐГІГ°Г Г­Г±Г«ГїГ¶ГЁГЁ ГЁ Г°ГҐГёГҐГ­ГЁГї Г¤Г°ГіГЈГЁГµ Г§Г Г¤Г Г· Гў ГЁГ­ГІГҐГ°ГҐГ±Г Гµ Г°Г Г§Г«ГЁГ·Г­Г»Гµ Г±ГЁГ«Г®ГўГ»Гµ Г±ГІГ°ГіГЄГІГіГ° Г­Г  ГЎГ®Г°ГІГі Г„ГЏГ‹ГЂ Г¬Г®Г¦ГҐГІ ГіГ±ГІГ Г­Г ГўГ«ГЁГўГ ГІГјГ±Гї Г«ГѕГЎГ®ГҐ Г±ГЇГҐГ¶ГЁГ Г«ГјГ­Г®ГҐ Г®ГЎГ®Г°ГіГ¤Г®ГўГ Г­ГЁГҐ Г¬Г Г±Г±Г®Г© Г¤Г® 14,5 ГЄГЈ&raquo;, &mdash; ГіГІГ®Г·Г­ГїГҐГІГ±Гї Г­Г  Г±Г Г©ГІГҐ ГЋГЂГЋ &laquo;Г‚ГҐГЈГ &raquo;. Г„ГЁГ ГЇГ Г§Г®Г­ Г±ГЄГ®Г°Г®Г±ГІГҐГ© ГЅГІГ®ГЈГ® Г¤Г°Г®Г­Г  &mdash; 90&ndash;190 ГЄГ¬/Г·, ГўГ»Г±Г®ГІГ» &mdash; 300&ndash;3000 Г¬, Г°Г Г§Г¬Г Гµ ГЄГ°Г»Г«Г  &mdash; 3,4 Г¬, Г¤Г«ГЁГ­Г  &mdash; 2,4 Г¬.</p>
 
 <!-- place 10523801,/army/2017/02/13/10523801.shtml,nm2015/v2/article/incut,incut2_link -->
 
@@ -3312,24 +3321,24 @@ Adf.banner.sspScroll('in_read', {
  <div class="incut" > <aside>
 
 <article class="article">
-<a  href="/army/2017/02/13/10523801.shtml"> <img src=" //img.gazeta.ru/files3/825/10523825/RIAN_02302664.HR.ru-pic410-410x230-40966.jpg" alt="Украина поставит двигатели для российско-китайского тяжелого вертолета" class="pic" />
-</a><h3><a  href="/army/2017/02/13/10523801.shtml">Китай спасет двигатель Ми-26
+<a  href="/army/2017/02/13/10523801.shtml"> <img src=" //img.gazeta.ru/files3/825/10523825/RIAN_02302664.HR.ru-pic410-410x230-40966.jpg" alt="Г“ГЄГ°Г ГЁГ­Г  ГЇГ®Г±ГІГ ГўГЁГІ Г¤ГўГЁГЈГ ГІГҐГ«ГЁ Г¤Г«Гї Г°Г®Г±Г±ГЁГ©Г±ГЄГ®-ГЄГЁГІГ Г©Г±ГЄГ®ГЈГ® ГІГїГ¦ГҐГ«Г®ГЈГ® ГўГҐГ°ГІГ®Г«ГҐГІГ " class="pic" />
+</a><h3><a  href="/army/2017/02/13/10523801.shtml">ГЉГЁГІГ Г© Г±ГЇГ Г±ГҐГІ Г¤ГўГЁГЈГ ГІГҐГ«Гј ГЊГЁ-26
 </a></h3><p class="intro">
-<a  href="/army/2017/02/13/10523801.shtml">Украинская компания &laquo;Мотор Сич&raquo; примет участие в российско-китайском проекте по созданию нового тяжелого вертолета на базе Ми-26. Это...&nbsp;<span class="arrow_read_more_shadow">&rarr;</span></a></p>
+<a  href="/army/2017/02/13/10523801.shtml">Г“ГЄГ°Г ГЁГ­Г±ГЄГ Гї ГЄГ®Г¬ГЇГ Г­ГЁГї &laquo;ГЊГ®ГІГ®Г° Г‘ГЁГ·&raquo; ГЇГ°ГЁГ¬ГҐГІ ГіГ·Г Г±ГІГЁГҐ Гў Г°Г®Г±Г±ГЁГ©Г±ГЄГ®-ГЄГЁГІГ Г©Г±ГЄГ®Г¬ ГЇГ°Г®ГҐГЄГІГҐ ГЇГ® Г±Г®Г§Г¤Г Г­ГЁГѕ Г­Г®ГўГ®ГЈГ® ГІГїГ¦ГҐГ«Г®ГЈГ® ГўГҐГ°ГІГ®Г«ГҐГІГ  Г­Г  ГЎГ Г§ГҐ ГЊГЁ-26. ГќГІГ®...&nbsp;<span class="arrow_read_more_shadow">&rarr;</span></a></p>
 
 <!--include virtual="/nm2012/ssi/errmsg_clear.shtml" -->  
 
 </article>
 </aside> </div>
   
-<p>Штатная задача &laquo;Типчака&raquo; &mdash; поиск и распознавание объектов на расстояниях до 40 км от пункта управления круглосуточно при температурах от &ndash;40 до +50 &deg;C, рассказывал ранее директор &laquo;Луча&raquo; Михаил Шебакпольский. 4 сентября 2008 года гендиректор концерна &laquo;Вега&raquo; Владимир Верба сообщил, что концерн начинает поставку комплексов &laquo;Типчак&raquo; Вооруженным силам России и первые образцы поступят в войска до конца 2008 года.</p>
-<p>&laquo;Работы начинались во времена, когда тематике беспилотных систем уделялось даже не второстепенное, а третьестепенное внимание. Вероятно, поэтому ее реализация шла очень медленно и в результате так и не была доведена до завершения&raquo;, &mdash; рассказал Федутинов.</p>
-<p>Дальнобойная система &laquo;Смерч&raquo; (индекс Главного ракетно-артиллерийского управления &mdash; 9К58) предназначена для &laquo;поражения на дальних подступах любых групповых целей, уязвимыми элементами которых являются открытая и укрытая живая сила, небронированная, легкобронированная и бронированная техника мотопехотных и танковых рот, подразделений артиллерии, тактических ракет, зенитных комплексов и вертолетов на стоянках, разрушения командных пунктов, узлов связи и объектов военно-промышленной структуры&raquo;, уточняется на сайте компании &laquo;Сплав&raquo;.</p>
-<p><span class="idea">Отличительная особенность РСЗО &laquo;Смерч&raquo; &mdash; наличие системы автономной коррекции траектории полета ракеты, подчеркивает производитель.</span></p>
-<p>Существуют 300-миллиметровые снаряды для &laquo;Смерча&raquo; с осколочными, с кумулятивно-осколочными и самоприцеливающимися боевыми элементами в головной части, а также с отделяемой осколочно-фугасной и термобарической головными частями.</p>
-<p>Максимальная дальность стрельбы &laquo;Смерча&raquo; 800-килограммовыми снарядами составляет 90 км. 12 направляющих заряжаются транспортно-заряжающей машиной за 20 минут. Время перехода из боевого положения в походное &mdash; 3 минуты. Время залпа &mdash; 38 секунд. Время срочного оставления огневой позиции после стрельбы &mdash; 1 минута. Температурный диапазон боевого применения РС от &ndash;50 до +50 &deg;С. Расчет боевой машины &mdash; три человека, транспортно-заряжающей &mdash; два.</p>
-<p><span class="idea">Боевые машины для &laquo;Смерча&raquo; существуют на шасси белорусского автомобиля МАЗ-543А и чешского Тatra 816.</span></p>
-<p>На авиационно-космическом салоне МАКС-2007 впервые был продемонстрирован опытный образец боевой машины для установки &laquo;Смерч&raquo; с шестью направляющими, смонтированной на четырехосном полноприводном шасси семейства «КамАЗ», однако на сайте производителя по-прежнему указаны только две основные комплектации.</p>
+<p>ГГІГ ГІГ­Г Гї Г§Г Г¤Г Г·Г  &laquo;Г’ГЁГЇГ·Г ГЄГ &raquo; &mdash; ГЇГ®ГЁГ±ГЄ ГЁ Г°Г Г±ГЇГ®Г§Г­Г ГўГ Г­ГЁГҐ Г®ГЎГєГҐГЄГІГ®Гў Г­Г  Г°Г Г±Г±ГІГ®ГїГ­ГЁГїГµ Г¤Г® 40 ГЄГ¬ Г®ГІ ГЇГіГ­ГЄГІГ  ГіГЇГ°Г ГўГ«ГҐГ­ГЁГї ГЄГ°ГіГЈГ«Г®Г±ГіГІГ®Г·Г­Г® ГЇГ°ГЁ ГІГҐГ¬ГЇГҐГ°Г ГІГіГ°Г Гµ Г®ГІ &ndash;40 Г¤Г® +50 &deg;C, Г°Г Г±Г±ГЄГ Г§Г»ГўГ Г« Г°Г Г­ГҐГҐ Г¤ГЁГ°ГҐГЄГІГ®Г° &laquo;Г‹ГіГ·Г &raquo; ГЊГЁГµГ ГЁГ« ГГҐГЎГ ГЄГЇГ®Г«ГјГ±ГЄГЁГ©. 4 Г±ГҐГ­ГІГїГЎГ°Гї 2008 ГЈГ®Г¤Г  ГЈГҐГ­Г¤ГЁГ°ГҐГЄГІГ®Г° ГЄГ®Г­Г¶ГҐГ°Г­Г  &laquo;Г‚ГҐГЈГ &raquo; Г‚Г«Г Г¤ГЁГ¬ГЁГ° Г‚ГҐГ°ГЎГ  Г±Г®Г®ГЎГ№ГЁГ«, Г·ГІГ® ГЄГ®Г­Г¶ГҐГ°Г­ Г­Г Г·ГЁГ­Г ГҐГІ ГЇГ®Г±ГІГ ГўГЄГі ГЄГ®Г¬ГЇГ«ГҐГЄГ±Г®Гў &laquo;Г’ГЁГЇГ·Г ГЄ&raquo; Г‚Г®Г®Г°ГіГ¦ГҐГ­Г­Г»Г¬ Г±ГЁГ«Г Г¬ ГђГ®Г±Г±ГЁГЁ ГЁ ГЇГҐГ°ГўГ»ГҐ Г®ГЎГ°Г Г§Г¶Г» ГЇГ®Г±ГІГіГЇГїГІ Гў ГўГ®Г©Г±ГЄГ  Г¤Г® ГЄГ®Г­Г¶Г  2008 ГЈГ®Г¤Г .</p>
+<p>&laquo;ГђГ ГЎГ®ГІГ» Г­Г Г·ГЁГ­Г Г«ГЁГ±Гј ГўГ® ГўГ°ГҐГ¬ГҐГ­Г , ГЄГ®ГЈГ¤Г  ГІГҐГ¬Г ГІГЁГЄГҐ ГЎГҐГ±ГЇГЁГ«Г®ГІГ­Г»Гµ Г±ГЁГ±ГІГҐГ¬ ГіГ¤ГҐГ«ГїГ«Г®Г±Гј Г¤Г Г¦ГҐ Г­ГҐ ГўГІГ®Г°Г®Г±ГІГҐГЇГҐГ­Г­Г®ГҐ, Г  ГІГ°ГҐГІГјГҐГ±ГІГҐГЇГҐГ­Г­Г®ГҐ ГўГ­ГЁГ¬Г Г­ГЁГҐ. Г‚ГҐГ°Г®ГїГІГ­Г®, ГЇГ®ГЅГІГ®Г¬Гі ГҐГҐ Г°ГҐГ Г«ГЁГ§Г Г¶ГЁГї ГёГ«Г  Г®Г·ГҐГ­Гј Г¬ГҐГ¤Г«ГҐГ­Г­Г® ГЁ Гў Г°ГҐГ§ГіГ«ГјГІГ ГІГҐ ГІГ ГЄ ГЁ Г­ГҐ ГЎГ»Г«Г  Г¤Г®ГўГҐГ¤ГҐГ­Г  Г¤Г® Г§Г ГўГҐГ°ГёГҐГ­ГЁГї&raquo;, &mdash; Г°Г Г±Г±ГЄГ Г§Г Г« Г”ГҐГ¤ГіГІГЁГ­Г®Гў.</p>
+<p>Г„Г Г«ГјГ­Г®ГЎГ®Г©Г­Г Гї Г±ГЁГ±ГІГҐГ¬Г  &laquo;Г‘Г¬ГҐГ°Г·&raquo; (ГЁГ­Г¤ГҐГЄГ± ГѓГ«Г ГўГ­Г®ГЈГ® Г°Г ГЄГҐГІГ­Г®-Г Г°ГІГЁГ«Г«ГҐГ°ГЁГ©Г±ГЄГ®ГЈГ® ГіГЇГ°Г ГўГ«ГҐГ­ГЁГї &mdash; 9ГЉ58) ГЇГ°ГҐГ¤Г­Г Г§Г­Г Г·ГҐГ­Г  Г¤Г«Гї &laquo;ГЇГ®Г°Г Г¦ГҐГ­ГЁГї Г­Г  Г¤Г Г«ГјГ­ГЁГµ ГЇГ®Г¤Г±ГІГіГЇГ Гµ Г«ГѕГЎГ»Гµ ГЈГ°ГіГЇГЇГ®ГўГ»Гµ Г¶ГҐГ«ГҐГ©, ГіГїГ§ГўГЁГ¬Г»Г¬ГЁ ГЅГ«ГҐГ¬ГҐГ­ГІГ Г¬ГЁ ГЄГ®ГІГ®Г°Г»Гµ ГїГўГ«ГїГѕГІГ±Гї Г®ГІГЄГ°Г»ГІГ Гї ГЁ ГіГЄГ°Г»ГІГ Гї Г¦ГЁГўГ Гї Г±ГЁГ«Г , Г­ГҐГЎГ°Г®Г­ГЁГ°Г®ГўГ Г­Г­Г Гї, Г«ГҐГЈГЄГ®ГЎГ°Г®Г­ГЁГ°Г®ГўГ Г­Г­Г Гї ГЁ ГЎГ°Г®Г­ГЁГ°Г®ГўГ Г­Г­Г Гї ГІГҐГµГ­ГЁГЄГ  Г¬Г®ГІГ®ГЇГҐГµГ®ГІГ­Г»Гµ ГЁ ГІГ Г­ГЄГ®ГўГ»Гµ Г°Г®ГІ, ГЇГ®Г¤Г°Г Г§Г¤ГҐГ«ГҐГ­ГЁГ© Г Г°ГІГЁГ«Г«ГҐГ°ГЁГЁ, ГІГ ГЄГІГЁГ·ГҐГ±ГЄГЁГµ Г°Г ГЄГҐГІ, Г§ГҐГ­ГЁГІГ­Г»Гµ ГЄГ®Г¬ГЇГ«ГҐГЄГ±Г®Гў ГЁ ГўГҐГ°ГІГ®Г«ГҐГІГ®Гў Г­Г  Г±ГІГ®ГїГ­ГЄГ Гµ, Г°Г Г§Г°ГіГёГҐГ­ГЁГї ГЄГ®Г¬Г Г­Г¤Г­Г»Гµ ГЇГіГ­ГЄГІГ®Гў, ГіГ§Г«Г®Гў Г±ГўГїГ§ГЁ ГЁ Г®ГЎГєГҐГЄГІГ®Гў ГўГ®ГҐГ­Г­Г®-ГЇГ°Г®Г¬Г»ГёГ«ГҐГ­Г­Г®Г© Г±ГІГ°ГіГЄГІГіГ°Г»&raquo;, ГіГІГ®Г·Г­ГїГҐГІГ±Гї Г­Г  Г±Г Г©ГІГҐ ГЄГ®Г¬ГЇГ Г­ГЁГЁ &laquo;Г‘ГЇГ«Г Гў&raquo;.</p>
+<p><span class="idea">ГЋГІГ«ГЁГ·ГЁГІГҐГ«ГјГ­Г Гї Г®Г±Г®ГЎГҐГ­Г­Г®Г±ГІГј ГђГ‘Г‡ГЋ &laquo;Г‘Г¬ГҐГ°Г·&raquo; &mdash; Г­Г Г«ГЁГ·ГЁГҐ Г±ГЁГ±ГІГҐГ¬Г» Г ГўГІГ®Г­Г®Г¬Г­Г®Г© ГЄГ®Г°Г°ГҐГЄГ¶ГЁГЁ ГІГ°Г ГҐГЄГІГ®Г°ГЁГЁ ГЇГ®Г«ГҐГІГ  Г°Г ГЄГҐГІГ», ГЇГ®Г¤Г·ГҐГ°ГЄГЁГўГ ГҐГІ ГЇГ°Г®ГЁГ§ГўГ®Г¤ГЁГІГҐГ«Гј.</span></p>
+<p>Г‘ГіГ№ГҐГ±ГІГўГіГѕГІ 300-Г¬ГЁГ«Г«ГЁГ¬ГҐГІГ°Г®ГўГ»ГҐ Г±Г­Г Г°ГїГ¤Г» Г¤Г«Гї &laquo;Г‘Г¬ГҐГ°Г·Г &raquo; Г± Г®Г±ГЄГ®Г«Г®Г·Г­Г»Г¬ГЁ, Г± ГЄГіГ¬ГіГ«ГїГІГЁГўГ­Г®-Г®Г±ГЄГ®Г«Г®Г·Г­Г»Г¬ГЁ ГЁ Г±Г Г¬Г®ГЇГ°ГЁГ¶ГҐГ«ГЁГўГ ГѕГ№ГЁГ¬ГЁГ±Гї ГЎГ®ГҐГўГ»Г¬ГЁ ГЅГ«ГҐГ¬ГҐГ­ГІГ Г¬ГЁ Гў ГЈГ®Г«Г®ГўГ­Г®Г© Г·Г Г±ГІГЁ, Г  ГІГ ГЄГ¦ГҐ Г± Г®ГІГ¤ГҐГ«ГїГҐГ¬Г®Г© Г®Г±ГЄГ®Г«Г®Г·Г­Г®-ГґГіГЈГ Г±Г­Г®Г© ГЁ ГІГҐГ°Г¬Г®ГЎГ Г°ГЁГ·ГҐГ±ГЄГ®Г© ГЈГ®Г«Г®ГўГ­Г»Г¬ГЁ Г·Г Г±ГІГїГ¬ГЁ.</p>
+<p>ГЊГ ГЄГ±ГЁГ¬Г Г«ГјГ­Г Гї Г¤Г Г«ГјГ­Г®Г±ГІГј Г±ГІГ°ГҐГ«ГјГЎГ» &laquo;Г‘Г¬ГҐГ°Г·Г &raquo; 800-ГЄГЁГ«Г®ГЈГ°Г Г¬Г¬Г®ГўГ»Г¬ГЁ Г±Г­Г Г°ГїГ¤Г Г¬ГЁ Г±Г®Г±ГІГ ГўГ«ГїГҐГІ 90 ГЄГ¬. 12 Г­Г ГЇГ°Г ГўГ«ГїГѕГ№ГЁГµ Г§Г Г°ГїГ¦Г ГѕГІГ±Гї ГІГ°Г Г­Г±ГЇГ®Г°ГІГ­Г®-Г§Г Г°ГїГ¦Г ГѕГ№ГҐГ© Г¬Г ГёГЁГ­Г®Г© Г§Г  20 Г¬ГЁГ­ГіГІ. Г‚Г°ГҐГ¬Гї ГЇГҐГ°ГҐГµГ®Г¤Г  ГЁГ§ ГЎГ®ГҐГўГ®ГЈГ® ГЇГ®Г«Г®Г¦ГҐГ­ГЁГї Гў ГЇГ®ГµГ®Г¤Г­Г®ГҐ &mdash; 3 Г¬ГЁГ­ГіГІГ». Г‚Г°ГҐГ¬Гї Г§Г Г«ГЇГ  &mdash; 38 Г±ГҐГЄГіГ­Г¤. Г‚Г°ГҐГ¬Гї Г±Г°Г®Г·Г­Г®ГЈГ® Г®Г±ГІГ ГўГ«ГҐГ­ГЁГї Г®ГЈГ­ГҐГўГ®Г© ГЇГ®Г§ГЁГ¶ГЁГЁ ГЇГ®Г±Г«ГҐ Г±ГІГ°ГҐГ«ГјГЎГ» &mdash; 1 Г¬ГЁГ­ГіГІГ . Г’ГҐГ¬ГЇГҐГ°Г ГІГіГ°Г­Г»Г© Г¤ГЁГ ГЇГ Г§Г®Г­ ГЎГ®ГҐГўГ®ГЈГ® ГЇГ°ГЁГ¬ГҐГ­ГҐГ­ГЁГї ГђГ‘ Г®ГІ &ndash;50 Г¤Г® +50 &deg;Г‘. ГђГ Г±Г·ГҐГІ ГЎГ®ГҐГўГ®Г© Г¬Г ГёГЁГ­Г» &mdash; ГІГ°ГЁ Г·ГҐГ«Г®ГўГҐГЄГ , ГІГ°Г Г­Г±ГЇГ®Г°ГІГ­Г®-Г§Г Г°ГїГ¦Г ГѕГ№ГҐГ© &mdash; Г¤ГўГ .</p>
+<p><span class="idea">ГЃГ®ГҐГўГ»ГҐ Г¬Г ГёГЁГ­Г» Г¤Г«Гї &laquo;Г‘Г¬ГҐГ°Г·Г &raquo; Г±ГіГ№ГҐГ±ГІГўГіГѕГІ Г­Г  ГёГ Г±Г±ГЁ ГЎГҐГ«Г®Г°ГіГ±Г±ГЄГ®ГЈГ® Г ГўГІГ®Г¬Г®ГЎГЁГ«Гї ГЊГЂГ‡-543ГЂ ГЁ Г·ГҐГёГ±ГЄГ®ГЈГ® Г’atra 816.</span></p>
+<p>ГЌГ  Г ГўГЁГ Г¶ГЁГ®Г­Г­Г®-ГЄГ®Г±Г¬ГЁГ·ГҐГ±ГЄГ®Г¬ Г±Г Г«Г®Г­ГҐ ГЊГЂГЉГ‘-2007 ГўГЇГҐГ°ГўГ»ГҐ ГЎГ»Г« ГЇГ°Г®Г¤ГҐГ¬Г®Г­Г±ГІГ°ГЁГ°Г®ГўГ Г­ Г®ГЇГ»ГІГ­Г»Г© Г®ГЎГ°Г Г§ГҐГ¶ ГЎГ®ГҐГўГ®Г© Г¬Г ГёГЁГ­Г» Г¤Г«Гї ГіГ±ГІГ Г­Г®ГўГЄГЁ &laquo;Г‘Г¬ГҐГ°Г·&raquo; Г± ГёГҐГ±ГІГјГѕ Г­Г ГЇГ°Г ГўГ«ГїГѕГ№ГЁГ¬ГЁ, Г±Г¬Г®Г­ГІГЁГ°Г®ГўГ Г­Г­Г®Г© Г­Г  Г·ГҐГІГ»Г°ГҐГµГ®Г±Г­Г®Г¬ ГЇГ®Г«Г­Г®ГЇГ°ГЁГўГ®Г¤Г­Г®Г¬ ГёГ Г±Г±ГЁ Г±ГҐГ¬ГҐГ©Г±ГІГўГ  В«ГЉГ Г¬ГЂГ‡В», Г®Г¤Г­Г ГЄГ® Г­Г  Г±Г Г©ГІГҐ ГЇГ°Г®ГЁГ§ГўГ®Г¤ГЁГІГҐГ«Гї ГЇГ®-ГЇГ°ГҐГ¦Г­ГҐГ¬Гі ГіГЄГ Г§Г Г­Г» ГІГ®Г«ГјГЄГ® Г¤ГўГҐ Г®Г±Г­Г®ГўГ­Г»ГҐ ГЄГ®Г¬ГЇГ«ГҐГЄГІГ Г¶ГЁГЁ.</p>
 </div>
 </div>
 </div>
@@ -3347,11 +3356,11 @@ Adf.banner.sspScroll('in_read', {
 
 <div class="article-share-name">
 <ul class="social-button-block">
-<li class="fb-share social-button"><a rel="nofollow" title="Поделиться в Facebook" href="//www.facebook.com/dialog/share?app_id=406317839387165&utm_source=fbsharing&utm_medium=social&href=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="fb_counter"></span></a></li>
-<li class="vk-share social-button"><a rel="nofollow" title="Поделиться в Vkontakte" href="//vk.com/share.php?utm_source=vksharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="vk_counter"></span></a></li>
-<li class="ok-share social-button"><a rel="nofollow" class="soc_ok" title="Поделиться в Одноклассники" href="//www.odnoklassniki.ru/dk?utm_source=oksharing&utm_medium=social&st.cmd=addShare&st.s=1&st._surl=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="ok_counter"></span></a></li>
-<li class="twi-share social-button"><a rel="nofollow" class="soc_twi" title="Поделиться в Twitter" href="//twitter.com/intent/tweet?via=gazetaru&utm_source=twsharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"></a></li>
-<li class="lj-share social-button"><a rel="nofollow" class="soc_lj" title="Поделиться в ЖЖ" href="//www.livejournal.com/update.bml?&event=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank" class="btn_soc_lj"></a></li>
+<li class="fb-share social-button"><a rel="nofollow" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Facebook" href="//www.facebook.com/dialog/share?app_id=406317839387165&utm_source=fbsharing&utm_medium=social&href=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="fb_counter"></span></a></li>
+<li class="vk-share social-button"><a rel="nofollow" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Vkontakte" href="//vk.com/share.php?utm_source=vksharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="vk_counter"></span></a></li>
+<li class="ok-share social-button"><a rel="nofollow" class="soc_ok" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў ГЋГ¤Г­Г®ГЄГ«Г Г±Г±Г­ГЁГЄГЁ" href="//www.odnoklassniki.ru/dk?utm_source=oksharing&utm_medium=social&st.cmd=addShare&st.s=1&st._surl=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"><span class="ok_counter"></span></a></li>
+<li class="twi-share social-button"><a rel="nofollow" class="soc_twi" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Twitter" href="//twitter.com/intent/tweet?via=gazetaru&utm_source=twsharing&utm_medium=social&url=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank"></a></li>
+<li class="lj-share social-button"><a rel="nofollow" class="soc_lj" title="ГЏГ®Г¤ГҐГ«ГЁГІГјГ±Гї Гў Г†Г†" href="//www.livejournal.com/update.bml?&event=https://www.gazeta.ru/army/2017/02/28/10549073.shtml" target="_blank" class="btn_soc_lj"></a></li>
 </ul>
 </div>
 
@@ -3418,7 +3427,7 @@ location.hash = "comments";
 
 
 
-<!-- Код инициализации виджета -->
+<!-- ГЉГ®Г¤ ГЁГ­ГЁГ¶ГЁГ Г«ГЁГ§Г Г¶ГЁГЁ ГўГЁГ¤Г¦ГҐГІГ  -->
 window.RamblerComments = window.RamblerComments || [];
 window.RamblerComments.push(function () {
 var container = document.getElementById('my_comments');
@@ -3426,7 +3435,7 @@ window.RamblerComments.buildWidget('Comments', container, {
 appId: 3,
 xid: "10549073"
 }).then(function (widget) {
-// В этот момент виджет уже загружен и отрисован на вашей странице
+// Г‚ ГЅГІГ®ГІ Г¬Г®Г¬ГҐГ­ГІ ГўГЁГ¤Г¦ГҐГІ ГіГ¦ГҐ Г§Г ГЈГ°ГіГ¦ГҐГ­ ГЁ Г®ГІГ°ГЁГ±Г®ГўГ Г­ Г­Г  ГўГ ГёГҐГ© Г±ГІГ°Г Г­ГЁГ¶ГҐ
 });
 });
 
@@ -3492,7 +3501,7 @@ Adf.banner.sspScroll('ban_100x240', {
 <section>
 <div class="b-white sausage sausage-pants mb20">
 <div class="sausage-header no-hover sausage-header-pants icon-topnews mb10">
-Выбор читателей
+Г‚Г»ГЎГ®Г° Г·ГЁГІГ ГІГҐГ«ГҐГ©
 </div>
 <ul class="sausage-list sausage-list-pants mb20 s-utm-links-readers-choose">  
 
@@ -3543,9 +3552,9 @@ Adf.banner.sspScroll('ban_100x240', {
 <a href="/auto/news/2017/02/27/n_9735311.shtml">
 <span class="sausage-list-item-info comments">
 <span class="comments-quantity">155394</span>
-&nbsp;просмотра
+&nbsp;ГЇГ°Г®Г±Г¬Г®ГІГ°Г 
 </span>
-Друг семьи Николая Караченцова рассказал о подробностях аварии
+Г„Г°ГіГЈ Г±ГҐГ¬ГјГЁ ГЌГЁГЄГ®Г«Г Гї ГЉГ Г°Г Г·ГҐГ­Г¶Г®ГўГ  Г°Г Г±Г±ГЄГ Г§Г Г« Г® ГЇГ®Г¤Г°Г®ГЎГ­Г®Г±ГІГїГµ Г ГўГ Г°ГЁГЁ
 &nbsp;<span class="i-link-arrow">
 </a>
 </li>
@@ -3600,9 +3609,9 @@ Adf.banner.sspScroll('ban_100x240', {
 <a href="/sport/news/2017/02/28/n_9736709.shtml">
 <span class="sausage-list-item-info comments">
 <span class="comments-quantity">101280</span>
-&nbsp;просмотров
+&nbsp;ГЇГ°Г®Г±Г¬Г®ГІГ°Г®Гў
 </span>
-Стала известна причина смерти легендарного хоккеиста Владимира Петрова
+Г‘ГІГ Г«Г  ГЁГ§ГўГҐГ±ГІГ­Г  ГЇГ°ГЁГ·ГЁГ­Г  Г±Г¬ГҐГ°ГІГЁ Г«ГҐГЈГҐГ­Г¤Г Г°Г­Г®ГЈГ® ГµГ®ГЄГЄГҐГЁГ±ГІГ  Г‚Г«Г Г¤ГЁГ¬ГЁГ°Г  ГЏГҐГІГ°Г®ГўГ 
 &nbsp;<span class="i-link-arrow">
 </a>
 </li>
@@ -3653,9 +3662,9 @@ Adf.banner.sspScroll('ban_100x240', {
 <a href="/politics/news/2017/02/28/n_9736145.shtml">
 <span class="sausage-list-item-info comments">
 <span class="comments-quantity">79880</span>
-&nbsp;просмотров
+&nbsp;ГЇГ°Г®Г±Г¬Г®ГІГ°Г®Гў
 </span>
-В ООН прокомментировали признание Россией паспортов ДНР и ЛНР
+Г‚ ГЋГЋГЌ ГЇГ°Г®ГЄГ®Г¬Г¬ГҐГ­ГІГЁГ°Г®ГўГ Г«ГЁ ГЇГ°ГЁГ§Г­Г Г­ГЁГҐ ГђГ®Г±Г±ГЁГҐГ© ГЇГ Г±ГЇГ®Г°ГІГ®Гў Г„ГЌГђ ГЁ Г‹ГЌГђ
 &nbsp;<span class="i-link-arrow">
 </a>
 </li>
@@ -3709,9 +3718,9 @@ Adf.banner.sspScroll('ban_100x240', {
 <a href="/auto/news/2017/02/28/n_9735827.shtml">
 <span class="sausage-list-item-info comments">
 <span class="comments-quantity">51004</span>
-&nbsp;просмотра
+&nbsp;ГЇГ°Г®Г±Г¬Г®ГІГ°Г 
 </span>
-Появилось видео с места ДТП с участием Николая Караченцова
+ГЏГ®ГїГўГЁГ«Г®Г±Гј ГўГЁГ¤ГҐГ® Г± Г¬ГҐГ±ГІГ  Г„Г’ГЏ Г± ГіГ·Г Г±ГІГЁГҐГ¬ ГЌГЁГЄГ®Г«Г Гї ГЉГ Г°Г Г·ГҐГ­Г¶Г®ГўГ 
 &nbsp;<span class="i-link-arrow">
 </a>
 </li>
@@ -3762,9 +3771,9 @@ Adf.banner.sspScroll('ban_100x240', {
 <a href="/politics/news/2017/02/27/n_9733973.shtml">
 <span class="sausage-list-item-info comments">
 <span class="comments-quantity">42646</span>
-&nbsp;просмотров
+&nbsp;ГЇГ°Г®Г±Г¬Г®ГІГ°Г®Гў
 </span>
-Депутат Рады: Крым должны были передать США
+Г„ГҐГЇГіГІГ ГІ ГђГ Г¤Г»: ГЉГ°Г»Г¬ Г¤Г®Г«Г¦Г­Г» ГЎГ»Г«ГЁ ГЇГҐГ°ГҐГ¤Г ГІГј Г‘ГГЂ
 &nbsp;<span class="i-link-arrow">
 </a>
 </li>
@@ -3878,10 +3887,10 @@ re("https://api.rnet.plus/", [
 </noindex>
 
 <div id="subscribe" class="mu20 pu20 pd20 pl20 pr20 bggrey">
-<h2>Самое актуальное и интересное на ваш e-mail. Подпишитесь на «Газету.Ru»</h2>
+<h2>Г‘Г Г¬Г®ГҐ Г ГЄГІГіГ Г«ГјГ­Г®ГҐ ГЁ ГЁГ­ГІГҐГ°ГҐГ±Г­Г®ГҐ Г­Г  ГўГ Гё e-mail. ГЏГ®Г¤ГЇГЁГёГЁГІГҐГ±Гј Г­Г  В«ГѓГ Г§ГҐГІГі.RuВ»</h2>
 <form class="mu20" onsubmit="set_pass(); return false;">
 <input id="register_login_old" name="login" type="text" placeholder="E-mail"/>
-<input type="button" onclick="set_pass()" value="подписаться"/>
+<input type="button" onclick="set_pass()" value="ГЇГ®Г¤ГЇГЁГ±Г ГІГјГ±Гї"/>
 </form>
 <img src="https://ads.adfox.ru/224316/getCode?p1=bngvu&p2=v&pe=b&pfc=zstg&pfb=crpzf&pr=epxciea" height="1" width="1"/>
 </div>
@@ -3915,16 +3924,16 @@ $('form input[id="register_login"]').css('border','1px solid #af242c');
 return false;
 } else if (json.msg == "bad_email"){
 $('form input[id="register_login"]').css('border','1px solid #af242c');
-alert('Вы указали некорректный E-mail');
+alert('Г‚Г» ГіГЄГ Г§Г Г«ГЁ Г­ГҐГЄГ®Г°Г°ГҐГЄГІГ­Г»Г© E-mail');
 return false;
 } else if (json.ok != 0){
 $('#subscribe').html('');
-$('#subscribe').html('<h2>Спасибо! Мы отправили вам письмо для подтверждения.</h2>');
-alert('Спасибо! Мы отправили вам письмо для подтверждения.');
+$('#subscribe').html('<h2>Г‘ГЇГ Г±ГЁГЎГ®! ГЊГ» Г®ГІГЇГ°Г ГўГЁГ«ГЁ ГўГ Г¬ ГЇГЁГ±ГјГ¬Г® Г¤Г«Гї ГЇГ®Г¤ГІГўГҐГ°Г¦Г¤ГҐГ­ГЁГї.</h2>');
+alert('Г‘ГЇГ Г±ГЁГЎГ®! ГЊГ» Г®ГІГЇГ°Г ГўГЁГ«ГЁ ГўГ Г¬ ГЇГЁГ±ГјГ¬Г® Г¤Г«Гї ГЇГ®Г¤ГІГўГҐГ°Г¦Г¤ГҐГ­ГЁГї.');
 } else {
 $('#subscribe').html('');
-$('#subscribe').html('<h2>Вы уже получаете нашу рассылку. Оставайтесь с нами!</h2>');
-alert('Вы уже получаете нашу рассылку. Оставайтесь с нами!');
+$('#subscribe').html('<h2>Г‚Г» ГіГ¦ГҐ ГЇГ®Г«ГіГ·Г ГҐГІГҐ Г­Г ГёГі Г°Г Г±Г±Г»Г«ГЄГі. ГЋГ±ГІГ ГўГ Г©ГІГҐГ±Гј Г± Г­Г Г¬ГЁ!</h2>');
+alert('Г‚Г» ГіГ¦ГҐ ГЇГ®Г«ГіГ·Г ГҐГІГҐ Г­Г ГёГі Г°Г Г±Г±Г»Г«ГЄГі. ГЋГ±ГІГ ГўГ Г©ГІГҐГ±Гј Г± Г­Г Г¬ГЁ!');
 }
 }
 });
@@ -4002,55 +4011,55 @@ checkRamblerKassaBlocks();
 <div class="footer_mark"></div>
 <div class="b-navbar m-navbar_level1">
 <ul>
-<li><a rel="nofollow" href="/history.shtml" class="stripe">Архив</a></li>
-<li><a rel="nofollow" href="/about/" class="stripe">Редакция</a></li>
-<li><a rel="nofollow" href="/feedback/" class="stripe">Обратная связь</a></li>
-<li><a rel="nofollow" href="/infographics/" class="stripe">Инфографика</a></li>
-<li><a rel="nofollow" href="/sitemap.shtml" class="stripe">Карта сайта</a></li>
-<li><a rel="nofollow" href="/conference/" class="stripe">Онлайн-конференции</a></li>
-<li><a rel="nofollow" href="/adbook/" class="stripe">Реклама</a></li>
-<li><a href="//m.gazeta.ru/army/2017/02/28/10549073.shtml" class="stripe">Мобильная версия</a></li>
+<li><a rel="nofollow" href="/history.shtml" class="stripe">ГЂГ°ГµГЁГў</a></li>
+<li><a rel="nofollow" href="/about/" class="stripe">ГђГҐГ¤Г ГЄГ¶ГЁГї</a></li>
+<li><a rel="nofollow" href="/feedback/" class="stripe">ГЋГЎГ°Г ГІГ­Г Гї Г±ГўГїГ§Гј</a></li>
+<li><a rel="nofollow" href="/infographics/" class="stripe">Г€Г­ГґГ®ГЈГ°Г ГґГЁГЄГ </a></li>
+<li><a rel="nofollow" href="/sitemap.shtml" class="stripe">ГЉГ Г°ГІГ  Г±Г Г©ГІГ </a></li>
+<li><a rel="nofollow" href="/conference/" class="stripe">ГЋГ­Г«Г Г©Г­-ГЄГ®Г­ГґГҐГ°ГҐГ­Г¶ГЁГЁ</a></li>
+<li><a rel="nofollow" href="/adbook/" class="stripe">ГђГҐГЄГ«Г Г¬Г </a></li>
+<li><a href="//m.gazeta.ru/army/2017/02/28/10549073.shtml" class="stripe">ГЊГ®ГЎГЁГ«ГјГ­Г Гї ГўГҐГ°Г±ГЁГї</a></li>
 </ul>
 </div>
 <div class="bottom_logo" itemscope itemtype="http://schema.org/ImageObject" itemid="https://www.gazeta.ru/#gazetaLogo">
 <link itemprop="url" href="https://www.gazeta.ru/nm2015/i/389x60.png" />
-<a href="/" title="Газета.Ru"><img itemprop="contentUrl" src="https://www.gazeta.ru/nm2015/i/logo_gazeta.svg" width="240"></a>
+<a href="/" title="ГѓГ Г§ГҐГІГ .Ru"><img itemprop="contentUrl" src="https://www.gazeta.ru/nm2015/i/logo_gazeta.svg" width="240"></a>
 <span>18+</span>
 </div>
 <div class="bottom_icons">
 <a rel="nofollow" href="//www.facebook.com/gazeta.ru" title="Facebook" class="fb_i" target="_blank"></a>
 <a rel="nofollow" href="//www.twitter.com/gazetaru" title="Twitter" class="tw_i" target="_blank"></a>
-<a rel="nofollow" href="//vk.com/gazeta" title="ВКонтакте" class="vk_i" target="_blank"></a>
+<a rel="nofollow" href="//vk.com/gazeta" title="Г‚ГЉГ®Г­ГІГ ГЄГІГҐ" class="vk_i" target="_blank"></a>
 <a rel="nofollow" href="//plus.google.com/b/105541962280031022515/105541962280031022515/posts" title="Google+" class="gp_i" target="_blank"></a>
-<a rel="nofollow" href="//www.odnoklassniki.ru/gazetaru" title="Одноклассники" class="ok_i" target="_blank"></a>
+<a rel="nofollow" href="//www.odnoklassniki.ru/gazetaru" title="ГЋГ¤Г­Г®ГЄГ«Г Г±Г±Г­ГЁГЄГЁ" class="ok_i" target="_blank"></a>
 <a rel="nofollow" href="//www.youtube.com/user/gazetaru" title="Youtube" class="yt_i" target="_blank"></a>
 <a rel="nofollow" href="//lj.gazeta.ru/" title="LiveJournal" class="lj_i" target="_blank"></a>
 </div>
 <ul class="bottom_partners">
-<li><a rel="nofollow" target="_blank" href="//thomsonreuters.com/products_services/media/brand_guidelines/legal_notice/"><img src="//static.gazeta.ru/nm2012/i/reuters_a2.png">Информация об&nbsp;ограничениях</a></li>
-<li><a rel="nofollow" target="_blank" href="//www.1prime.ru"><img style="position: relative;top: 4px;" src="//gazeta.ru/nm2015/i/prime_logo2.png">Информация об&nbsp;ограничениях</a></li>
-<li><a rel="nofollow" target="_blank" href="/interfax.shtml"><img src="//static.gazeta.ru/nm2012/i/interfax_a2.png">Информация об&nbsp;ограничениях</a></li>
-<li><a rel="nofollow" target="_blank" href="//ria.ru/docs/about/copyright.html"><img src="/nm2015/i/ria.png">Информация об&nbsp;ограничениях</a></li>
-<li><a rel="nofollow" target="_blank" href="//tass.ru/pravila-citirovaniya"><img src="//static.gazeta.ru/nm2012/i/it_a3.png">Информация об&nbsp;ограничениях</a></li>
-<li><a rel="nofollow" target="_blank" href="/responsibility.shtml"><img src="//static.gazeta.ru/nm2012/i/lj_a2.png">Отказ от&nbsp;ответственности</a></li>
+<li><a rel="nofollow" target="_blank" href="//thomsonreuters.com/products_services/media/brand_guidelines/legal_notice/"><img src="//static.gazeta.ru/nm2012/i/reuters_a2.png">Г€Г­ГґГ®Г°Г¬Г Г¶ГЁГї Г®ГЎ&nbsp;Г®ГЈГ°Г Г­ГЁГ·ГҐГ­ГЁГїГµ</a></li>
+<li><a rel="nofollow" target="_blank" href="//www.1prime.ru"><img style="position: relative;top: 4px;" src="//gazeta.ru/nm2015/i/prime_logo2.png">Г€Г­ГґГ®Г°Г¬Г Г¶ГЁГї Г®ГЎ&nbsp;Г®ГЈГ°Г Г­ГЁГ·ГҐГ­ГЁГїГµ</a></li>
+<li><a rel="nofollow" target="_blank" href="/interfax.shtml"><img src="//static.gazeta.ru/nm2012/i/interfax_a2.png">Г€Г­ГґГ®Г°Г¬Г Г¶ГЁГї Г®ГЎ&nbsp;Г®ГЈГ°Г Г­ГЁГ·ГҐГ­ГЁГїГµ</a></li>
+<li><a rel="nofollow" target="_blank" href="//ria.ru/docs/about/copyright.html"><img src="/nm2015/i/ria.png">Г€Г­ГґГ®Г°Г¬Г Г¶ГЁГї Г®ГЎ&nbsp;Г®ГЈГ°Г Г­ГЁГ·ГҐГ­ГЁГїГµ</a></li>
+<li><a rel="nofollow" target="_blank" href="//tass.ru/pravila-citirovaniya"><img src="//static.gazeta.ru/nm2012/i/it_a3.png">Г€Г­ГґГ®Г°Г¬Г Г¶ГЁГї Г®ГЎ&nbsp;Г®ГЈГ°Г Г­ГЁГ·ГҐГ­ГЁГїГµ</a></li>
+<li><a rel="nofollow" target="_blank" href="/responsibility.shtml"><img src="//static.gazeta.ru/nm2012/i/lj_a2.png">ГЋГІГЄГ Г§ Г®ГІ&nbsp;Г®ГІГўГҐГІГ±ГІГўГҐГ­Г­Г®Г±ГІГЁ</a></li>
 </ul>
 <div class="bottom_info" itemid="https://www.gazeta.ru/#organization" itemscope itemtype="http://schema.org/Organization">
 <link itemprop="url" href="https://www.gazeta.ru/" />
 <link itemprop="logo" href="https://www.gazeta.ru/#gazetaLogo">
-<p class="pb10">&copy; АО &laquo;Газета.Ру&raquo; (1999-2017) - Главные новости дня</p>
-<p>Учредитель: <span itemprop="name">АО &laquo;Газета.Ру&raquo;</span></p>
-<p>Адрес учредителя: 125239, Россия, Москва, Коптевская улица, дом 67</p>
-<p>Адрес редакции и издателя: 117105, г. Москва, Варшавское шоссе, д.9, стр.1Б</p>
-<p>Телефон редакции: +7 (495) 785-00-12 | Факс: +7 (495) 785-17-01</p>
+<p class="pb10">&copy; ГЂГЋ &laquo;ГѓГ Г§ГҐГІГ .ГђГі&raquo; (1999-2017) - ГѓГ«Г ГўГ­Г»ГҐ Г­Г®ГўГ®Г±ГІГЁ Г¤Г­Гї</p>
+<p>Г“Г·Г°ГҐГ¤ГЁГІГҐГ«Гј: <span itemprop="name">ГЂГЋ &laquo;ГѓГ Г§ГҐГІГ .ГђГі&raquo;</span></p>
+<p>ГЂГ¤Г°ГҐГ± ГіГ·Г°ГҐГ¤ГЁГІГҐГ«Гї: 125239, ГђГ®Г±Г±ГЁГї, ГЊГ®Г±ГЄГўГ , ГЉГ®ГЇГІГҐГўГ±ГЄГ Гї ГіГ«ГЁГ¶Г , Г¤Г®Г¬ 67</p>
+<p>ГЂГ¤Г°ГҐГ± Г°ГҐГ¤Г ГЄГ¶ГЁГЁ ГЁ ГЁГ§Г¤Г ГІГҐГ«Гї: 117105, ГЈ. ГЊГ®Г±ГЄГўГ , Г‚Г Г°ГёГ ГўГ±ГЄГ®ГҐ ГёГ®Г±Г±ГҐ, Г¤.9, Г±ГІГ°.1ГЃ</p>
+<p>Г’ГҐГ«ГҐГґГ®Г­ Г°ГҐГ¤Г ГЄГ¶ГЁГЁ: +7 (495) 785-00-12 | Г”Г ГЄГ±: +7 (495) 785-17-01</p>
 <link itemprop="sameAs" href="https://www.facebook.com/gazeta.ru" />
 <link itemprop="sameAs" href="https://twitter.com/gazetaru" />
 <link itemprop="sameAs" href="https://vk.com/gazeta" />
 <link itemprop="sameAs" href="https://telegram.me/gazetaru" />
 <link itemprop="sameAs" href="https://ok.ru/gazetaru" />
-<p class="pb10">Свидетельство о регистрации СМИ Эл № ФС77-67642 выдано федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 10.11.2016 г.</p>
-<p>Редакция не несет ответственности за достоверность информации, содержащейся в рекламных объявлениях. Редакция не предоставляет справочной информации.</p>
-<p><a class="red" href="/credits.shtml" class="red">Информация об ограничениях</a></p>
-<p><a href="//www.rambler.ru/">Партнер Рамблера</a></p>
+<p class="pb10">Г‘ГўГЁГ¤ГҐГІГҐГ«ГјГ±ГІГўГ® Г® Г°ГҐГЈГЁГ±ГІГ°Г Г¶ГЁГЁ Г‘ГЊГ€ ГќГ« В№ Г”Г‘77-67642 ГўГ»Г¤Г Г­Г® ГґГҐГ¤ГҐГ°Г Г«ГјГ­Г®Г© Г±Г«ГіГ¦ГЎГ®Г© ГЇГ® Г­Г Г¤Г§Г®Г°Гі Гў Г±ГґГҐГ°ГҐ Г±ГўГїГ§ГЁ, ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГ®Г­Г­Г»Гµ ГІГҐГµГ­Г®Г«Г®ГЈГЁГ© ГЁ Г¬Г Г±Г±Г®ГўГ»Гµ ГЄГ®Г¬Г¬ГіГ­ГЁГЄГ Г¶ГЁГ© (ГђГ®Г±ГЄГ®Г¬Г­Г Г¤Г§Г®Г°) 10.11.2016 ГЈ.</p>
+<p>ГђГҐГ¤Г ГЄГ¶ГЁГї Г­ГҐ Г­ГҐГ±ГҐГІ Г®ГІГўГҐГІГ±ГІГўГҐГ­Г­Г®Г±ГІГЁ Г§Г  Г¤Г®Г±ГІГ®ГўГҐГ°Г­Г®Г±ГІГј ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГЁ, Г±Г®Г¤ГҐГ°Г¦Г Г№ГҐГ©Г±Гї Гў Г°ГҐГЄГ«Г Г¬Г­Г»Гµ Г®ГЎГєГїГўГ«ГҐГ­ГЁГїГµ. ГђГҐГ¤Г ГЄГ¶ГЁГї Г­ГҐ ГЇГ°ГҐГ¤Г®Г±ГІГ ГўГ«ГїГҐГІ Г±ГЇГ°Г ГўГ®Г·Г­Г®Г© ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГЁ.</p>
+<p><a class="red" href="/credits.shtml" class="red">Г€Г­ГґГ®Г°Г¬Г Г¶ГЁГї Г®ГЎ Г®ГЈГ°Г Г­ГЁГ·ГҐГ­ГЁГїГµ</a></p>
+<p><a href="//www.rambler.ru/">ГЏГ Г°ГІГ­ГҐГ° ГђГ Г¬ГЎГ«ГҐГ°Г </a></p>
 </div>
 <noindex>
 
@@ -4062,7 +4071,7 @@ checkRamblerKassaBlocks();
 <script src="//st.top100.ru/top100/top100.js"></script>
 <script type="text/javascript">
 window.top100Counter = new top100({
-project: '46589', // ID проекта
+project: '46589', // ID ГЇГ°Г®ГҐГЄГІГ 
 attributes_dataset: ['cerber-event', 'cerber-topline']
 });
 </script>
@@ -4073,7 +4082,7 @@ attributes_dataset: ['cerber-event', 'cerber-topline']
 </div>
 <!--LiveInternet logo -->
 <a href="//www.liveinternet.ru/click;gazeta_all" target="_blank">
-<img style="margin:0 60px;" src="//counter.yadro.ru/logo;gazeta_all?14.6" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" border="0" width="88" height="31"/>
+<img style="margin:0 60px;" src="//counter.yadro.ru/logo;gazeta_all?14.6" title="LiveInternet: ГЇГ®ГЄГ Г§Г Г­Г® Г·ГЁГ±Г«Г® ГЇГ°Г®Г±Г¬Г®ГІГ°Г®Гў Г§Г  24 Г·Г Г±Г , ГЇГ®Г±ГҐГІГЁГІГҐГ«ГҐГ© Г§Г  24 Г·Г Г±Г  ГЁ Г§Г  Г±ГҐГЈГ®Г¤Г­Гї" alt="" border="0" width="88" height="31"/>
 </a>
 <!--/LiveInternet -->
 <!-- Rating@Mail.ru counter -->
@@ -4088,7 +4097,7 @@ var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.i
 if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
 })(document, window, "topmailru-code");
 </script><noscript><div style="position:absolute;left:-10000px;">
-<img src="//top-fwz1.mail.ru/counter?id=8821;js=na" style="border:0;" height="1" width="1" alt="&#8211;ейтинг@Mail.ru" />
+<img src="//top-fwz1.mail.ru/counter?id=8821;js=na" style="border:0;" height="1" width="1" alt="&#8211;ГҐГ©ГІГЁГ­ГЈ@Mail.ru" />
 </div></noscript>
 <!-- //Rating@Mail.ru counter -->
 </div>
@@ -4132,9 +4141,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc
 
 <!--AdFox START-->
 <!--sup-com-->
-<!--Площадка: Gazeta.ru / zaglushki / Тест пиксель-->
-<!--Категория: <не задана>-->
-<!--Тип баннера: 1x1js-->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / zaglushki / Г’ГҐГ±ГІ ГЇГЁГЄГ±ГҐГ«Гј-->
+<!--ГЉГ ГІГҐГЈГ®Г°ГЁГї: <Г­ГҐ Г§Г Г¤Г Г­Г >-->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : 1x1js-->
 <script type="text/javascript">
 <!--
 if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
@@ -4166,9 +4175,9 @@ document.write('<scr' + 'ipt type="text/javascript" src="https://ads.adfox.ru/17
 
 <!--AdFox START-->
 <!--sup-com-->
-<!--Площадка: Gazeta.ru / main / async-->
-<!--Категория: <не задана>-->
-<!--Тип баннера: Код вставки-->
+<!--ГЏГ«Г®Г№Г Г¤ГЄГ : Gazeta.ru / main / async-->
+<!--ГЉГ ГІГҐГЈГ®Г°ГЁГї: <Г­ГҐ Г§Г Г¤Г Г­Г >-->
+<!--Г’ГЁГЇ ГЎГ Г­Г­ГҐГ°Г : ГЉГ®Г¤ ГўГ±ГІГ ГўГЄГЁ-->
 <!-- ________________________AdFox Asynchronous code START__________________________ -->
 <script type="text/javascript">
 <!--
